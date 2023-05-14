@@ -1,0 +1,2110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openATV / MyMetrixLite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-07 12:20+0100\n"
+"PO-Revision-Date: 2023-03-29 06:40+0000\n"
+"Last-Translator: Petr Turek <turekdesign99@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17-dev\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid ""
+"\n"
+"(No preview picture available.)"
+msgstr ""
+"\n"
+"(žádný náhled, obrázek není dostupný)"
+
+#, python-format
+msgid ""
+"\n"
+"(One or more %s icons are missing.)\n"
+"\n"
+msgstr ""
+"\n"
+"(Chybí jedna nebo více ikon %s.)\n"
+"\n"
+
+#, python-format
+msgid ""
+"\n"
+"Maybe is a compatibility issue with %s resolution.\n"
+"Attention: The osd-error occurs first after gui or system restart!\n"
+"\n"
+"Do you want really change from %s to %s - skin?"
+msgstr ""
+"\n"
+"Možný problém s kompatibilitou při rozlišení %s.\n"
+"Upozornění: OSD chyba nastane hned po restarte GUI nebo systému!\n"
+"\n"
+"Opravdu si přejete změnit z %s na %s vzhled?"
+
+msgid ""
+"\n"
+"Press 'OK-Button'"
+msgstr ""
+"\n"
+"Zmáčkněte tlačítko 'OK'"
+
+msgid " "
+msgstr " "
+
+msgid "     "
+msgstr "     "
+
+msgid " - box support unknown"
+msgstr " - podpora neznámá"
+
+msgid ""
+"!!! If your receiver not compatible is a crash possible !!!\n"
+"\n"
+"Choose 'yes', then starts the resolution test.\n"
+"The old resolution will automatically restored after 10 seconds."
+msgstr ""
+"!!! Jestliže není váš přijímač kompatibilní je možné selhání systému !!!\n"
+"\n"
+" Zvolte 'Ano' a provede se test rozlišení.\n"
+" Původní rozlišení bude automaticky obnoveno po 10 sekundách."
+
+msgid "!!! Recording(s) are in progress or coming up in few minutes !!!"
+msgstr "!!! Nahrávání právě probíhá nebo začne během několika minut !!!"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d minut"
+
+msgid ""
+"'\n"
+"in the\n"
+"'"
+msgstr ""
+"'\n"
+"v\n"
+"'"
+
+msgid "(Text-Mode)"
+msgstr "(textový mód)"
+
+msgid "+ 1"
+msgstr "+ 1"
+
+msgid "+ 2"
+msgstr "+ 2"
+
+msgid "+ 3"
+msgstr "+ 3"
+
+msgid "+ 4"
+msgstr "+ 4"
+
+msgid "+2"
+msgstr "+2"
+
+msgid "+4"
+msgstr "+4"
+
+msgid "+6"
+msgstr "+6"
+
+msgid "+8"
+msgstr "+8"
+
+msgid "-"
+msgstr "-"
+
+msgid "- 1"
+msgstr "- 1"
+
+msgid "- 2"
+msgstr "- 2"
+
+msgid "- 3"
+msgstr "- 3"
+
+msgid "- 4"
+msgstr "- 4"
+
+msgid "--- empty ---"
+msgstr "--- prázdný ---"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "/usr/share/enigma2/MetrixHD/skinparts/[part]/[part].xml"
+msgstr "/usr/share/enigma2/MetrixHD/skinparts/[part]/[part].xml"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1 px"
+msgstr "1 px"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 px"
+msgstr "10 px"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "15%"
+msgstr "15%"
+
+msgid "2 px"
+msgstr "2 px"
+
+msgid "20"
+msgstr "20"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "3 px"
+msgstr "3 px"
+
+msgid "30"
+msgstr "30"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "35%"
+msgstr "35%"
+
+msgid "4 px"
+msgstr "4 px"
+
+msgid "40"
+msgstr "40"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "45%"
+msgstr "45%"
+
+msgid "5 px"
+msgstr "5 px"
+
+msgid "5%"
+msgstr "5%"
+
+msgid "50"
+msgstr "50"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "55%"
+msgstr "55%"
+
+msgid "6 px"
+msgstr "6 px"
+
+msgid "60"
+msgstr "60"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "65%"
+msgstr "65%"
+
+msgid "7 px"
+msgstr "7 px"
+
+msgid "70"
+msgstr "70"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8 px"
+msgstr "8 px"
+
+msgid "80"
+msgstr "80"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "9 px"
+msgstr "9 px"
+
+msgid "90"
+msgstr "90"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "95%"
+msgstr "95%"
+
+msgid "< >"
+msgstr "< >"
+
+msgid ""
+"A background update check is in progress, please wait a few minutes and try "
+"again."
+msgstr ""
+"Ověření aktualizace se odehrává na pozadí. Prosím, vyčkejte několik minut "
+"nebo to zkuste znovu."
+
+msgid "A higher value results in a slow movement."
+msgstr "Vyšší hodnota znamená pomalý pohyb."
+
+msgid "AUDIO"
+msgstr "AUDIO"
+
+msgid "AV"
+msgstr "AV"
+
+msgid "Accent colors"
+msgstr "Barevný nádech"
+
+msgid "Additional Layer"
+msgstr "Přidaná vrstva"
+
+msgid "Additional offset for font scaling"
+msgstr "Přidat kompenzaci pro škálování písma"
+
+msgid ""
+"After enabling, 'Apply changes' and restart needs never press 'Apply "
+"changes' (and restart) when you change subordinate entrys in 'STB-Info'."
+msgstr ""
+"Po nastavení, stisku 'Použít změny' a restartu již nikdy nemusíte použít "
+"tlačítko 'Použít změny' (a restart) pro dokončení nastavení změn podřízených "
+"záznamu 'Informace o přijímači'."
+
+msgid ""
+"After enabling, 'Apply changes' and restart needs never press 'Apply "
+"changes' (and restart) when you change subordinate options."
+msgstr ""
+"Po nastavení, stisku 'Použít změny' a restartu již nikdy nemusíte použít "
+"tlačítko 'Použít změny' (a restart) pro dokončení nastavení změn podřízených "
+"voleb."
+
+msgid "All calculated values round down"
+msgstr "Všechny vypočítané hodnoty zaokrouhlit dolů"
+
+msgid ""
+"Alternative calculation, recommened for slow boxes or for a fast settings "
+"testing."
+msgstr ""
+"Alternativní výpočet, doporučený pro pomalé boxy nebo pro testování rychlých "
+"nastavení."
+
+msgid "Amber"
+msgstr "Jantarová"
+
+msgid "Analog Fonts"
+msgstr "Analogové písmo"
+
+msgid "Animated Icons"
+msgstr "Animované ikony"
+
+msgid "Apply changes"
+msgstr "Použít změny"
+
+msgid "Arial"
+msgstr "Arial"
+
+msgid "BOUQUET"
+msgstr "BOUQUET"
+
+msgid "Back Color"
+msgstr "Zadní barva"
+
+msgid "Back Color Transparency"
+msgstr "Průhlednost zadní barvy"
+
+msgid "Background"
+msgstr "Pozadí"
+
+msgid "Backup"
+msgstr "Zálohovat"
+
+msgid "Backup & Restore my settings"
+msgstr "Záloha a obnovení skinu"
+
+msgid "Backup-Set is not complete!"
+msgstr "Zálohování není kompletní!"
+
+msgid "Between Clock and Weather centered"
+msgstr "Mezi hodiny a počasí (centrovaný)"
+
+msgid "Between Clock and Weather enclosed"
+msgstr "Mezi hodiny a počasí (uzavřený)"
+
+msgid "Black"
+msgstr "Černá"
+
+msgid "Blocks Layer Design"
+msgstr "Blokový vzhled"
+
+msgid "Bold and greater Fonts"
+msgstr "Tučné a velké písmo"
+
+msgid "Border"
+msgstr "Okraj"
+
+msgid "Border color"
+msgstr "Barva okraje"
+
+msgid "Border lines"
+msgstr "Ohraničující linie"
+
+msgid "Borderlines"
+msgstr "Ohraničující linie"
+
+msgid "Bottom"
+msgstr "Dole"
+
+msgid "Bottom of the screen"
+msgstr "Spodní část obrazovky"
+
+msgid "Bright Colors"
+msgstr "Jasné barvy"
+
+msgid "Brightgreen"
+msgstr "Jasně zelená"
+
+msgid "Brightyellow"
+msgstr "Jasně žlutá"
+
+msgid "Brown"
+msgstr "Hnědá"
+
+msgid "Burgund"
+msgstr "Burgundská"
+
+msgid "Button text"
+msgstr "Popis tlačítek"
+
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#, python-format
+msgid "CPU-Load: %s"
+msgstr "Vytížení CPU: %s"
+
+#, python-format
+msgid "CPU-Speed: %s MHz"
+msgstr "Rychlost CPU: %s"
+
+#, python-format
+msgid "CPU-Temp: %s"
+msgstr "Teplota CPU: %s"
+
+msgid "Cable"
+msgstr "Kabel"
+
+msgid "Cache data"
+msgstr "Data mezipaměti (Cache)"
+
+#, python-format
+msgid ""
+"Can't create Backup-File!\n"
+"( %s )"
+msgstr ""
+"Nelze vytvořit záložní soubor!\n"
+"( %s )"
+
+msgid "Can't create symlink:"
+msgstr "Nelze vytvořit symlink:"
+
+msgid "Cancel"
+msgstr "Zavřít"
+
+msgid "Celsius"
+msgstr "Stupně Celsia"
+
+msgid "Change Number of Rows in Movie Selection"
+msgstr "Změna počtu řádků ve Výběru filmů"
+
+msgid "Change field size 'Count/Size' in Movie Selection"
+msgstr "Změna velikosti pole 'Počet/Velikost' ve Výběru filmu"
+
+msgid "Change field size 'Date' in Movie Selection"
+msgstr "Změna velikosti pole 'Datum' ve Výběru filmu"
+
+msgid "Change field size 'Progressbar' in Movie Selection"
+msgstr "Změna velikosti pole 'Progressbar' ve Výběru filmu"
+
+msgid "Change field size or hide"
+msgstr "Změnit velikost pole nebo skrýt"
+
+msgid ""
+"Change the picon sharpness with the scaling.\n"
+"Info: < 1 = blurred and > 1 = sharpened\n"
+"(no restart required)"
+msgstr ""
+"Změní ostrost snímku pomocí škálování.\n"
+"Informace: < 1 = rozostřený a > 1 = doostřený.\n"
+"(není nutný restart)"
+
+msgid "Channel list show MiniTV*"
+msgstr "V Seznam kanálů zobrazit MiniTV*"
+
+msgid "Channel selection settings"
+msgstr "Nastavení výběru programů"
+
+msgid "Channel selection style"
+msgstr "Styl výběru programů"
+
+msgid "ChannelName/Number FontSize"
+msgstr "Jméno/Číslo programu - velikost písma"
+
+msgid "ChannelSelection"
+msgstr "Výběr kanálů"
+
+msgid "Channelselection"
+msgstr "Výběr kanálů"
+
+msgid "Checking Feeds"
+msgstr "Kontrola zdrojů"
+
+msgid "Choose Picon Type"
+msgstr "Výběr typu Piconů"
+
+msgid "Choose skin resolution"
+msgstr "Výběr rozlišení Skinu"
+
+msgid "Chose Extended-Info Style"
+msgstr "Výběr stylu rozšířeného Infa"
+
+msgid "Chose Skin Design"
+msgstr "Výběr vzhledu skinu"
+
+msgid "Circle Gradient"
+msgstr "Kruhový Gradient"
+
+msgid "Circle Gradient without Frame"
+msgstr "Kruhový Gradient bez rámečku"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "Město '%s' nebylo nalezeno! Zkuste prosím jiné znění."
+
+msgid "Clock in Layer A"
+msgstr "Hodiny ve vrstvě A"
+
+msgid "Clock in Layer B"
+msgstr "Hodiny ve vrstvě B"
+
+msgid "Clock text"
+msgstr "Hodiny"
+
+msgid "Clock, Weather and Buttons"
+msgstr "Hodiny a počasí - tlačítka"
+
+msgid "Cobalt"
+msgstr "Cobaltová modrá"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "Color 1"
+msgstr "Barva 1"
+
+msgid "Color 2"
+msgstr "Barva 2"
+
+msgid "Color Examples"
+msgstr "Příklady barevných šablon"
+
+msgid "Color Gradient"
+msgstr "Barevný přechod"
+
+msgid "Color settings"
+msgstr "Nastavení barev"
+
+msgid "Console"
+msgstr "Ovládací panel"
+
+msgid "Contrast Layer Design"
+msgstr "Kontrastní vzhled"
+
+msgid "Crimson"
+msgstr "Rudá"
+
+msgid "Cyan"
+msgstr "Azurová"
+
+msgid "Dark Colors"
+msgstr "Tmavé barvy"
+
+msgid "Darkblue"
+msgstr "Tmavě modrá"
+
+msgid "Darkbrown"
+msgstr "Tmavě hnědá"
+
+msgid "Darkgrey"
+msgstr "Tmavě šedá"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Defaults"
+msgstr "Výchozí"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Delete current Backup-Set?"
+msgstr "Smazat vybranou zálohu?"
+
+msgid "Description text"
+msgstr "Textový popis"
+
+msgid "Design settings"
+msgstr "Nastavení vzhledu"
+
+msgid "Digital Fonts"
+msgstr "Digital písmo"
+
+#, python-format
+msgid "Directory '%s' does not exist!"
+msgstr "Adresář '%s' neexistuje!"
+
+msgid "Disabled"
+msgstr "Bezbariérový"
+
+msgid "Distance between Servicename and Eventname."
+msgstr "Vzdálenost mezi názvem služby a názvem události."
+
+msgid ""
+"Distance between Servicenumber and Servicename or Eventname and Progressbar."
+msgstr ""
+"Vzdálenost mezi Číslem služby a Názvem služby nebo Názvem události a Panelem "
+"průběhu."
+
+msgid "Distance between the STB-Infos"
+msgstr "Vzdálenost mezi položkami STB-Info"
+
+msgid "Do you really want to reboot now?"
+msgstr "Opravdu chcete restartovat?"
+
+msgid "EMC"
+msgstr "EMC"
+
+msgid "EMC Movie List"
+msgstr "EMC seznam filmů"
+
+msgid "EMC/MovieList"
+msgstr "EMC/Seznam filmů"
+
+msgid "EMC/MoviePlayer"
+msgstr "EMC/Filmový přehrávač"
+
+msgid "END"
+msgstr "KONEC"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "EPG, Channellist, Movielist"
+msgstr "EPG, Seznam programů a filmů"
+
+msgid "EXIT"
+msgstr "ODEJÍT"
+
+msgid "East"
+msgstr "Východ"
+
+msgid "Emerald"
+msgstr "Smaragdová"
+
+msgid ""
+"Enable this option to display the wind speed, direction, 'feels like' "
+"temperature and humidity."
+msgstr ""
+"Pokud tuto možnost povolíte, zobrazí se rychlost a směr větru, pocitová "
+"teplota a vlhkost."
+
+msgid "Enable to display the description of the menu entries."
+msgstr "Povolit zobrazení popisu položek menu."
+
+msgid "Enabled"
+msgstr "Info o počasí"
+
+msgid "Enhanced HD Option"
+msgstr "Rozšířené nastavení HD"
+
+msgid "Enhanced picon scaling"
+msgstr "Vylepšené škálování piconu"
+
+msgid ""
+"Enter a personalized API key for use with OpenWeatherMap (https://"
+"openweathermap.org/)."
+msgstr ""
+"Zadejte osobní klíč API pro použití s OpenWeatherMap (https://openweathermap."
+"org/)."
+
+msgid "Enter the location for your weather forecasts."
+msgstr "Zadejte místo pro předpověď počasí."
+
+#, python-format
+msgid ""
+"Error creating %s skin. HD skin is used!\n"
+"\n"
+msgstr ""
+"Chyba při vytváření %s vzhledu. Použitý je HD vzhled!\n"
+"\n"
+
+msgid "Error creating Preset! One or more Fonts are not available!"
+msgstr ""
+"Chyba při vytvárění nastavení! Jeden nebo více fontů nejsou k dispozici!"
+
+msgid "Error creating Skin!"
+msgstr "Chyba při vytváření skinu!"
+
+msgid "Error getting City ID"
+msgstr "Chyba při získávání ID města"
+
+msgid "Error in Weatherinfo"
+msgstr "Chyba v aplikaci Weatherinfo"
+
+msgid "Error, unknown Result!"
+msgstr "Chyba, neznámý výsledek!"
+
+msgid "Event Description"
+msgstr "Popis události"
+
+msgid "Event List"
+msgstr "Seznam událostí"
+
+msgid "Event name text"
+msgstr "Text názvu události"
+
+msgid "Extended Info colors"
+msgstr "Podrobné informace"
+
+msgid "Fahrenheit"
+msgstr "Stupně Fahrenheita"
+
+msgid "Field Distance"
+msgstr "Vzdálenost polí"
+
+msgid "Finished color"
+msgstr "Barva shlédnutého filmu"
+
+msgid "Fixed"
+msgstr "Pevný"
+
+#, python-format
+msgid "Flash Memory free: %s MByte"
+msgstr "Volná flash paměť: %s MByte"
+
+msgid "Flat Gradient"
+msgstr "Plochý sklon"
+
+msgid "Flat Gradient without Frame"
+msgstr "Plochý sklon bez rámečku"
+
+msgid "Focus left, big picon, 1 next Events"
+msgstr "Vlevo, velký Picon, 1 následující událost"
+
+msgid "Focus left, description right"
+msgstr "Zaostřit vlevo, popis vpravo"
+
+msgid "Focus left, no picon, 5 next Events"
+msgstr "Vlevo, žádný Picon, 5 následujících událostí"
+
+msgid "Focus right, big picon, 1 next Events"
+msgstr "Vpravo, velký Picon, 1 následující událost"
+
+msgid "Focus right, description left"
+msgstr "Zaostřit vpravo, popis vlevo"
+
+msgid "Focus right, no picon, 5 next Events"
+msgstr "Vpravo, žádný Picon, 5 následujících událostí"
+
+msgid "Font Examples"
+msgstr "Příklady šablon písma"
+
+msgid "Font color"
+msgstr "Barva písma"
+
+msgid "Font color pseudo recording"
+msgstr "Barva písma pseudo nahrávání"
+
+msgid "Font color recording"
+msgstr "Barva písma nahrávání"
+
+msgid "Font color selected"
+msgstr "Barva písma ve výběrovém pruhu"
+
+msgid "Font color streaming"
+msgstr "Barva písma streamování"
+
+msgid "Font scale [%]"
+msgstr "Velikost písma v %"
+
+msgid "Font settings"
+msgstr "Nastavení písma"
+
+msgid "Font type"
+msgstr "Typ písma"
+
+msgid "Foreground"
+msgstr "V popředí"
+
+msgid "Frame Color"
+msgstr "Barva rámu"
+
+msgid "Frame Color Transparency"
+msgstr "Průhlednost barvy rámu"
+
+msgid "Frame Layer Design"
+msgstr "Rámcový vzhled"
+
+msgid "Frame Size"
+msgstr "Velikost rámu"
+
+msgid "Full HD (1920x1080)"
+msgstr "Full HD (1920x1080)"
+
+#, python-format
+msgid "Full HD (1920x1080) %s"
+msgstr "Full HD (1920x1080) %s"
+
+msgid ""
+"GUI needs a restart to apply a new skin.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Nové nastavení skinu potřebuje restartovat.\n"
+"Chcete restartovat GUI?"
+
+msgid "Generally"
+msgstr "Všeobecné"
+
+msgid "Glossy Effect"
+msgstr "Lesklý efekt"
+
+msgid "Glossy Effect Color"
+msgstr "Lesklý barevný efekt"
+
+msgid "Glossy Effect Intensity"
+msgstr "Intenzita lesklého efektu"
+
+msgid "Glossy Effect Over Text"
+msgstr "Lesklý efekt nad textem"
+
+msgid "Glossy Effect Position X"
+msgstr "Pozice lesklého efektu X"
+
+msgid "Glossy Effect Position Y"
+msgstr "Poloha lesklého efektu Y"
+
+msgid "Glossy Effect Size"
+msgstr "Velikost lesklého efektu"
+
+msgid "Graphical EPG"
+msgstr "Grafické EPG"
+
+msgid "Graphical EPG style"
+msgstr "Grafický styl EPG"
+
+msgid "Green"
+msgstr "Zelená"
+
+msgid "Green Colors"
+msgstr "Zelené barvy"
+
+msgid "Greyscale 1"
+msgstr "Šedá odstín 1"
+
+msgid "Greyscale 10"
+msgstr "Šedá odstín 10"
+
+msgid "Greyscale 11"
+msgstr "Šedá odstín 11"
+
+msgid "Greyscale 12"
+msgstr "Šedá odstín 12"
+
+msgid "Greyscale 13"
+msgstr "Šedá odstín 13"
+
+msgid "Greyscale 2"
+msgstr "Šedá odstín 2"
+
+msgid "Greyscale 3"
+msgstr "Šedá odstín 3"
+
+msgid "Greyscale 4"
+msgstr "Šedá odstín 4"
+
+msgid "Greyscale 5"
+msgstr "Šedá odstín 5"
+
+msgid "Greyscale 6"
+msgstr "Šedá odstín 6"
+
+msgid "Greyscale 7"
+msgstr "Šedá odstín 7"
+
+msgid "Greyscale 8"
+msgstr "Šedá odstín 8"
+
+msgid "Greyscale 9"
+msgstr "Šedá odstín 9"
+
+msgid "HELP"
+msgstr "POMOC"
+
+msgid "HOME"
+msgstr "DOMŮ"
+
+msgid "HandelGotD Fonts"
+msgstr "Písma HandelGotD"
+
+msgid "Hide PVR State"
+msgstr "Skrýt stav PVR"
+
+msgid "INFO"
+msgstr "INFO"
+
+#, python-format
+msgid ""
+"If you can see this then is your receiver compatible.\n"
+"Do you want change from %s to %s - skin resolution?"
+msgstr ""
+"Jestliže toto vidíte pak je váš přijímač kompatibilní.\n"
+"Chcete změnit %s na %s - rozlišení Skinu?"
+
+msgid ""
+"Improved the picon scaling quality.\n"
+"(no restart required)"
+msgstr ""
+"Zlepšení kvality škálování piconů.\n"
+"(není nutný restart)"
+
+msgid "In Moviebar"
+msgstr "Ve video Info panelu"
+
+msgid "Indigo"
+msgstr "Modrá"
+
+msgid "Individual Settings (only for some individual skinned screens)"
+msgstr "Individuální nastavení (pouze pro některé Skin obrazovky)"
+
+msgid "Info: Setting applies not for EMC."
+msgstr "Informace: Nastavení neplatí pro EMC."
+
+msgid "InfoBar"
+msgstr "Informační lišta"
+
+msgid "InfoBar/SecondInfobar"
+msgstr "InfoBar/Druhý InfoBar"
+
+msgid "InfoBar/SecondInfobar/Moviebar"
+msgstr "InfoBar/Druhý InfoBar/Video InfoBar"
+
+msgid "Infobar, Moviebar"
+msgstr "Infobar a Videoinfobar"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "Install Package not found!"
+msgstr "Instalační balíček nebyl nalezen!"
+
+#, python-format
+msgid ""
+"Installation error!\n"
+"\n"
+"%s"
+msgstr ""
+"Chyba instalace!\n"
+"\n"
+"%s"
+
+msgid "Installing ..."
+msgstr "Instaluji ..."
+
+msgid "Item Distance"
+msgstr "Vzdálenost položky"
+
+msgid "LCD"
+msgstr "LCD"
+
+msgid "Label text"
+msgstr "Text jmenovky"
+
+msgid "Large"
+msgstr "Velký"
+
+msgid "Large text"
+msgstr "Velké písmo"
+
+msgid "Layer A (main layer)"
+msgstr "Vrstva A (hlavní vrstva)"
+
+msgid "Layer A and B same height, Clock in Layer A"
+msgstr "Vrstvy A a B stejně vysoké. Hodiny ve vrstvě A"
+
+msgid "Layer A and B same height, Clock in Layer B"
+msgstr "Vrstvy A a B stejně vysoké. Hodiny ve vrstvě B"
+
+msgid "Layer B (secondary layer)"
+msgstr "Vrstva B (druhá vrstva)"
+
+msgid "Left"
+msgstr "Vlevo"
+
+msgid "Lime"
+msgstr "Lime"
+
+msgid "Location Selection"
+msgstr "Výběr umístění"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "MSN weather"
+msgstr "Počasí MSN"
+
+msgid "Magenta"
+msgstr "Purpurová"
+
+msgid "Magenta 1"
+msgstr "Purpurová 1"
+
+msgid "Magenta 2"
+msgstr "Purpurová 2"
+
+msgid "Mandarin"
+msgstr "Mandarinková"
+
+msgid "Mauve"
+msgstr "Světle fialová"
+
+msgid "Mediumblue"
+msgstr "Středně modrá"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Menu Symbol"
+msgstr "Menu Ikona"
+
+msgid "Menu entry text"
+msgstr "Menu vkládání textu"
+
+msgid "Meteo Icons"
+msgstr "Ikony Meteo"
+
+msgid "MetrixWeather API key"
+msgstr "API Klíč MetrixWeather"
+
+msgid "MetrixWeather animations speed"
+msgstr "Rychlost animací MetrixWeather"
+
+msgid "MetrixWeather icon night switch"
+msgstr "Noční spínač ikony MetrixWeather"
+
+msgid "MetrixWeather city name"
+msgstr "Název města MetrixWeather"
+
+msgid "MetrixWeather icon path"
+msgstr "Cesta k ikoně MetrixWeather"
+
+msgid "MetrixWeather icon style"
+msgstr "Styl ikony MetrixWeather"
+
+msgid "MetrixWeather service"
+msgstr "Služba MetrixWeather"
+
+msgid "Midnight"
+msgstr "Půlnoční"
+
+msgid "Movie List style"
+msgstr "Styl Seznamu filmů"
+
+msgid "My Backup Description"
+msgstr "Popis zálohy"
+
+#, python-format
+msgid "My Backup No. %d"
+msgstr "Záloha číslo. %d"
+
+msgid "My Backup Number"
+msgstr "Záloha číslo"
+
+#, python-format
+msgid "My Backup Saved:   %s"
+msgstr "Záloha uložena:   %s"
+
+#, python-format
+msgid "My Last Backup Entry:   %s"
+msgstr "Poslední uložená záloha:   %s"
+
+#, python-format
+msgid "My Last Restored Entry:   %s"
+msgstr "Poslední obnovená záloha:   %s"
+
+msgid "MyMetrixLite"
+msgstr "MyMetrixLite"
+
+msgid "N/A"
+msgstr "nedostupné"
+
+msgid "Navy"
+msgstr "Námořnická modrá"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "No"
+msgstr "Ne"
+
+#, python-format
+msgid ""
+"No Backup-File found!\n"
+"( %s )"
+msgstr ""
+"Žádný soubor zálohy nebyl nalezen!\n"
+"( %s )"
+
+msgid "No Backup-Set found!"
+msgstr "Žádná záloha nebyla nalezena!"
+
+msgid "No Design"
+msgstr "Žádný vzhled"
+
+msgid "No description available."
+msgstr "Popis není k dispozici."
+
+msgid "None"
+msgstr "Žádný"
+
+msgid "North"
+msgstr "Sever"
+
+msgid "Northeast"
+msgstr "Severovýchod"
+
+msgid "Northwest"
+msgstr "Severozápadní"
+
+#, python-format
+msgid ""
+"Not enough free flash memory to create the new %s skin files. ( %d kb is "
+"required )"
+msgstr ""
+"Nedostatek volné flash paměti pro vytvoření nových souborů vzhledu %s. (je "
+"vyžadováno %d kB)"
+
+#, python-format
+msgid ""
+"Not enough free flash memory to install the %s icons. ( %d MB is required )"
+msgstr "Nedostatek volné flash pamětin pro instalaci %s ikon. (vyžaduje %d MB)"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OSD settings"
+msgstr "Nastavení OSD"
+
+msgid "Off"
+msgstr "Vypnuto"
+
+msgid "Offset picon position x"
+msgstr "Kompenzace polohy Piconů x"
+
+msgid "Offset picon position y"
+msgstr "Kompenzace polohy Piconů y"
+
+msgid "Offset picon size"
+msgstr "Kompenzace velikosti Piconů"
+
+msgid "Olive"
+msgstr "Olivově zelená"
+
+msgid "One Layer Design"
+msgstr "Jedno vrstvý vzhled"
+
+msgid "Open-Meteo Wetter"
+msgstr "Open-Meteo Wetter"
+
+msgid "OpenWeatherMap"
+msgstr "OpenWeatherMap"
+
+msgid "Orange"
+msgstr "Oranžová"
+
+msgid "Other settings"
+msgstr "Další nastavení"
+
+msgid "Other text"
+msgstr "Ostatní texty"
+
+msgid "Output text"
+msgstr "Výstupní text"
+
+msgid "Overwrite current Backup-Set?"
+msgstr "Přepsat vybranou zálohu?"
+
+msgid "Overwrite current Settings?"
+msgstr "Přepsat vybrané nastavení?"
+
+msgid "Pink"
+msgstr "Růžová"
+
+msgid "Please enter new name:"
+msgstr "Prosím, zadejte nové jméno:"
+
+msgid "Please wait whilst feeds state is checked."
+msgstr "Prosím vyčkejte zatímco probíhá kontrola stavu zdrojů software."
+
+msgid "Position"
+msgstr "Pozice"
+
+msgid "Position PVR State"
+msgstr "Pozice stavu PVR"
+
+msgid ""
+"Powered by\n"
+"-----------------\n"
+"msn weather (https://www.msn.com)\n"
+"and\n"
+"OpenWeatherMap (https://openweathermap.org)\n"
+"and\n"
+"Open-Meteo (https://open-meteo.com/en)"
+msgstr ""
+"Powered by\n"
+"-----------------\n"
+"msn počasí (https://www.msn.com)\n"
+"a\n"
+"OpenWeatherMap (https://openweathermap.org)\n"
+"a\n"
+"Open-Meteo (https://open-meteo.com/en)"
+
+msgid "Primetime"
+msgstr "Hlavní vysílací čas"
+
+msgid "Progress bar"
+msgstr "Průběhová páska"
+
+msgid "Quick Setup"
+msgstr "Rychlé nastavení"
+
+#, python-format
+msgid "RAM-Free: %s MB"
+msgstr "Volná RAM: %s MB"
+
+msgid "Raleway Fonts"
+msgstr "Raleway písmo"
+
+#, python-format
+msgid "Ready to install %s ?"
+msgstr "Připraven k instalaci %s ?"
+
+#, python-format
+msgid "Ready to remove %s ?"
+msgstr "Připraven ke odstranění %s ?"
+
+msgid "Recording color"
+msgstr "Barva nahrávaného filmu"
+
+msgid "Red"
+msgstr "Červená"
+
+msgid "Red Colors"
+msgstr "Červené barvy"
+
+msgid "Refresh interval"
+msgstr "Interval obnovení"
+
+msgid "Regular"
+msgstr "Pravidelný"
+
+msgid "RegularLight"
+msgstr "Běžné světlo"
+
+msgid "Removing ..."
+msgstr "Odstraňuji ..."
+
+msgid "Replacement"
+msgstr "Náhrada"
+
+msgid "Restart GUI"
+msgstr "Restartovat uživatelské rozhraní"
+
+msgid "Restore"
+msgstr "Obnovit"
+
+#, python-format
+msgid "Restoring Backup-Set %d ..."
+msgstr "Obnova zálohy %d ..."
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "Royal Blue"
+msgstr "Modrofialová"
+
+msgid "Running Text Parameter"
+msgstr "Parametr běžícího textu"
+
+msgid "STB-Info"
+msgstr "Informace o přijímači"
+
+#, python-format
+msgid "SYS-Temp: %s"
+msgstr "Teplota systému: %s"
+
+msgid "Satellite"
+msgstr "Satelit"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Screen title separating line"
+msgstr "Titulek okna dělící čára"
+
+msgid "Screen title text"
+msgstr "Titulní obrazovka s textem"
+
+msgid "Screens"
+msgstr "Obrazovky"
+
+msgid "Screens, Plugins"
+msgstr "Obrazovky, pluginy"
+
+msgid "Scrollbar Border width"
+msgstr "Šířka hranic posuvníku"
+
+msgid "Scrollbar Slider"
+msgstr "Jezdec posuvníku"
+
+msgid "Scrollbar Slider width"
+msgstr "Šířka jezdce posuvníku"
+
+msgid "Search for City ID please wait..."
+msgstr "Hledání ID města počkejte prosím..."
+
+msgid "Search for your City"
+msgstr "Vyhledejte své město"
+
+msgid ""
+"Select 'Yes' to also display MetrixWeather in the 'MoviePlayer' InfoBar "
+"screen."
+msgstr ""
+"Výběrem možnosti \"Ano\" zobrazíte MetrixWeather také na obrazovce "
+"informačního panelu \"Přehrávače filmů\"."
+
+msgid "Select 'Yes' to display your cityname in MetrixWeather"
+msgstr ""
+"Výběrem možnosti \"Ano\" zobrazíte název svého města v aplikaci MetrixWeather"
+
+msgid ""
+"Select 'Yes' to enable the addition of MetrixWeather to the InfoBar screen."
+msgstr ""
+"Výběrem možnosti \"Ano\" povolíte přidání aplikace MetrixWeather na "
+"obrazovku informačního panelu."
+
+msgid "Select Your Location"
+msgstr "Vyberte svou polohu"
+
+msgid "Select the animations speed for the animated icons."
+msgstr "Vyberte rychlost animace animovaných ikon."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+"Vyberte, zda má být aktivován „noční spínač“ nebo ne. Některé ikony se pak "
+"zobrazí jako noční ikony s měsícem."
+
+msgid "Select the number of days of weather forecast to be displayed."
+msgstr "Vyberte počet dnů předpovědi počasí, které se mají zobrazit."
+
+msgid ""
+"Select the path to where the MetrixWeather icons can be found. This path "
+"cannot be empty!"
+msgstr ""
+"Vyberte cestu, kde lze nalézt ikony MetrixWeather. Tato cesta nesmí být "
+"prázdná!"
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr ""
+"Vyberte preferovanou meteorologickou službu, která bude poskytovat informace "
+"o počasí."
+
+msgid "Select the style of MetrixWeather icons to be used."
+msgstr "Vyberte styl ikon MetrixWeather, který se má použít."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "Vyberte jednotku teploty, která se má použít pro zobrazení teploty."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Výběrem této možnosti uložíte naposledy získaná data o lokálním počasí. To "
+"se používá k inicializaci dat ihned po restartu, zatímco se načítají "
+"aktualizovaná data."
+
+msgid "Selection bar"
+msgstr "Výběrový pruh"
+
+msgid "Service"
+msgstr "Název programu"
+
+msgid "Service Description"
+msgstr "Popis programu"
+
+msgid "Service List"
+msgstr "Seznam programů"
+
+msgid "Set default values"
+msgstr "Nastavit výchozí hodnoty"
+
+msgid "Set number of tuner automatically"
+msgstr "Nastavit počet tunerů automaticky"
+
+msgid "Set number of tuner manually"
+msgstr "Nastavit počet tunerů ručně"
+
+msgid "Set picon sharpness"
+msgstr "Nastavení ostrosti pikonů"
+
+msgid "Set primetime in graphical epg settings."
+msgstr "Die Primetime kann in den grafischen EPG Einstellungen gesetzt werden."
+
+msgid "SetrixHD"
+msgstr "SetrixHD"
+
+msgid ""
+"Setting is the same as\n"
+"'"
+msgstr ""
+"Nastavení je stejné jako\n"
+"‘"
+
+msgid "Settings successfully restored."
+msgstr "Nastavení bylo úspěšně obnoveno."
+
+msgid "Show Background"
+msgstr "Zobrazit pozadí"
+
+msgid "Show CAID"
+msgstr "Zobrazit CAID"
+
+msgid "Show CPU-Load"
+msgstr "Zobrazit zatížení CPU"
+
+msgid "Show CPU-Temp"
+msgstr "Zobrazit teplotu CPU"
+
+msgid "Show ChannelName"
+msgstr "Zobrazit jméno programu"
+
+msgid "Show ChannelNumber"
+msgstr "Zobrazit číslo programu"
+
+msgid "Show Clock"
+msgstr "Zobrazit hodiny"
+
+msgid "Show Cover in Infobar"
+msgstr "Zobrazit Cover v Infobaru"
+
+msgid "Show Cover in Media Center"
+msgstr "Zobrazit Cover v Media Center"
+
+msgid "Show Cover in Movie Selection"
+msgstr "Zobrazit Cover ve výběru filmů"
+
+msgid "Show ECM TIME"
+msgstr "Zobrazit ECM TIME"
+
+msgid "Show Extended-Info"
+msgstr "Zobrazit rozšířené informace"
+
+msgid "Show HOPS"
+msgstr "Zobrazit HOPS"
+
+msgid "Show Menu Buttons"
+msgstr "Zobrazit tlačítka menu"
+
+msgid "Show Menu Scrollinfo"
+msgstr "Zobrazit menu Rolovacího infa"
+
+msgid "Show Movie Description"
+msgstr "Zobrazit popis filmů"
+
+msgid "Show Movie Playback Time"
+msgstr "Zobrazit čas přehrávání filmu"
+
+msgid "Show MovieName"
+msgstr "Zobrazit název filmu"
+
+msgid "Show Orbital-Position"
+msgstr "Zobrazit orbitální pozici družice"
+
+msgid "Show PID"
+msgstr "Zobrazit PID"
+
+msgid "Show PROTOCOL"
+msgstr "Zobrazit PROTOCOL"
+
+msgid "Show PROV"
+msgstr "Zobrazit PROV"
+
+msgid "Show PVR status in MoviePlayer infobar"
+msgstr "Zobrazení stavu PVR v infobaru Přehrávač filmů"
+
+msgid "Show Picon in Movie Selection?"
+msgstr "Zobrazit Picon ve Výběru filmů?"
+
+msgid "Show Primetime Event"
+msgstr "Zeige Primetime Sendung"
+
+msgid "Show READER"
+msgstr "Zobrazit READER"
+
+msgid "Show Record-State"
+msgstr "Zobrazit stav nahrávání"
+
+msgid "Show SNR-Info"
+msgstr "Zobrazit informace o kvalitě signálu (SNR)"
+
+msgid "Show SOURCE"
+msgstr "Zobrazit SOURCE"
+
+msgid "Show STB-Info"
+msgstr "Zobrazit informace o přijímači"
+
+msgid "Show SYS-Temp"
+msgstr "Zobrazit systémovou teplotu"
+
+msgid "Show Screen-Resolution"
+msgstr "Zobrazit rozlišení obrazu"
+
+msgid "Show Scrollbar if more than one pages are available."
+msgstr "Zobrazit posuvník, pokud je k dispozici více než jedna stránka."
+
+msgid "Show ServiceIcons"
+msgstr "Zobrazit programové ikony"
+
+msgid "Show Space between Layer A and B"
+msgstr "Zobrazit plochu mezi vrstvami A a B"
+
+msgid "Show Tuner-Info"
+msgstr "Zobrazit informace o tunerech"
+
+msgid "Show also in main layer?"
+msgstr "Zobrazit i v hlavní vrstvě?"
+
+msgid "Show cityname in details"
+msgstr "Zobrazit název města v podrobnostech"
+
+msgid "Show color buttons at top of the screen."
+msgstr "Zobrazení barevných tlačítek v horní části obrazovky."
+
+msgid "Show detail"
+msgstr "Zobrazit podrobnosti"
+
+msgid "Show event colors if entry selected"
+msgstr "Zobrazit barevně událost vybrané položky"
+
+msgid "Show extended Screen-Resolution"
+msgstr "Zobrazit informace o rozlišení obrazu"
+
+msgid "Show forecast"
+msgstr "Zobrazit předpověď"
+
+msgid "Show free RAM"
+msgstr "Zobrazit volnou paměť RAM"
+
+msgid "Show in Channel selection?"
+msgstr "Zobrazit ve výběru programů?"
+
+msgid "Show in EMC?"
+msgstr "Zobrazit v EMC?"
+
+msgid "Show in Movie Center?"
+msgstr "Zobrazit v Movie Centru?"
+
+msgid "Show in MoviePlayer"
+msgstr "Zobrazit v Přehrávači filmů"
+
+msgid ""
+"Show info in main menu and context menu if more entries on next side.\n"
+"(no restart required)"
+msgstr ""
+"Zobrazení informací v hlavní nabídce a kontextové nabídce, pokud je na další "
+"straně více položek.\n"
+"(není nutný restart)"
+
+msgid "Show large Text on bottom of the screen"
+msgstr "Zobrazit velký text na spodní části obrazovky"
+
+msgid "Show lower left Corner Layer"
+msgstr "Zobrazit spodní levý roh vrstvy"
+
+msgid "Show lower right Corner Layer"
+msgstr "Zobrazit spodní pravý roh vrstvy"
+
+msgid "Show menu entry description"
+msgstr "Zobrazit popis položky menu"
+
+msgid ""
+"Show only if available.\n"
+"\n"
+"Positions:\n"
+msgstr ""
+"Zobrazit pouze pokud je k dispozici.\n"
+"\n"
+"Pozice:\n"
+
+msgid "Show optional horizontal Layer"
+msgstr "Zobrazit volitelné horizontální vrstvy"
+
+msgid "Show optional vertical Layer"
+msgstr "Zobrazit volitelné vertikální vrstvy"
+
+msgid "Show picons zoomed ?"
+msgstr "Zobrazit zvětšené picony?"
+
+msgid "Show running text for description of the event."
+msgstr "Zobrazit běžící text pro popis události."
+
+msgid ""
+"Show running text for event. If it flickers, try increasing the start delay."
+msgstr ""
+"Zobrazit běžící text pro událost. Pokud bliká, zkuste zvýšit opoždění startu."
+
+msgid "Show running text?"
+msgstr "Zobrazit běžící text?"
+
+msgid "Show scrollbar?"
+msgstr "Zobrazit rolovací lištu?"
+
+msgid "Show upper left Corner Layer"
+msgstr "Zobrazit horní levý roh vrstvy"
+
+msgid "Show upper right Corner Layer"
+msgstr "Zobrazit horní pravý roh vrstvy"
+
+msgid "Side by PVR-Symbol"
+msgstr "Vedle PVR statusu"
+
+msgid "Sienna"
+msgstr "Žlutohnědá"
+
+msgid "Size"
+msgstr "Velikost"
+
+msgid "Skin Design"
+msgstr "Vzhled Skinu"
+
+msgid "Skin Design Buttons"
+msgstr "Tlačítka vzhledu skinu"
+
+msgid "Skin Design Examples"
+msgstr "Příklady vzhledů Skinu"
+
+msgid "Skinpart are not available - can't be activated."
+msgstr "Skinpart není k dispozici a nelze aktivovat."
+
+msgid "Skinpart settings"
+msgstr "Nastavení částí Skinu"
+
+msgid "Slider"
+msgstr "Posuvník"
+
+msgid "Small"
+msgstr "Malý"
+
+msgid "Small text"
+msgstr "Malé písmo"
+
+msgid "Solid"
+msgstr "Pevný"
+
+msgid "Solid without Frame"
+msgstr "Pevný bez rámu"
+
+msgid "Sorry feeds are down for maintenance, please try again later."
+msgstr ""
+"Omlouváme se, ale zdroje nejsou k dispozici z důvodu údržby.Zkuste to prosím "
+"později."
+
+msgid "South"
+msgstr "Jih"
+
+msgid "Southeast"
+msgstr "Jihovýchod"
+
+msgid "Southwest"
+msgstr "Jihozápad"
+
+msgid ""
+"Specify how often MetrixWeather retrieves its data from the server. 'Once' "
+"means the data will loaded only once after a GUI or system start."
+msgstr ""
+"Určete, jak často MetrixWeather načítá data ze serveru. 'Jednou' znamená, že "
+"se data načtou pouze jednou po spuštění grafického uživatelského rozhraní "
+"nebo systému."
+
+msgid "Speed"
+msgstr "Rychlost"
+
+msgid "Standard"
+msgstr "Standardní"
+
+msgid "Standard Colors"
+msgstr "Standardní barvy"
+
+msgid "Standard Fonts"
+msgstr "Standardní písmo"
+
+msgid "Standard Fonts greater"
+msgstr "Standardní velké písmo"
+
+msgid "Standard HD (1280x720)"
+msgstr "Standardní HD (1280x720)"
+
+msgid "Startdelay"
+msgstr "Zpoždění startu"
+
+msgid "Static Icons"
+msgstr "Statické ikony"
+
+msgid "Steel"
+msgstr "Ocelová"
+
+msgid "Stripe Layer Design"
+msgstr "Pruhovaný vzhled"
+
+msgid "Style"
+msgstr "Styl - vzhled"
+
+msgid "TEST"
+msgstr "TEST"
+
+msgid "TEXT"
+msgstr "TEXT"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Teal"
+msgstr "Modrozelená"
+
+msgid "Temperature unit"
+msgstr "Jednotka teploty"
+
+msgid "Terrestrial"
+msgstr "Pozemní"
+
+msgid "Test Resolution"
+msgstr "Test rozlišení"
+
+msgid "Text Color"
+msgstr "Barva textu"
+
+msgid "Text Color Transparency"
+msgstr "Průhlednost barvy textu"
+
+msgid "Text Font"
+msgstr "Písmo textu"
+
+msgid "Text Position"
+msgstr "Pozice textu"
+
+msgid "Text Size"
+msgstr "Velikost textu"
+
+msgid "Text Windowtitle"
+msgstr "Text titulků okna"
+
+msgid "Text in background"
+msgstr "Text na pozadí obrazovky"
+
+msgid ""
+"The API key for OpenWeatherMap is not defined or invalid.\n"
+"Please verify your input data.\n"
+"Otherwise your settings won't be saved."
+msgstr ""
+"Klíč API pro OpenWeatherMap není definován nebo je neplatný.\n"
+"Ověřte prosím vstupní údaje.\n"
+"Jinak se vaše nastavení neuloží."
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"Název města je příliš krátký. Pro vyhledávání je potřeba více než 2 znaky."
+
+msgid "Time Line"
+msgstr "Časová osa"
+
+msgid "Top"
+msgstr "Nahoře"
+
+msgid "Top of the screen"
+msgstr "Horní část obrazovky"
+
+msgid "Top of the screen with current time"
+msgstr "V horní části obrazovky s aktuálním časem"
+
+msgid "Transparency"
+msgstr "Průsvitnost"
+
+msgid "Transparent"
+msgstr "Průsvitnost"
+
+msgid "Turquoise"
+msgstr "Tyrkysová"
+
+msgid "Ultra HD (3840x2160)"
+msgstr "Ultra HD (3840x2160)"
+
+#, python-format
+msgid "Ultra HD (3840x2160) %s"
+msgstr "Ultra HD (3840x2160) %s"
+
+msgid "Unknown error occurred!"
+msgstr "Vyskytla se neznámá chyba!"
+
+msgid "Use simple calculation"
+msgstr "Použít jednoduchý výpočet"
+
+msgid "Vertical EPG"
+msgstr "Vertikální EPG"
+
+msgid "Violet"
+msgstr "Fialová"
+
+msgid "Watched color"
+msgstr "Barva sledovaného filmu"
+
+msgid "Weather Settings Actions"
+msgstr "Akce s nastavením počasí"
+
+msgid "Weather settings"
+msgstr "Nastavení počasí"
+
+msgid "Weather week text"
+msgstr "Text týdenního počasí"
+
+msgid "West"
+msgstr "Západ"
+
+msgid "Where do you want to get the MetrixWeather icons?"
+msgstr "Kde chcete získat ikony MetrixWeather?"
+
+msgid "White"
+msgstr "Bílá"
+
+msgid "Width"
+msgstr "Šířka"
+
+msgid "XPicons"
+msgstr "XPicony"
+
+msgid "Yellow"
+msgstr "Žlutá"
+
+msgid "Yellow Colors"
+msgstr "Žluté barvy"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "Yes, show screens"
+msgstr "Ano, zobrazit"
+
+#, python-format
+msgid ""
+"You can create up to 99 Backup-Sets.\n"
+"Stored in:\n"
+"%s"
+msgstr ""
+"Můžete vytvořit až 99 záloh.\n"
+"Uloženo v:\n"
+"%s"
+
+msgid "You can here assign an individual name."
+msgstr "Můžete přiřadit individuální jméno."
+
+msgid "You have the'HbbTV Plugin' installed.\n"
+msgstr "Máte nainstalovaný ‘HbbTV Plugin’.\n"
+
+#, python-format
+msgid ""
+"Your %s %s is not connected to the internet, please check your network "
+"settings and try again."
+msgstr ""
+"Vaše %s %s není připojen k Internetu, prosím zkontrolujte vaše nastavení "
+"sítě, a zkuste to znovu."
+
+msgid "Your enhanced hd settings are inconsistent. Please check this."
+msgstr ""
+"Vaše rozšířené nastavení HD je nekonzistentní. Prosím, zkontrolujte je."
+
+msgid "ZZZPicons"
+msgstr "ZZZPicony"
+
+msgid "Zoom"
+msgstr "Zvětšení"
+
+msgid "and"
+msgstr "a"
+
+msgid "disabled"
+msgstr "zakázáno"
+
+msgid "graphical EPG"
+msgstr "grafické EPG"
+
+msgid "height"
+msgstr "výška"
+
+msgid "helptext"
+msgstr "pomocný text"
+
+msgid "in Image included Fonts"
+msgstr "Dostupná písma v Image"
+
+msgid "in Menus"
+msgstr "V Menu"
+
+msgid "in Menus and Screens"
+msgstr "V Menu a obraze"
+
+msgid "in Screens"
+msgstr "V obraze"
+
+msgid "in Skin included Fonts"
+msgstr "Dostupná písma ve Skinu"
+
+msgid "left"
+msgstr "vlevo"
+
+msgid "mini TV"
+msgstr "mini TV"
+
+msgid "more Events or 'mini TV' greater"
+msgstr "Více událostí nebo větší 'mini TV'"
+
+msgid "now"
+msgstr "v aktivním pruhu"
+
+msgid "off"
+msgstr "vypnuto"
+
+msgid "openATV configuration tool for MetrixHD"
+msgstr "konfigurační nástroj openATV pro MetrixHD"
+
+msgid "please wait..."
+msgstr "Prosím, čekejte..."
+
+msgid "pos x"
+msgstr "Pozice x"
+
+msgid "pos y"
+msgstr "Pozice y"
+
+msgid "pos z"
+msgstr "Pozice z (hloubka)"
+
+msgid "right"
+msgstr "vpravo"
+
+msgid "selected"
+msgstr "ve výběrovém pruhu"
+
+msgid "width"
+msgstr "Šířka"
+
+#~ msgid ""
+#~ "Powered by\n"
+#~ "-----------------\n"
+#~ "msn weather\n"
+#~ "(https://www.msn.com)\n"
+#~ "and\n"
+#~ "OpenWeatherMap\n"
+#~ "(https://openweathermap.org)"
+#~ msgstr ""
+#~ "Zdroje dat\n"
+#~ "-----------------\n"
+#~ "MSN weather\n"
+#~ "(https://www.msn.com)\n"
+#~ "a\n"
+#~ "OpenWeatherMap\n"
+#~ "(https://openweathermap.org)"
+
+#~ msgid "--- additional files start ---\n"
+#~ msgstr "--- Přidat další soubory ---\n"
+
+#~ msgid "Backup "
+#~ msgstr "Záloha "
+
+#~ msgid ""
+#~ "\n"
+#~ "New calculated file is "
+#~ msgstr ""
+#~ "\n"
+#~ "Nový soubor je přepočítán "
+
+#~ msgid "No files found or files already exist."
+#~ msgstr "Žádné soubory nebyly nalezeny a nebo již existují."
+
+#~ msgid ""
+#~ "\n"
+#~ "--- additional files end ---\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "--- Přidání souborů ukončeno ---\n"
+#~ "\n"
+
+#, python-format
+#~ msgid ""
+#~ "One or more %s icons are missing. Using HD icons for this.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Chybí jedna nebo více %s ikon. Budou použity HD ikony.\n"
+#~ "\n"
+
+#~ msgid "Meteo"
+#~ msgstr "Meteo-počasí"
+
+#~ msgid "Next:"
+#~ msgstr "Následuje:"
+
+#~ msgid "Experimental picon scaling"
+#~ msgstr "Experimentální škálování ikon programů"
+
+#~ msgid ""
+#~ "Set to 'Yes' if you have poor scaling quality - experimental.\n"
+#~ "(no restart required)"
+#~ msgstr ""
+#~ "Pokud je kvalita škálování špatná, nastavte na „Ano“.\n"
+#~ "(nevyžaduje restart )"
+
+#~ msgid "Experimental picon sharpness"
+#~ msgstr "Experimentální ostrost ikon programů"
+
+#~ msgid ""
+#~ "Improved the scaling quality - experimental.\n"
+#~ "Info: < 1 = blurred and > 1 = sharpened image\n"
+#~ "(no restart required)"
+#~ msgstr ""
+#~ "Vylepšuje kvalitu škálování - experimentální.\n"
+#~ "Info: <1 = rozmazaný a > 1 = ostrý obraz\n"
+#~ "(nevyžaduje restart)"
+
+#~ msgid ""
+#~ "'\n"
+#~ "in\n"
+#~ "'"
+#~ msgstr ""
+#~ "'\n"
+#~ "v\n"
+#~ "'"
+
+#~ msgid "Check ID"
+#~ msgstr "Kontrola ID"
+
+#~ msgid ""
+#~ "Cycle/failure indicator colors on widget:\n"
+#~ "green - 6 times try to fetch weather data\n"
+#~ "yellow - fetch weather data paused 5 mins\n"
+#~ "red - fetch weather data aborted after 6 times green and yellow\n"
+#~ "(if red -> press 'save' for refresh)"
+#~ msgstr ""
+#~ "Widget počasí - indikátor barev selhání:\n"
+#~ "zelená - bylo provedeno 6 pokusů načíst údaje o počasí\n"
+#~ "žlutá - načítání údajů o počasí bylo zastaveno na 5 minut\n"
+#~ "červená - načítání údajů o počasí bylo přerušeno po 6-ti zelených a "
+#~ "žlutých \n"
+#~ " (je-li červená -> stiskněte tlačítko 'Uložit' pro obnovení funkce)"
+
+#~ msgid "MetrixWeather ID"
+#~ msgstr "MyMetrix Počasí-ID"
+
+#~ msgid "Unit"
+#~ msgstr "Jednotka teploty"
+
+#~ msgid "Refresh Interval (min)"
+#~ msgstr "Aktualzační interval (min)"
+
+#~ msgid "If set to '0', fetch weather data only at system(gui) start."
+#~ msgstr ""
+#~ "Je-li nastaveno na '0', načtou se údaje o počasí jen při startu systému."
+
+#, python-format
+#~ msgid ""
+#~ "Get weather data failure:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Chyba při čtení dat o počasí:\n"
+#~ "%s"
+
+#, python-format
+#~ msgid "City:   %s,   "
+#~ msgstr "Město:   %s,   "
+
+#~ msgid "Please wait, get weather data ..."
+#~ msgstr "Prosím čekejte, zjišťuji informace o počasí ..."
+
+#~ msgid "scale"
+#~ msgstr "Měřítko"
+
+#~ msgid "size"
+#~ msgstr "Velikost"
+
+#~ msgid "Calculating additional files"
+#~ msgstr "   Spočítat další soubory"
+
+#~ msgid "Check is Weather date local date"
+#~ msgstr "Zkontrolovat zda počasí odpovídá lokálnímu datumu"
+
+#~ msgid "Enable Color Gradient"
+#~ msgstr "   Povolit barevný gradient"
+
+#~ msgid ""
+#~ "File list:\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Seznam souborů:\n"
+#~ "\n"
+#~ "%s"

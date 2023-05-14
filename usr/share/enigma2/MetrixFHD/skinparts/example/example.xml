@@ -1,0 +1,55 @@
+<skin>
+<!-- cf#_#start -->
+<!--
+	#description#- Example Skinpart -
+	#description#Please look in the example.xml file for function.
+	#description#
+	#description#- Beispiel Skinpart -
+	#description#Bitte sehen sie in der example.xml Datei für die Funktionsweise nach.
+	#previewfile#example.png
+/-->
+	<screen name="CLOCKWIDGET">
+<!--
+		#description#clock-widget without date
+		#description#Uhr-Widget ohne Datumsanzeige
+		#previewfile#CLOCKWIDGET.png
+/-->
+		<eLabel backgroundColor="layer-a-background" position="1614,60" size="246,107" transparent="0" zPosition="-1"/>
+		<widget backgroundColor="layer-a-background" foregroundColor="layer-a-clock-foreground" font="global_clock; 90" noWrap="1" valign="bottom" halign="center" position="1613,66" render="Label" size="246,105" source="global.CurrentTime" transparent="1" >
+			<convert type="ClockToText">Default</convert>
+		</widget>
+	</screen>
+	<screen name="Volume" position="center,60" size="503,107" title="Volume" flags="wfNoBorder" backgroundColor="transparent" zPosition="99">
+<!--
+		an alternative to the other two examples can also * .txt files for the description and * .png or * .jpg files for thumbnails in [skinpart] directory are used.
+		alternativ zu den beiden anderen Beispielen können auch *.txt Dateien für die Beschreibung und *.png oder *.jpg Dateien für Vorschaubilder im [skinpart] Verzeichnis genutzt werden.
+/-->
+		<widget name="Volume" position="117,50" size="267,8" zPosition="3" foregroundColor="layer-a-progress" transparent="1" />
+		<ePixmap position="12,6" size="96,96" zPosition="1" pixmap="MetrixFHD/icons/volume.png" transparent="1" alphatest="blend" />
+		<widget font="screen_info;60" foregroundColor="layer-a-foreground" backgroundColor="layer-a-background" halign="center" valign="bottom" render="MetrixHDVolumeText" source="global.CurrentTime" position="375,18" size="128,75" zPosition="20" transparent="1" />
+		<eLabel position="117,53" size="267,2" backgroundColor="layer-a-accent1" foregroundColor="layer-a-accent1" />
+		<eLabel position="2,2" size="500,104" backgroundColor="layer-a-background" zPosition="-1" transparent="0" />
+		<eLabel position="0,0" size="503,107" backgroundColor="layer-b-background" zPosition="-2" transparent="0" />
+	</screen>
+	<screen name="SKINPART_infobar">#hide#
+<!--
+	if #hide# in row from screen will screen in skinpart settings not displayed
+	wenn #hide' in der Zeile des screens steht wird er in den Skinpart Einstellungen nicht angezeigt
+/-->
+<!--
+		see in skin_00_templates.xml (at end) for another available SKINPART_xxx screens.
+		in der skin_00_templates.xml (am Ende) sind mögliche nutzbare SKINPART_xxx for andere screens. 
+/-->
+		<panel name="ServiceInfoForInfobar"/>
+	</screen>
+	<screen name="ServiceInfoForInfobar">
+<!--
+		#description#Additional screen for infobar
+		#description#Zusätzliche Anzeige für die Infobar
+		#previewfile#SKINPART_infobar.png
+/-->
+		<widget source="session.CurrentService" render="Label" font="global_small; 24" position="center,818" size="1200,30" halign="center" zPosition="1" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" >
+			<convert type="ServiceName2">%P - %N (%A, %T)</convert>
+		</widget>
+	</screen>
+</skin>

@@ -1,0 +1,1996 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-07 12:20+0100\n"
+"PO-Revision-Date: 2022-12-19 12:48+0000\n"
+"Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+
+msgid ""
+"\n"
+"(No preview picture available.)"
+msgstr ""
+"\n"
+"(Δεν υπάρχει διαθέσιμη εικόνα προεπισκόπησης.)"
+
+#, python-format
+msgid ""
+"\n"
+"(One or more %s icons are missing.)\n"
+"\n"
+msgstr ""
+"\n"
+"(Λείπουν ένα ή περισσότερα εικονίδια %s.)\n"
+"\n"
+
+#, python-format
+msgid ""
+"\n"
+"Maybe is a compatibility issue with %s resolution.\n"
+"Attention: The osd-error occurs first after gui or system restart!\n"
+"\n"
+"Do you want really change from %s to %s - skin?"
+msgstr ""
+"\n"
+"Ίσως υπάρχει πρόβλημα συμβατότητας με την ανάλυση %s.\n"
+"Προσοχή: Το σφάλμα osd εμφανίζεται πρώτα μετά την επανεκκίνηση της "
+"επιφάνειας χρήστη ή του συστήματος!\n"
+"\n"
+"Θέλετε πραγματικά να γίνει αλλαγή από το %s στο θέμα %s;"
+
+msgid ""
+"\n"
+"Press 'OK-Button'"
+msgstr ""
+"\n"
+"Πιέστε το πλήκτρο 'ΟΚ'"
+
+msgid " "
+msgstr " "
+
+msgid "     "
+msgstr "     "
+
+msgid " - box support unknown"
+msgstr " - υποστήριξη δέκτη άγνωστη"
+
+msgid ""
+"!!! If your receiver not compatible is a crash possible !!!\n"
+"\n"
+"Choose 'yes', then starts the resolution test.\n"
+"The old resolution will automatically restored after 10 seconds."
+msgstr ""
+"!!! Εάν ο δέκτης σας δεν είναι συμβατός είναι πιθανό να γίνει κρασάρισμα!!!\n"
+"\n"
+"Επιλέξτε 'ναι', για να ξεκινήσει η δοκιμή ανάλυσης.\n"
+"Η παλιά ανάλυση θα επανέλθει αυτόματα μετά από 10 δευτερόλεπτα."
+
+msgid "!!! Recording(s) are in progress or coming up in few minutes !!!"
+msgstr "!!! Εκτελούνται εγγραφές ή θα ξεκινήσουν σε λίγο !!!"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d λεπτά"
+
+msgid ""
+"'\n"
+"in the\n"
+"'"
+msgstr ""
+"'\n"
+"στο\n"
+"'"
+
+msgid "(Text-Mode)"
+msgstr "(Λειτουργία κειμένου)"
+
+msgid "+ 1"
+msgstr "+ 1"
+
+msgid "+ 2"
+msgstr "+ 2"
+
+msgid "+ 3"
+msgstr "+ 3"
+
+msgid "+ 4"
+msgstr "+ 4"
+
+msgid "+2"
+msgstr "+2"
+
+msgid "+4"
+msgstr "+4"
+
+msgid "+6"
+msgstr "+6"
+
+msgid "+8"
+msgstr "+8"
+
+msgid "-"
+msgstr "-"
+
+msgid "- 1"
+msgstr "- 1"
+
+msgid "- 2"
+msgstr "- 2"
+
+msgid "- 3"
+msgstr "- 3"
+
+msgid "- 4"
+msgstr "- 4"
+
+msgid "--- empty ---"
+msgstr "--- άδειο ---"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "/usr/share/enigma2/MetrixHD/skinparts/[part]/[part].xml"
+msgstr "/usr/share/enigma2/MetrixHD/skinparts/[part]/[part].xml"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1 px"
+msgstr "1 px"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 px"
+msgstr "10 px"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "15%"
+msgstr "15%"
+
+msgid "2 px"
+msgstr "2 px"
+
+msgid "20"
+msgstr "20"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "3 px"
+msgstr "3 px"
+
+msgid "30"
+msgstr "30"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "35%"
+msgstr "35%"
+
+msgid "4 px"
+msgstr "4 px"
+
+msgid "40"
+msgstr "40"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "45%"
+msgstr "45%"
+
+msgid "5 px"
+msgstr "5 px"
+
+msgid "5%"
+msgstr "5%"
+
+msgid "50"
+msgstr "50"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "55%"
+msgstr "55%"
+
+msgid "6 px"
+msgstr "6 px"
+
+msgid "60"
+msgstr "60"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "65%"
+msgstr "65%"
+
+msgid "7 px"
+msgstr "7 px"
+
+msgid "70"
+msgstr "70"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8 px"
+msgstr "8 px"
+
+msgid "80"
+msgstr "80"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "9 px"
+msgstr "9 px"
+
+msgid "90"
+msgstr "90"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "95%"
+msgstr "95%"
+
+msgid "< >"
+msgstr "<>"
+
+msgid ""
+"A background update check is in progress, please wait a few minutes and try "
+"again."
+msgstr ""
+"Εκτελείται έλεγχος για ενημερώσεις στο παρασκήνιο, περιμένετε μερικά λεπτά "
+"και ξαναδοκιμάστε."
+
+msgid "A higher value results in a slow movement."
+msgstr "Μια υψηλότερη τιμή οδηγεί σε αργή κίνηση."
+
+msgid "AUDIO"
+msgstr "ΗΧΟΣ"
+
+msgid "AV"
+msgstr "AV"
+
+msgid "Accent colors"
+msgstr "Χρώματα έμφασης"
+
+msgid "Additional Layer"
+msgstr "Πρόσθετο επίπεδο"
+
+msgid "Additional offset for font scaling"
+msgstr "Πρόσθετη μετατόπιση για κλιμάκωση γραμματοσειράς"
+
+msgid ""
+"After enabling, 'Apply changes' and restart needs never press 'Apply "
+"changes' (and restart) when you change subordinate entrys in 'STB-Info'."
+msgstr ""
+"Μετά την ενεργοποίηση, δεν χρειάζεται ποτέ να πατήσετε \"Εφαρμογή αλλαγών"
+"\" (και επανεκκίνηση) όταν αλλάζετε δευτερεύουσες καταχωρίσεις στις "
+"\"πληροφορίες STB\"."
+
+msgid ""
+"After enabling, 'Apply changes' and restart needs never press 'Apply "
+"changes' (and restart) when you change subordinate options."
+msgstr ""
+"Μετά την ενεργοποίηση, δεν χρειάζεται ποτέ να πατήσετε \"Εφαρμογή αλλαγών"
+"\" (και επανεκκίνηση) όταν αλλάζετε δευτερεύουσες επιλογές."
+
+msgid "All calculated values round down"
+msgstr "Στρογγυλοποίηση όλων των υπολογισμένων τιμών προς τα κάτω"
+
+msgid ""
+"Alternative calculation, recommened for slow boxes or for a fast settings "
+"testing."
+msgstr ""
+"Εναλλακτικός υπολογισμός, συνιστάται για αργούς δέκτες ή για δοκιμή γρήγορων "
+"ρυθμίσεων."
+
+msgid "Amber"
+msgstr "Κεχριμπαρί"
+
+msgid "Analog Fonts"
+msgstr "Αναλογικές γραμματοσειρές"
+
+msgid "Animated Icons"
+msgstr "Κινούμενα εικονίδια"
+
+msgid "Apply changes"
+msgstr "Εφαρμογή αλλαγών"
+
+msgid "Arial"
+msgstr "Arial"
+
+msgid "BOUQUET"
+msgstr "ΜΠΟΥΚΕΤΟ"
+
+msgid "Back Color"
+msgstr "Χρώμα φόντου"
+
+msgid "Back Color Transparency"
+msgstr "Διαφάνεια χρώματος φόντου"
+
+msgid "Background"
+msgstr "Φόντο"
+
+msgid "Backup"
+msgstr "Εφεδρεία"
+
+msgid "Backup & Restore my settings"
+msgstr "Εφεδρεία & επαναφορά των ρυθμίσεών μου"
+
+msgid "Backup-Set is not complete!"
+msgstr "Το σετ αντιγράφων ασφαλείας δεν έχει ολοκληρωθεί!"
+
+msgid "Between Clock and Weather centered"
+msgstr "Μεταξύ ρολογιού και καιρού κεντραρισμένο"
+
+msgid "Between Clock and Weather enclosed"
+msgstr "Μεταξύ του ρολογιού και του καιρού"
+
+msgid "Black"
+msgstr "Μαύρο"
+
+msgid "Blocks Layer Design"
+msgstr "Σχεδιασμός επιπέδων μπλοκ"
+
+msgid "Bold and greater Fonts"
+msgstr "Έντονες και μεγαλύτερες γραμματοσειρές"
+
+msgid "Border"
+msgstr "Περίγραμμα"
+
+msgid "Border color"
+msgstr "Χρώμα περιγράμματος"
+
+msgid "Border lines"
+msgstr "Γραμμές περιγράμματος"
+
+msgid "Borderlines"
+msgstr "Γραμμές περιγράμματος"
+
+msgid "Bottom"
+msgstr "Κάτω"
+
+msgid "Bottom of the screen"
+msgstr "Κάτω μέρος της οθόνης"
+
+msgid "Bright Colors"
+msgstr "Φωτεινά χρώματα"
+
+msgid "Brightgreen"
+msgstr "Ανοικτό πράσινο"
+
+msgid "Brightyellow"
+msgstr "Ανοικτό κίτρινο"
+
+msgid "Brown"
+msgstr "Καφέ"
+
+msgid "Burgund"
+msgstr "Βουργουνδί"
+
+msgid "Button text"
+msgstr "Κείμενο πλήκτρου"
+
+msgid "Buttons"
+msgstr "Πλήκτρα"
+
+#, python-format
+msgid "CPU-Load: %s"
+msgstr "Φόρτος CPU: %s"
+
+#, python-format
+msgid "CPU-Speed: %s MHz"
+msgstr "Ταχύτητα CPU: %s MHz"
+
+#, python-format
+msgid "CPU-Temp: %s"
+msgstr "Θερμοκρασία CPU: %s"
+
+msgid "Cable"
+msgstr "Καλωδιακό"
+
+msgid "Cache data"
+msgstr "Δεδομένα προσωρινής αποθήκευσης"
+
+#, python-format
+msgid ""
+"Can't create Backup-File!\n"
+"( %s )"
+msgstr ""
+"Δεν είναι δυνατή η δημιουργία αρχείου εφεδρείας!\n"
+"( %s )"
+
+msgid "Can't create symlink:"
+msgstr "Αδυναμία δημιουργίας συνδέσμου:"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Celsius"
+msgstr "Κελσίου"
+
+msgid "Change Number of Rows in Movie Selection"
+msgstr "Αλλαγή αριθμού σειρών στην επιλογή ταινιών"
+
+msgid "Change field size 'Count/Size' in Movie Selection"
+msgstr "Αλλαγή μεγέθους πεδίου 'Πλήθος/μέγεθος' στην επιλογή ταινιών"
+
+msgid "Change field size 'Date' in Movie Selection"
+msgstr "Αλλαγή μεγέθους πεδίου 'Ημερομηνία' στην επιλογή ταινιών"
+
+msgid "Change field size 'Progressbar' in Movie Selection"
+msgstr "Αλλαγή μεγέθους πεδίου 'Γραμμή προόδου' στην επιλογή ταινιών"
+
+msgid "Change field size or hide"
+msgstr "Αλλαγή μεγέθους πεδίου ή απόκρυψη"
+
+msgid ""
+"Change the picon sharpness with the scaling.\n"
+"Info: < 1 = blurred and > 1 = sharpened\n"
+"(no restart required)"
+msgstr ""
+"Αλλαγή ευκρίνειας του λογότυπου μέσω κλιμάκωσης.\n"
+"Πληροφορίες: < 1 = θολή και > 1 = οξυμένη.\n"
+"(δεν απαιτείται επανεκκίνηση)"
+
+msgid "Channel list show MiniTV*"
+msgstr "Εμφάνιση MiniTV στη λίστα καναλιών*"
+
+msgid "Channel selection settings"
+msgstr "Ρυθμίσεις επιλογής καναλιών"
+
+msgid "Channel selection style"
+msgstr "Στυλ επιλογής καναλιών"
+
+msgid "ChannelName/Number FontSize"
+msgstr "Αριθμός καναλιού/Μέγεθος γραμματοσειράς αριθμού"
+
+msgid "ChannelSelection"
+msgstr "Επιλογή καναλιών"
+
+msgid "Channelselection"
+msgstr "Επιλογή καναλιών"
+
+msgid "Checking Feeds"
+msgstr "Έλεγχος πηγών"
+
+msgid "Choose Picon Type"
+msgstr "Επιλέξτε είδος λογότυπου"
+
+msgid "Choose skin resolution"
+msgstr "Επιλογή ανάλυσης για το θέμα"
+
+msgid "Chose Extended-Info Style"
+msgstr "Επιλογή στυλ εκτεταμένων πληροφοριών"
+
+msgid "Chose Skin Design"
+msgstr "Επιλογή σχεδιασμού θέματος"
+
+msgid "Circle Gradient"
+msgstr "Κύκλος ντεγκραντέ"
+
+msgid "Circle Gradient without Frame"
+msgstr "Κύκλος ντεγκραντέ χωρίς πλαίσιο"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "Η πόλη %s δεν βρέθηκε! Παρακαλώ δοκιμάστε μια άλλη διατύπωση."
+
+msgid "Clock in Layer A"
+msgstr "Ρολόι στο επίπεδο Α"
+
+msgid "Clock in Layer B"
+msgstr "Ρολόι στο επίπεδο Β"
+
+msgid "Clock text"
+msgstr "Κείμενο ρολογιού"
+
+msgid "Clock, Weather and Buttons"
+msgstr "Ρολόι, καιρός και πλήκτρα"
+
+msgid "Cobalt"
+msgstr "Κοβάλτιο"
+
+msgid "Color"
+msgstr "Χρώμα"
+
+msgid "Color 1"
+msgstr "Χρώμα 1"
+
+msgid "Color 2"
+msgstr "Χρώμα 2"
+
+msgid "Color Examples"
+msgstr "Παραδείγματα χρωμάτων"
+
+msgid "Color Gradient"
+msgstr "Διαβάθμιση χρώματος"
+
+msgid "Color settings"
+msgstr "Ρυθμίσεις χρωμάτων"
+
+msgid "Console"
+msgstr "Κονσόλα"
+
+msgid "Contrast Layer Design"
+msgstr "Σχεδιασμός στρώματος αντίθεσης"
+
+msgid "Crimson"
+msgstr "Βυσσινί"
+
+msgid "Cyan"
+msgstr "Κυανό"
+
+msgid "Dark Colors"
+msgstr "Σκούρα χρώματα"
+
+msgid "Darkblue"
+msgstr "Σκούρο μπλε"
+
+msgid "Darkbrown"
+msgstr "Σκούρο καφέ"
+
+msgid "Darkgrey"
+msgstr "Σκούρο γκρι"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Defaults"
+msgstr "Προεπιλογές"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Delete current Backup-Set?"
+msgstr "Διαγραφή του τρέχοντος σετ εφεδρείας;"
+
+msgid "Description text"
+msgstr "Κείμενο περιγραφής"
+
+msgid "Design settings"
+msgstr "Ρυθμίσεις σχεδίασης"
+
+msgid "Digital Fonts"
+msgstr "Ψηφιακές γραμματοσειρές"
+
+#, python-format
+msgid "Directory '%s' does not exist!"
+msgstr "Ο φάκελος '%s' δεν υπάρχει!"
+
+msgid "Disabled"
+msgstr "Ανενεργό"
+
+msgid "Distance between Servicename and Eventname."
+msgstr "Απόσταση μεταξύ ονόματος υπηρεσίας και ονόματος προγράμματος."
+
+msgid ""
+"Distance between Servicenumber and Servicename or Eventname and Progressbar."
+msgstr ""
+"Απόσταση μεταξύ του αριθμού και του ονόματος υπηρεσίας ή του ονόματος "
+"προγράμματος και της μπάρας προόδου."
+
+msgid "Distance between the STB-Infos"
+msgstr "Απόσταση μεταξύ των πληροφοριών δέκτη"
+
+msgid "Do you really want to reboot now?"
+msgstr "Θέλετε να γίνει επανεκκίνηση τώρα;"
+
+msgid "EMC"
+msgstr "EMC"
+
+msgid "EMC Movie List"
+msgstr "EMC λίστα ταινιών"
+
+msgid "EMC/MovieList"
+msgstr "EMC/Λίστα ταινιών"
+
+msgid "EMC/MoviePlayer"
+msgstr "EMC/Αναπαραγωγός ταινιών"
+
+msgid "END"
+msgstr "ΤΕΛΟΣ"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "EPG, Channellist, Movielist"
+msgstr "EPG, λίστα καναλιών, λίστα ταινιών"
+
+msgid "EXIT"
+msgstr "ΕΞΟΔΟΣ"
+
+msgid "East"
+msgstr "Ανατολικά"
+
+msgid "Emerald"
+msgstr "Σμαραγδί"
+
+msgid ""
+"Enable this option to display the wind speed, direction, 'feels like' "
+"temperature and humidity."
+msgstr ""
+"Ενεργοποιήστε αυτήν την επιλογή για εμφάνιση της ταχύτητας ανέμου, της "
+"διεύθυνσης, της αίσθησης θερμοκρασίας και της υγρασίας."
+
+msgid "Enable to display the description of the menu entries."
+msgstr "Ενεργοποιήστε για εμφάνιση των περιγραφών των στοιχείων των μενού."
+
+msgid "Enabled"
+msgstr "Ενεργό"
+
+msgid "Enhanced HD Option"
+msgstr "Επιλογές προηγμένου HD"
+
+msgid "Enhanced picon scaling"
+msgstr "Προηγμένη κλιμάκωση λογότυπων"
+
+msgid ""
+"Enter a personalized API key for use with OpenWeatherMap (https://"
+"openweathermap.org/)."
+msgstr ""
+"Εισαγωγή ενός προσωποποιημένου κλειδιού API για χρήση με το OpenWeatherMap "
+"(https://openweathermap.org/)."
+
+msgid "Enter the location for your weather forecasts."
+msgstr "Εισαγωγή της τοποθεσίας για τοπικές προγνώσεις."
+
+#, python-format
+msgid ""
+"Error creating %s skin. HD skin is used!\n"
+"\n"
+msgstr ""
+"Σφάλμα δημιουργίας θέματος %s. Χρησιμοποιείται θέμα HD!\n"
+"\n"
+
+msgid "Error creating Preset! One or more Fonts are not available!"
+msgstr ""
+"Σφάλμα δημιουργίας προεπιλογής. Μία ή περισσότερες γραμματοσειρές δεν είναι "
+"διαθέσιμες!"
+
+msgid "Error creating Skin!"
+msgstr "Σφάλμα δημιουργίας θέματος!"
+
+msgid "Error getting City ID"
+msgstr "Σφάλμα εύρεσης αναγνωριστικού πόλης"
+
+msgid "Error in Weatherinfo"
+msgstr "Σφάλμα πληροφοριών καιρού"
+
+msgid "Error, unknown Result!"
+msgstr "Σφάλμα, άγνωστο αποτέλεσμα!"
+
+msgid "Event Description"
+msgstr "Περιγραφή προγράμματος"
+
+msgid "Event List"
+msgstr "Λίστα προγραμμάτων"
+
+msgid "Event name text"
+msgstr "Κείμενο ονόματος προγράμματος"
+
+msgid "Extended Info colors"
+msgstr "Χρώματα εκτεταμένων πληροφοριών"
+
+msgid "Fahrenheit"
+msgstr "Φαρενάιτ"
+
+msgid "Field Distance"
+msgstr "Απόσταση πεδίου"
+
+msgid "Finished color"
+msgstr "Χρώμα τελειώματος"
+
+msgid "Fixed"
+msgstr "Σταθερό"
+
+#, python-format
+msgid "Flash Memory free: %s MByte"
+msgstr "Ελεύθερη μνήμη flash: %s MByte"
+
+msgid "Flat Gradient"
+msgstr "Επίπεδη διαβάθμιση"
+
+msgid "Flat Gradient without Frame"
+msgstr "Επίπεδη διαβάθμιση χωρίς πλαίσιο"
+
+msgid "Focus left, big picon, 1 next Events"
+msgstr "Εστίαση αριστερά, μεγάλο λογότυπο, 1 επόμενο πρόγραμμα"
+
+msgid "Focus left, description right"
+msgstr "Εστίαση αριστερά, περιγραφή δεξιά"
+
+msgid "Focus left, no picon, 5 next Events"
+msgstr "Εστίαση αριστερά, χωρίς λογότυπο, 5 επόμενα προγράμματα"
+
+msgid "Focus right, big picon, 1 next Events"
+msgstr "Εστίαση δεξιά, μεγάλο λογότυπο, 1 επόμενο πρόγραμμα"
+
+msgid "Focus right, description left"
+msgstr "Εστίαση δεξιά, περιγραφή αριστερά"
+
+msgid "Focus right, no picon, 5 next Events"
+msgstr "Εστίαση δεξιά, χωρίς λογότυπο, 5 επόμενα προγράμματα"
+
+msgid "Font Examples"
+msgstr "Παραδείγματα γραμματοσειρών"
+
+msgid "Font color"
+msgstr "Χρώμα γραμματοσειράς"
+
+msgid "Font color pseudo recording"
+msgstr "Χρώμα γραμματοσειράς ψευδοεγγραφής"
+
+msgid "Font color recording"
+msgstr "Χρώμα γραμματοσειράς εγγραφής"
+
+msgid "Font color selected"
+msgstr "Χρώμα γραμματοσειράς επιλογής"
+
+msgid "Font color streaming"
+msgstr "Χρώμα γραμματοσειράς ροής"
+
+msgid "Font scale [%]"
+msgstr "Κλίμακα γραμματοσειράς [%]"
+
+msgid "Font settings"
+msgstr "Ρυθμίσεις γραμματοσειράς"
+
+msgid "Font type"
+msgstr "Τύπος γραμματοσειράς"
+
+msgid "Foreground"
+msgstr "Προσκήνιο"
+
+msgid "Frame Color"
+msgstr "Χρώμα πλαισίου"
+
+msgid "Frame Color Transparency"
+msgstr "Διαφάνεια χρώματος πλαισίου"
+
+msgid "Frame Layer Design"
+msgstr "Σχέδιο στρώματος πλαισίου"
+
+msgid "Frame Size"
+msgstr "Μέγεθος πλαισίου"
+
+msgid "Full HD (1920x1080)"
+msgstr "Πλήρες HD (1920x1080)"
+
+#, python-format
+msgid "Full HD (1920x1080) %s"
+msgstr "Πλήρες HD (1920x1080) %s"
+
+msgid ""
+"GUI needs a restart to apply a new skin.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Πρέπει να γίνει επανεκκίνηση της διεπαφής χρήστη για να ενεργοποιηθεί το νέο "
+"θέμα.\n"
+"Να γίνει τώρα;"
+
+msgid "Generally"
+msgstr "Γενικά"
+
+msgid "Glossy Effect"
+msgstr "Γυαλιστερό εφέ"
+
+msgid "Glossy Effect Color"
+msgstr "Χρώμα γυαλιστερού εφέ"
+
+msgid "Glossy Effect Intensity"
+msgstr "Ένταση γυαλιστερού εφέ"
+
+msgid "Glossy Effect Over Text"
+msgstr "Γυαλιστερό εφέ πάνω από το κείμενο"
+
+msgid "Glossy Effect Position X"
+msgstr "Γυαλιστερό εφέ θέση Χ"
+
+msgid "Glossy Effect Position Y"
+msgstr "Γυαλιστερό εφέ θέση Υ"
+
+msgid "Glossy Effect Size"
+msgstr "Μέγεθος γυαλιστερού εφέ"
+
+msgid "Graphical EPG"
+msgstr "Γραφικός EPG"
+
+msgid "Graphical EPG style"
+msgstr "Στυλ γραφικού EPG"
+
+msgid "Green"
+msgstr "Πράσινο"
+
+msgid "Green Colors"
+msgstr "Πράσινα χρώματα"
+
+msgid "Greyscale 1"
+msgstr "Κλίμακα του γκρι 1"
+
+msgid "Greyscale 10"
+msgstr "Κλίμακα του γκρι 10"
+
+msgid "Greyscale 11"
+msgstr "Κλίμακα του γκρι 11"
+
+msgid "Greyscale 12"
+msgstr "Κλίμακα του γκρι 12"
+
+msgid "Greyscale 13"
+msgstr "Κλίμακα του γκρι 13"
+
+msgid "Greyscale 2"
+msgstr "Κλίμακα του γκρι 2"
+
+msgid "Greyscale 3"
+msgstr "Κλίμακα του γκρι 3"
+
+msgid "Greyscale 4"
+msgstr "Κλίμακα του γκρι 4"
+
+msgid "Greyscale 5"
+msgstr "Κλίμακα του γκρι 5"
+
+msgid "Greyscale 6"
+msgstr "Κλίμακα του γκρι 6"
+
+msgid "Greyscale 7"
+msgstr "Κλίμακα του γκρι 7"
+
+msgid "Greyscale 8"
+msgstr "Κλίμακα του γκρι 8"
+
+msgid "Greyscale 9"
+msgstr "Κλίμακα του γκρι 9"
+
+msgid "HELP"
+msgstr "ΒΟΗΘΕΙΑ"
+
+msgid "HOME"
+msgstr "ΑΡΧΙΚΗ"
+
+msgid "HandelGotD Fonts"
+msgstr "Γραμματοσειρές HandelGotD"
+
+msgid "Hide PVR State"
+msgstr "Απόκρυψη κατάστασης PVR"
+
+msgid "INFO"
+msgstr "ΠΛΗΡΟΦΟΡΙΕΣ"
+
+#, python-format
+msgid ""
+"If you can see this then is your receiver compatible.\n"
+"Do you want change from %s to %s - skin resolution?"
+msgstr ""
+"Αν μπορείτε να δείτε αυτό, τότε είναι συμβατός ο δέκτης σας.\n"
+"Θέλετε αλλαγή ανάλυσης του θέματος από %s σε %s;"
+
+msgid ""
+"Improved the picon scaling quality.\n"
+"(no restart required)"
+msgstr ""
+"Βελτιωμένη ποιότητα κλιμάκωσης λογότυπων.\n"
+"(δεν απαιτείται επανεκκίνηση)"
+
+msgid "In Moviebar"
+msgstr "Στη μπάρα ταινιών"
+
+msgid "Indigo"
+msgstr "Λουλακί"
+
+msgid "Individual Settings (only for some individual skinned screens)"
+msgstr "Ιδιαίτερες ρυθμίσεις (μόνο για συγκεκριμένες οθόνες θέματος)"
+
+msgid "Info: Setting applies not for EMC."
+msgstr "Πληροφορία: Η ρύθμιση δεν ισχύει για το EMC."
+
+msgid "InfoBar"
+msgstr "Μπάρα πληροφοριών"
+
+msgid "InfoBar/SecondInfobar"
+msgstr "Μπάρα/2η μπάρα πληροφοριών"
+
+msgid "InfoBar/SecondInfobar/Moviebar"
+msgstr "Μπάρα/2η μπάρα πληροφοριών/μπάρα ταινιών"
+
+msgid "Infobar, Moviebar"
+msgstr "Μπάρα πληροφοριών, μπάρα ταινιών"
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgid "Install Package not found!"
+msgstr "Το πακέτο εγκατάστασης δεν βρέθηκε!"
+
+#, python-format
+msgid ""
+"Installation error!\n"
+"\n"
+"%s"
+msgstr ""
+"Σφάλμα εγκατάστασης!\n"
+"\n"
+"%s"
+
+msgid "Installing ..."
+msgstr "Εγκατάσταση..."
+
+msgid "Item Distance"
+msgstr "Απόσταση αντικειμένων"
+
+msgid "LCD"
+msgstr "LCD"
+
+msgid "Label text"
+msgstr "Κείμενο ετικέτας"
+
+msgid "Large"
+msgstr "Μεγάλο"
+
+msgid "Large text"
+msgstr "Μεγάλο κείμενο"
+
+msgid "Layer A (main layer)"
+msgstr "Επίπεδο A (κύριο επίπεδο)"
+
+msgid "Layer A and B same height, Clock in Layer A"
+msgstr "Επίπεδο Α και Β στο ίδιο ύψος, ρολόι στο επίπεδο Α"
+
+msgid "Layer A and B same height, Clock in Layer B"
+msgstr "Επίπεδο Α και Β στο ίδιο ύψος, ρολόι στο επίπεδο Β"
+
+msgid "Layer B (secondary layer)"
+msgstr "Επίπεδο Β (δευτερεύον επίπεδο)"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Lime"
+msgstr "Λεμονί"
+
+msgid "Location Selection"
+msgstr "Επιλογή τοποθεσίας"
+
+msgid "MENU"
+msgstr "ΜΕΝΟΥ"
+
+msgid "MSN weather"
+msgstr "Καιρός MSN"
+
+msgid "Magenta"
+msgstr "Ματζέντα"
+
+msgid "Magenta 1"
+msgstr "Ματζέντα 1"
+
+msgid "Magenta 2"
+msgstr "Ματζέντα 2"
+
+msgid "Mandarin"
+msgstr "Μανταρινί"
+
+msgid "Mauve"
+msgstr "Μωβ"
+
+msgid "Mediumblue"
+msgstr "Μεσαίο μπλε"
+
+msgid "Menu"
+msgstr "Μενού"
+
+msgid "Menu Symbol"
+msgstr "Σύμβολο μενού"
+
+msgid "Menu entry text"
+msgstr "Κείμενο στοιχείου μενού"
+
+msgid "Meteo Icons"
+msgstr "Εικονίδια καιρού"
+
+msgid "MetrixWeather API key"
+msgstr "MetrixWeather κλειδί API"
+
+msgid "MetrixWeather animations speed"
+msgstr "MetrixWeather ταχύτητα κινούμενων εικόνων"
+
+msgid "MetrixWeather icon night switch"
+msgstr ""
+
+msgid "MetrixWeather city name"
+msgstr "MetrixWeather όνομα πόλης"
+
+msgid "MetrixWeather icon path"
+msgstr "MetrixWeather διαδρομή εικονιδίων"
+
+msgid "MetrixWeather icon style"
+msgstr "MetrixWeather στυλ εικονιδίων"
+
+msgid "MetrixWeather service"
+msgstr "MetrixWeather υπηρεσία"
+
+msgid "Midnight"
+msgstr "Μεσάνυχτα"
+
+msgid "Movie List style"
+msgstr "Στυλ λίστας ταινιών"
+
+msgid "My Backup Description"
+msgstr "Περιγραφή του αντιγράφου ασφαλείας μου"
+
+#, python-format
+msgid "My Backup No. %d"
+msgstr "Αριθμός %d του αντιγράφου ασφαλείας μου"
+
+msgid "My Backup Number"
+msgstr "Αριθμός του αντιγράφου ασφαλείας μου"
+
+#, python-format
+msgid "My Backup Saved:   %s"
+msgstr "Το αντίγραφο ασφαλείας μου αποθηκεύτηκε:   %s"
+
+#, python-format
+msgid "My Last Backup Entry:   %s"
+msgstr "Τελευταία καταχώρηση του αντιγράφου ασφαλείας μου:   %s"
+
+#, python-format
+msgid "My Last Restored Entry:   %s"
+msgstr "Τελευταία καταχώριση της επαναφοράς μου:   %s"
+
+msgid "MyMetrixLite"
+msgstr "MyMetrixLite"
+
+msgid "N/A"
+msgstr "Μ/Δ"
+
+msgid "Navy"
+msgstr "Μαρέν"
+
+msgid "Next"
+msgstr "Επόμενο"
+
+msgid "No"
+msgstr "Όχι"
+
+#, python-format
+msgid ""
+"No Backup-File found!\n"
+"( %s )"
+msgstr ""
+"Δεν βρέθηκε αντίγραφο ασφαλείας!\n"
+"( %s )"
+
+msgid "No Backup-Set found!"
+msgstr "Δεν βρέθηκε σετ αντιγράφων ασφαλείας!"
+
+msgid "No Design"
+msgstr "Χωρίς σχέδιο"
+
+msgid "No description available."
+msgstr "Μη διαθέσιμη περιγραφή."
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "North"
+msgstr "Βόρεια"
+
+msgid "Northeast"
+msgstr "Βορειοανατολικά"
+
+msgid "Northwest"
+msgstr "Βορειοδυτικά"
+
+#, python-format
+msgid ""
+"Not enough free flash memory to create the new %s skin files. ( %d kb is "
+"required )"
+msgstr ""
+"Δεν υπάρχει αρκετή ελεύθερη μνήμη για τη δημιουργία των νέων αρχείων του "
+"θέματος %s. (απαιτούνται %d kb)"
+
+#, python-format
+msgid ""
+"Not enough free flash memory to install the %s icons. ( %d MB is required )"
+msgstr ""
+"Δεν υπάρχει αρκετή ελεύθερη μνήμη flash για την εγκατάσταση των εικονιδίων "
+"%s. ( Απαιτούνται %d MB )"
+
+msgid "OK"
+msgstr "ΟΚ"
+
+msgid "OSD settings"
+msgstr "Ρυθμίσεις OSD"
+
+msgid "Off"
+msgstr "Κλειστό"
+
+msgid "Offset picon position x"
+msgstr "Μετατόπιση θέσης λογότυπου x"
+
+msgid "Offset picon position y"
+msgstr "Μετατόπιση θέσης λογότυπου y"
+
+msgid "Offset picon size"
+msgstr "Μετατόπιση μεγέθους λογότυπου"
+
+msgid "Olive"
+msgstr "Λαδί"
+
+msgid "One Layer Design"
+msgstr "Σχέδιο ενός επιπέδου"
+
+msgid "Open-Meteo Wetter"
+msgstr "Καιρός Open-Meteo"
+
+msgid "OpenWeatherMap"
+msgstr "OpenWeatherMap"
+
+msgid "Orange"
+msgstr "Πορτοκαλί"
+
+msgid "Other settings"
+msgstr "Άλλες ρυθμίσεις"
+
+msgid "Other text"
+msgstr "Άλλο κείμενο"
+
+msgid "Output text"
+msgstr "Κείμενο εξόδου"
+
+msgid "Overwrite current Backup-Set?"
+msgstr "Αντικατάσταση του τρέχοντος σετ αντιγράφων ασφαλείας;"
+
+msgid "Overwrite current Settings?"
+msgstr "Αντικατάσταση τρεχουσών ρυθμίσεων;"
+
+msgid "Pink"
+msgstr "Ροζ"
+
+msgid "Please enter new name:"
+msgstr "Εισάγετε νέο όνομα:"
+
+msgid "Please wait whilst feeds state is checked."
+msgstr "Παρακαλώ περιμένετε καθώς ελέγχεται η κατάσταση των πηγών."
+
+msgid "Position"
+msgstr "Θέση"
+
+msgid "Position PVR State"
+msgstr "Θέση κατάστασης PVR"
+
+msgid ""
+"Powered by\n"
+"-----------------\n"
+"msn weather (https://www.msn.com)\n"
+"and\n"
+"OpenWeatherMap (https://openweathermap.org)\n"
+"and\n"
+"Open-Meteo (https://open-meteo.com/en)"
+msgstr ""
+"Υποστηρίζεται από\n"
+"-----------------\n"
+"msn weather (https://www.msn.com)\n"
+"και\n"
+"OpenWeatherMap (https://openweathermap.org)\n"
+"και\n"
+"Open-Meteo (https://open-meteo.com/en)"
+
+msgid "Primetime"
+msgstr "Ζώνη αιχμής"
+
+msgid "Progress bar"
+msgstr "Μπάρα προόδου"
+
+msgid "Quick Setup"
+msgstr "Γρήγορη εγκατάσταση"
+
+#, python-format
+msgid "RAM-Free: %s MB"
+msgstr "Ελεύθερη RAM: %s MB"
+
+msgid "Raleway Fonts"
+msgstr "Γραμματοσειρές Raleway"
+
+#, python-format
+msgid "Ready to install %s ?"
+msgstr "Εγκατάσταση του %s ;"
+
+#, python-format
+msgid "Ready to remove %s ?"
+msgstr "Αφαίρεση του %s ;"
+
+msgid "Recording color"
+msgstr "Χρώμα εγγραφής"
+
+msgid "Red"
+msgstr "Κόκκινο"
+
+msgid "Red Colors"
+msgstr "Κόκκινα χρώματα"
+
+msgid "Refresh interval"
+msgstr "Διάστημα ανανέωσης"
+
+msgid "Regular"
+msgstr "Κανονική"
+
+msgid "RegularLight"
+msgstr "Κανονική λεπτή"
+
+msgid "Removing ..."
+msgstr "Αφαίρεση..."
+
+msgid "Replacement"
+msgstr "Αντικατάσταση"
+
+msgid "Restart GUI"
+msgstr "Επανεκκίνηση διεπαφής χρήστη"
+
+msgid "Restore"
+msgstr "Επαναφορά"
+
+#, python-format
+msgid "Restoring Backup-Set %d ..."
+msgstr "Επαναφορά σετ αντιγράφων ασφαλείας %d ..."
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Royal Blue"
+msgstr "Μπλε Ρουά"
+
+msgid "Running Text Parameter"
+msgstr "Παράμετρος κινούμενου κειμένου"
+
+msgid "STB-Info"
+msgstr "STB-Πληροφορίες"
+
+#, python-format
+msgid "SYS-Temp: %s"
+msgstr "Θερμοκρασία συστήματος: %s"
+
+msgid "Satellite"
+msgstr "Δορυφόρος"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Screen title separating line"
+msgstr "Διαχωριστική γραμμή τίτλου οθόνης"
+
+msgid "Screen title text"
+msgstr "Κείμενο τίτλου οθόνης"
+
+msgid "Screens"
+msgstr "Οθόνες"
+
+msgid "Screens, Plugins"
+msgstr "Οθόνες, πρόσθετα"
+
+msgid "Scrollbar Border width"
+msgstr "Πλάτος περιγράμματος γραμμής κύλισης"
+
+msgid "Scrollbar Slider"
+msgstr "Ρυθμιστικό γραμμής κύλισης"
+
+msgid "Scrollbar Slider width"
+msgstr "Πλάτος ρυθμιστικού γραμμής κύλισης"
+
+msgid "Search for City ID please wait..."
+msgstr "Αναζήτηση ID πόλης, περιμένετε..."
+
+msgid "Search for your City"
+msgstr "Αναζήτηση για την πόλη σας"
+
+msgid ""
+"Select 'Yes' to also display MetrixWeather in the 'MoviePlayer' InfoBar "
+"screen."
+msgstr ""
+"Επιλέξτε \"ναι\" για να εμφανίζεται το MetrixWeather επίσης στη μπάρα "
+"πληροφοριών ταινιών."
+
+msgid "Select 'Yes' to display your cityname in MetrixWeather"
+msgstr ""
+"Επιλέξτε «ναι» για να εμφανίζεται το όνομα της πόλης σας στο MetrixWeather"
+
+msgid ""
+"Select 'Yes' to enable the addition of MetrixWeather to the InfoBar screen."
+msgstr ""
+"Επιλέξτε «ναι» για να ενεργοποιηθεί η προσθήκη του MetrixWeather στη μπάρα "
+"πληροφοριών."
+
+msgid "Select Your Location"
+msgstr "Επιλογή τοποθεσίας"
+
+msgid "Select the animations speed for the animated icons."
+msgstr "Επιλογή ταχύτητας κίνησης για τα κινούμενα εικονίδια."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+
+msgid "Select the number of days of weather forecast to be displayed."
+msgstr "Επιλέξτε τον αριθμό των ημερών πρόγνωσης καιρού που θα εμφανίζονται."
+
+msgid ""
+"Select the path to where the MetrixWeather icons can be found. This path "
+"cannot be empty!"
+msgstr ""
+"Επιλογή διαδρομής τοποθέτησης των εικονιδίων του MetrixWeather. Αυτή η "
+"διαδρομή δεν μπορεί να είναι κενή!"
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr "Επιλογή της προτιμώμενης υπηρεσίας παροχής των πληροφοριών καιρού."
+
+msgid "Select the style of MetrixWeather icons to be used."
+msgstr "Επιλογή του στυλ των εικονιδίων MetrixWeather που θα χρησιμοποιηθούν."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "Επιλογή μονάδας θερμοκρασίας για χρήση στις ενδείξεις θερμοκρασίας."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Ενεργοποιήστε αυτήν την επιλογή για να αποθηκευτούν τα τελευταία δεδομένα "
+"καιρού που λήφθηκαν τοπικά. Αυτό χρησιμοποιείται για την προετοιμασία των "
+"δεδομένων αμέσως μετά την επανεκκίνηση, ενώ γίνεται λήψη ενημερωμένων "
+"δεδομένων."
+
+msgid "Selection bar"
+msgstr "Μπάρα επιλογής"
+
+msgid "Service"
+msgstr "Υπηρεσία"
+
+msgid "Service Description"
+msgstr "Περιγραφή υπηρεσίας"
+
+msgid "Service List"
+msgstr "Λίστα υπηρεσιών"
+
+msgid "Set default values"
+msgstr "Ορισμός προεπιλεγμένων τιμών"
+
+msgid "Set number of tuner automatically"
+msgstr "Αυτόματη ρύθμιση αριθμού tuner"
+
+msgid "Set number of tuner manually"
+msgstr "Χειροκίνητη ρύθμιση αριθμού tuner"
+
+msgid "Set picon sharpness"
+msgstr "Ορισμός ευκρίνειας λογότυπων"
+
+msgid "Set primetime in graphical epg settings."
+msgstr "Ορισμός ζώνης αιχμής στις ρυθμίσεις γραφικού epg."
+
+msgid "SetrixHD"
+msgstr "SetrixHD"
+
+msgid ""
+"Setting is the same as\n"
+"'"
+msgstr ""
+"Η ρύθμιση είναι ίδια με την\n"
+"'"
+
+msgid "Settings successfully restored."
+msgstr "Οι ρυθμίσεις αποκαταστάθηκαν με επιτυχία."
+
+msgid "Show Background"
+msgstr "Εμφάνιση φόντου"
+
+msgid "Show CAID"
+msgstr "Εμφάνιση CAID"
+
+msgid "Show CPU-Load"
+msgstr "Εμφάνιση φόρτου CPU"
+
+msgid "Show CPU-Temp"
+msgstr "Εμφάνιση θερμοκρασίας CPU"
+
+msgid "Show ChannelName"
+msgstr "Εμφάνιση ονόματος καναλιού"
+
+msgid "Show ChannelNumber"
+msgstr "Εμφάνιση αριθμού καναλιού"
+
+msgid "Show Clock"
+msgstr "Εμφάνιση ρολογιού"
+
+msgid "Show Cover in Infobar"
+msgstr "Εμφάνιση εξωφύλλου στη μπάρα πληροφοριών"
+
+msgid "Show Cover in Media Center"
+msgstr "Εμφάνιση εξωφύλλου στο Media Center"
+
+msgid "Show Cover in Movie Selection"
+msgstr "Εμφάνιση εξωφύλλου στην επιλογή ταινιών"
+
+msgid "Show ECM TIME"
+msgstr "Εμφάνιση χρόνου ECM"
+
+msgid "Show Extended-Info"
+msgstr "Εμφάνιση εκτεταμένων πληροφοριών"
+
+msgid "Show HOPS"
+msgstr "Εμφάνιση HOPS"
+
+msgid "Show Menu Buttons"
+msgstr "Εμφάνιση πλήκτρων μενού"
+
+msgid "Show Menu Scrollinfo"
+msgstr "Εμφάνιση κυλιόμενων πληροφοριών μενού"
+
+msgid "Show Movie Description"
+msgstr "Εμφάνιση περιγραφής ταινίας"
+
+msgid "Show Movie Playback Time"
+msgstr "Εμφάνιση χρόνου αναπαραγωγής ταινίας"
+
+msgid "Show MovieName"
+msgstr "Εμφάνιση ονόματος ταινίας"
+
+msgid "Show Orbital-Position"
+msgstr "Εμφάνιση τροχιακής θέσης"
+
+msgid "Show PID"
+msgstr "Εμφάνιση PID"
+
+msgid "Show PROTOCOL"
+msgstr "Εμφάνιση ΠΡΩΤΟΚΟΛΛΟΥ"
+
+msgid "Show PROV"
+msgstr "Εμφάνιση PROV"
+
+msgid "Show PVR status in MoviePlayer infobar"
+msgstr "Εμφάνιση κατάστασης PVR στη μπάρα πληροφοριών ταινιών"
+
+msgid "Show Picon in Movie Selection?"
+msgstr "Εμφάνιση λογότυπων στην επιλογή ταινιών;"
+
+msgid "Show Primetime Event"
+msgstr "Εμφάνιση προγράμματος ζώνης αιχμής"
+
+msgid "Show READER"
+msgstr "Εμφάνιση ΑΝΑΓΝΩΣΤΗ"
+
+msgid "Show Record-State"
+msgstr "Εμφάνιση κατάστασης εγγραφής"
+
+msgid "Show SNR-Info"
+msgstr "Εμφάνιση πληροφοριών SNR"
+
+msgid "Show SOURCE"
+msgstr "Εμφάνιση ΠΗΓΗΣ"
+
+msgid "Show STB-Info"
+msgstr "Εμφάνιση πληροφοριών STB"
+
+msgid "Show SYS-Temp"
+msgstr "Εμφάνιση θερμοκρασίας συστήματος"
+
+msgid "Show Screen-Resolution"
+msgstr "Εμφάνιση ανάλυσης οθόνης"
+
+msgid "Show Scrollbar if more than one pages are available."
+msgstr ""
+"Εμφάνιση γραμμής κύλισης αν είναι διαθέσιμες περισσότερες από μία σελίδες."
+
+msgid "Show ServiceIcons"
+msgstr "Εμφάνιση εικονιδίων υπηρεσίας"
+
+msgid "Show Space between Layer A and B"
+msgstr "Εμφάνιση διαστήματος μεταξύ των επιπέδων Α και Β"
+
+msgid "Show Tuner-Info"
+msgstr "Εμφάνιση πληροφοριών tuner"
+
+msgid "Show also in main layer?"
+msgstr "Εμφάνιση επίσης στο κύριο επίπεδο;"
+
+msgid "Show cityname in details"
+msgstr "Εμφάνιση ονόματος πόλης με λεπτομέρειες"
+
+msgid "Show color buttons at top of the screen."
+msgstr "Εμφάνιση έγχρωμων πλήκτρων στο επάνω μέρος της οθόνης."
+
+msgid "Show detail"
+msgstr "Εμφάνιση λεπτομερειών"
+
+msgid "Show event colors if entry selected"
+msgstr "Εμφάνιση χρωμάτων προγράμματος αν επιλεγεί το στοιχείο"
+
+msgid "Show extended Screen-Resolution"
+msgstr "Εμφάνιση εκτεταμένης ανάλυσης οθόνης"
+
+msgid "Show forecast"
+msgstr "Εμφάνιση πρόβλεψης καιρού"
+
+msgid "Show free RAM"
+msgstr "Εμφάνιση ελεύθερης μνήμης RAM"
+
+msgid "Show in Channel selection?"
+msgstr "Εμφάνιση στην επιλογή καναλιών;"
+
+msgid "Show in EMC?"
+msgstr "Εμφάνιση στο EMC;"
+
+msgid "Show in Movie Center?"
+msgstr "Εμφάνιση στο Movie Center;"
+
+msgid "Show in MoviePlayer"
+msgstr "Εμφάνιση στον αναπαραγωγό ταινιών"
+
+msgid ""
+"Show info in main menu and context menu if more entries on next side.\n"
+"(no restart required)"
+msgstr ""
+"Εμφάνιση πληροφοριών στο κύριο μενού και στο μενού περιεχομένων αν υπάρχουν "
+"περισσότερες καταχωρήσεις στην άλλη πλευρά.\n"
+"(δεν απαιτείται επανεκκίνηση)"
+
+msgid "Show large Text on bottom of the screen"
+msgstr "Εμφάνιση μεγάλου κειμένου στο κάτω μέρος της οθόνης"
+
+msgid "Show lower left Corner Layer"
+msgstr "Εμφάνιση επιπέδου κάτω αριστερής γωνίας"
+
+msgid "Show lower right Corner Layer"
+msgstr "Εμφάνιση επιπέδου κάτω δεξιάς γωνίας"
+
+msgid "Show menu entry description"
+msgstr "Εμφάνιση περιγραφής στοιχείου μενού"
+
+msgid ""
+"Show only if available.\n"
+"\n"
+"Positions:\n"
+msgstr ""
+"Εμφάνιση μόνο αν είναι διαθέσιμο.\n"
+"\n"
+"Θέσεις:\n"
+
+msgid "Show optional horizontal Layer"
+msgstr "Εμφάνιση προαιρετικού οριζόντιου επιπέδου"
+
+msgid "Show optional vertical Layer"
+msgstr "Εμφάνιση προαιρετικού κάθετου επιπέδου"
+
+msgid "Show picons zoomed ?"
+msgstr "Εμφάνιση λογότυπων με μεγέθυνση;"
+
+msgid "Show running text for description of the event."
+msgstr "Εμφάνιση κινούμενου κειμένου για περιγραφή προγράμματος."
+
+msgid ""
+"Show running text for event. If it flickers, try increasing the start delay."
+msgstr ""
+"Εμφάνιση κινούμενου κειμένου για το πρόγραμμα. Αν τρεμοπαίζει, δοκιμάστε να "
+"αυξήσετε την καθυστέρηση έναρξης."
+
+msgid "Show running text?"
+msgstr "Εμφάνιση κινούμενου κειμένου;"
+
+msgid "Show scrollbar?"
+msgstr "Εμφάνιση γραμμής κύλισης;"
+
+msgid "Show upper left Corner Layer"
+msgstr "Εμφάνιση επιπέδου επάνω αριστερής γωνίας"
+
+msgid "Show upper right Corner Layer"
+msgstr "Εμφάνιση επιπέδου επάνω δεξιάς γωνίας"
+
+msgid "Side by PVR-Symbol"
+msgstr "Δίπλα στο σύμβολο PVR"
+
+msgid "Sienna"
+msgstr "Σιέννα"
+
+msgid "Size"
+msgstr "Μέγεθος"
+
+msgid "Skin Design"
+msgstr "Σχέδιο θέματος"
+
+msgid "Skin Design Buttons"
+msgstr "Πλήκτρα σχεδίου θέματος"
+
+msgid "Skin Design Examples"
+msgstr "Παραδείγματα σχεδίου θέματος"
+
+msgid "Skinpart are not available - can't be activated."
+msgstr "Το τμήμα θέματος δεν είναι διαθέσιμο - δεν μπορεί να ενεργοποιηθεί."
+
+msgid "Skinpart settings"
+msgstr "Ρυθμίσεις τμήματος θέματος"
+
+msgid "Slider"
+msgstr "Ολισθητής"
+
+msgid "Small"
+msgstr "Μικρό"
+
+msgid "Small text"
+msgstr "Μικρό κείμενο"
+
+msgid "Solid"
+msgstr "Αμιγές χρώμα"
+
+msgid "Solid without Frame"
+msgstr "Αμιγές χωρίς πλαίσιο"
+
+msgid "Sorry feeds are down for maintenance, please try again later."
+msgstr ""
+"Λυπούμαστε, οι πηγές δεν είναι διαθέσιμες λόγω συντήρησης, δοκιμάστε "
+"αργότερα."
+
+msgid "South"
+msgstr "Νότια"
+
+msgid "Southeast"
+msgstr "Νοτιοανατολικά"
+
+msgid "Southwest"
+msgstr "Νοτιοδυτικά"
+
+msgid ""
+"Specify how often MetrixWeather retrieves its data from the server. 'Once' "
+"means the data will loaded only once after a GUI or system start."
+msgstr ""
+"Καθορίστε πόσο συχνά το MetrixWeather θα ανακτά τα δεδομένα του από το "
+"διακομιστή. «Μία φορά» σημαίνει ότι τα δεδομένα θα φορτωθούν μόνο μία φορά "
+"μετά την εκκίνηση της επιφάνειας χρήστη ή του συστήματος."
+
+msgid "Speed"
+msgstr "Ταχύτητα"
+
+msgid "Standard"
+msgstr "Στάνταρ"
+
+msgid "Standard Colors"
+msgstr "Στάνταρ χρώματα"
+
+msgid "Standard Fonts"
+msgstr "Στάνταρ γραμματοσειρές"
+
+msgid "Standard Fonts greater"
+msgstr "Μεγαλύτερες στάνταρ γραμματοσειρές"
+
+msgid "Standard HD (1280x720)"
+msgstr "Τυπικό HD (1280x720)"
+
+msgid "Startdelay"
+msgstr "Καθυστέρηση έναρξης"
+
+msgid "Static Icons"
+msgstr "Στατικά εικονίδια"
+
+msgid "Steel"
+msgstr "Ατσάλι"
+
+msgid "Stripe Layer Design"
+msgstr "Σχέδιο λωρίδας επιπέδου"
+
+msgid "Style"
+msgstr "Στυλ"
+
+msgid "TEST"
+msgstr "ΔΟΚΙΜΗ"
+
+msgid "TEXT"
+msgstr "ΚΕΙΜΕΝΟ"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Teal"
+msgstr "Γαλαζοπράσινο"
+
+msgid "Temperature unit"
+msgstr "Μονάδα θερμοκρασίας"
+
+msgid "Terrestrial"
+msgstr "Επίγειο"
+
+msgid "Test Resolution"
+msgstr "Δοκιμή ανάλυσης"
+
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+msgid "Text Color Transparency"
+msgstr "Διαφάνεια χρώματος κειμένου"
+
+msgid "Text Font"
+msgstr "Γραμματοσειρά κειμένου"
+
+msgid "Text Position"
+msgstr "Θέση κειμένου"
+
+msgid "Text Size"
+msgstr "Μέγεθος κειμένου"
+
+msgid "Text Windowtitle"
+msgstr "Τίτλος παραθύρου κειμένου"
+
+msgid "Text in background"
+msgstr "Κείμενο στο παρασκήνιο"
+
+msgid ""
+"The API key for OpenWeatherMap is not defined or invalid.\n"
+"Please verify your input data.\n"
+"Otherwise your settings won't be saved."
+msgstr ""
+"Το κλειδί API για το OpenWeatherMap δεν έχει οριστεί ή δεν είναι έγκυρο.\n"
+"Επαληθεύστε τα δεδομένα εισόδου σας.\n"
+"Διαφορετικά, οι ρυθμίσεις σας δεν θα αποθηκευτούν."
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr ""
+"Το όνομα της πόλης είναι πολύ μικρό. Απαιτούνται περισσότεροι από 2 "
+"χαρακτήρες για την αναζήτηση."
+
+msgid "Time Line"
+msgstr "Γραμμή χρόνου"
+
+msgid "Top"
+msgstr "Κορυφή"
+
+msgid "Top of the screen"
+msgstr "Επάνω μέρος της οθόνης"
+
+msgid "Top of the screen with current time"
+msgstr "Επάνω μέρος της οθόνης με την τρέχουσα ώρα"
+
+msgid "Transparency"
+msgstr "Διαφάνεια"
+
+msgid "Transparent"
+msgstr "Διάφανο"
+
+msgid "Turquoise"
+msgstr "Τουρκουάζ"
+
+msgid "Ultra HD (3840x2160)"
+msgstr "Ultra HD (3840x2160)"
+
+#, python-format
+msgid "Ultra HD (3840x2160) %s"
+msgstr "Ultra HD (3840x2160) %s"
+
+msgid "Unknown error occurred!"
+msgstr "Προέκυψε άγνωστο σφάλμα!"
+
+msgid "Use simple calculation"
+msgstr "Χρήση απλού υπολογισμού"
+
+msgid "Vertical EPG"
+msgstr "Κάθετος EPG"
+
+msgid "Violet"
+msgstr "Βιολετί"
+
+msgid "Watched color"
+msgstr "Χρώμα παρακολούθησης"
+
+msgid "Weather Settings Actions"
+msgstr "Ενέργειες ρυθμίσεων καιρού"
+
+msgid "Weather settings"
+msgstr "Ρυθμίσεις καιρού"
+
+msgid "Weather week text"
+msgstr "Κείμενο καιρού εβδομάδας"
+
+msgid "West"
+msgstr "Δυτικά"
+
+msgid "Where do you want to get the MetrixWeather icons?"
+msgstr "Από πού θέλετε να λαμβάνονται τα εικονίδια MetrixWeather;"
+
+msgid "White"
+msgstr "Λευκό"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "XPicons"
+msgstr "XPicons"
+
+msgid "Yellow"
+msgstr "Κίτρινο"
+
+msgid "Yellow Colors"
+msgstr "Κίτρινα χρώματα"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "Yes, show screens"
+msgstr "Ναι, εμφάνιση οθονών"
+
+#, python-format
+msgid ""
+"You can create up to 99 Backup-Sets.\n"
+"Stored in:\n"
+"%s"
+msgstr ""
+"Μπορείτε να δημιουργήσετε έως και 99 σετ αντιγράφων ασφαλείας.\n"
+"Αποθήκευση σε:\n"
+"%s"
+
+msgid "You can here assign an individual name."
+msgstr "Εδώ μπορείτε να ορίσετε ένα ιδιαίτερο όνομα."
+
+msgid "You have the'HbbTV Plugin' installed.\n"
+msgstr "Έχετε εγκαταστήσει το «Πρόσθετο HbbTV».\n"
+
+#, python-format
+msgid ""
+"Your %s %s is not connected to the internet, please check your network "
+"settings and try again."
+msgstr ""
+"Ο %s %s σας δεν είναι συνδεδεμένος στο διαδίκτυο, ελέγξτε τις ρυθμίσεις "
+"δικτύου και προσπαθήστε ξανά."
+
+msgid "Your enhanced hd settings are inconsistent. Please check this."
+msgstr ""
+"Υπάρχει ανακολουθία στις προχωρημένες hd ρυθμίσεις σας. Παρακαλώ ελέγξτε τις."
+
+msgid "ZZZPicons"
+msgstr "ZZZPicons"
+
+msgid "Zoom"
+msgstr "Μεγέθυνση"
+
+msgid "and"
+msgstr "και"
+
+msgid "disabled"
+msgstr "ανενεργό"
+
+msgid "graphical EPG"
+msgstr "γραφικός EPG"
+
+msgid "height"
+msgstr "ύψος"
+
+msgid "helptext"
+msgstr "κείμενο βοήθειας"
+
+msgid "in Image included Fonts"
+msgstr "στις γραμματοσειρές που περιλαμβάνονται στο image"
+
+msgid "in Menus"
+msgstr "στα μενού"
+
+msgid "in Menus and Screens"
+msgstr "στα μενού και στις οθόνες"
+
+msgid "in Screens"
+msgstr "στις οθόνες"
+
+msgid "in Skin included Fonts"
+msgstr "στις γραμματοσειρές που συμπεριλαμβάνονται στο θέμα"
+
+msgid "left"
+msgstr "αριστερά"
+
+msgid "mini TV"
+msgstr "mini TV"
+
+msgid "more Events or 'mini TV' greater"
+msgstr "περισσότερα προγράμματα ή μεγαλύτερη 'mini TV'"
+
+msgid "now"
+msgstr "τώρα"
+
+msgid "off"
+msgstr "κλειστό"
+
+msgid "openATV configuration tool for MetrixHD"
+msgstr "openATV εργαλείο παραμετροποιήσεων για το MetrixHD"
+
+msgid "please wait..."
+msgstr "περιμένετε..."
+
+msgid "pos x"
+msgstr "θέση x"
+
+msgid "pos y"
+msgstr "θέση y"
+
+msgid "pos z"
+msgstr "θέση z"
+
+msgid "right"
+msgstr "δεξιά"
+
+msgid "selected"
+msgstr "επιλεγμένο"
+
+msgid "width"
+msgstr "πλάτος"
+
+#~ msgid "--- additional files start ---\n"
+#~ msgstr "--- ξεκινούν πρόσθετα αρχεία ---\n"
+
+#~ msgid "Backup "
+#~ msgstr "Αντίγραφο ασφαλείας "
+
+#~ msgid ""
+#~ "\n"
+#~ "New calculated file is "
+#~ msgstr ""
+#~ "\n"
+#~ "Το νέο υπολογιζόμενο αρχείο είναι "
+
+#~ msgid "No files found or files already exist."
+#~ msgstr "Δεν βρέθηκαν αρχεία ή τα αρχεία υπάρχουν ήδη."
+
+#~ msgid ""
+#~ "\n"
+#~ "--- additional files end ---\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "--- τέλος πρόσθετων αρχείων ---\n"
+#~ "\n"
+
+#, python-format
+#~ msgid ""
+#~ "One or more %s icons are missing. Using HD icons for this.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Ένα ή περισσότερα εικονίδια %s λείπουν. Χρήση εικονιδίων HD για το σκοπό "
+#~ "αυτό.\n"
+#~ "\n"

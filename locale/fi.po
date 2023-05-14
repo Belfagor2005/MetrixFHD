@@ -1,0 +1,2303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: openATV / MyMetrixLite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-07 12:20+0100\n"
+"PO-Revision-Date: 2022-12-07 12:48+0000\n"
+"Last-Translator: tomppaa <tomzza89@gmail.com>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/openatv/metrixhd/"
+"fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid ""
+"\n"
+"(No preview picture available.)"
+msgstr ""
+"\n"
+"(Esikatselukuvaa ei löydy.)"
+
+#, python-format
+msgid ""
+"\n"
+"(One or more %s icons are missing.)\n"
+"\n"
+msgstr ""
+"\n"
+"(Yksi tai useampi %s-kuvake puuttuu.)\n"
+"\n"
+
+#, python-format
+msgid ""
+"\n"
+"Maybe is a compatibility issue with %s resolution.\n"
+"Attention: The osd-error occurs first after gui or system restart!\n"
+"\n"
+"Do you want really change from %s to %s - skin?"
+msgstr ""
+"\n"
+"Ehkä on yhteensopivuusongelma %s tarkkuudella.\n"
+"Huomio: Kuvaruudun virheet ilmenevät ensimmäisen kerran kun järjestelmän "
+"uudelleen käynnistettään!\n"
+"\n"
+"Haluatko varmasti vaihtaa %s to %s teeman?"
+
+msgid ""
+"\n"
+"Press 'OK-Button'"
+msgstr ""
+"\n"
+"Paina 'OK-Button'"
+
+msgid " "
+msgstr " "
+
+msgid "     "
+msgstr "     "
+
+msgid " - box support unknown"
+msgstr " - digiboksi tuki tuntematon"
+
+msgid ""
+"!!! If your receiver not compatible is a crash possible !!!\n"
+"\n"
+"Choose 'yes', then starts the resolution test.\n"
+"The old resolution will automatically restored after 10 seconds."
+msgstr ""
+"!!! Jos vastaanotin ei ole yhteensopiva, järjestelmän kaatuminen on "
+"mahdollista !!! \n"
+"\n"
+"Jos valitset\" Kyllä \", resoluutiotesti alkaa.\n"
+"Vanha resoluutio palautetaan automaattisesti 10 sekunnin kuluttua."
+
+msgid "!!! Recording(s) are in progress or coming up in few minutes !!!"
+msgstr ""
+"!!! Tallennus on aktiivinen tai se alkaa muutaman minuutin kuluttua !!!"
+
+#, python-format
+msgid "%d Minutes"
+msgstr "%d Minuuttia"
+
+msgid ""
+"'\n"
+"in the\n"
+"'"
+msgstr ""
+"''\n"
+"kohdassa\n"
+"''"
+
+msgid "(Text-Mode)"
+msgstr "(tekstitila)"
+
+msgid "+ 1"
+msgstr "+ 1"
+
+msgid "+ 2"
+msgstr "+ 2"
+
+msgid "+ 3"
+msgstr "+ 3"
+
+msgid "+ 4"
+msgstr "+ 4"
+
+msgid "+2"
+msgstr "+2"
+
+msgid "+4"
+msgstr "+4"
+
+msgid "+6"
+msgstr "+6"
+
+msgid "+8"
+msgstr "+8"
+
+msgid "-"
+msgstr "-"
+
+msgid "- 1"
+msgstr "- 1"
+
+msgid "- 2"
+msgstr "- 2"
+
+msgid "- 3"
+msgstr "- 3"
+
+msgid "- 4"
+msgstr "- 4"
+
+msgid "--- empty ---"
+msgstr "--- tyhjä ---"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "/usr/share/enigma2/MetrixHD/skinparts/[part]/[part].xml"
+msgstr "/usr/share/enigma2/MetrixHD/skinparts/[part]/[part].xml"
+
+msgid "0"
+msgstr "0"
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1 px"
+msgstr "1 px"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 px"
+msgstr "10 px"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "100"
+msgstr "100"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "15%"
+msgstr "15%"
+
+msgid "2 px"
+msgstr "2 px"
+
+msgid "20"
+msgstr "20"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "3 px"
+msgstr "3 px"
+
+msgid "30"
+msgstr "30"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "35%"
+msgstr "35%"
+
+msgid "4 px"
+msgstr "4 px"
+
+msgid "40"
+msgstr "40"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "45%"
+msgstr "45%"
+
+msgid "5 px"
+msgstr "5 px"
+
+msgid "5%"
+msgstr "5%"
+
+msgid "50"
+msgstr "50"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "55%"
+msgstr "55%"
+
+msgid "6 px"
+msgstr "6 px"
+
+msgid "60"
+msgstr "60"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "65%"
+msgstr "65%"
+
+msgid "7 px"
+msgstr "7 px"
+
+msgid "70"
+msgstr "70"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "8 px"
+msgstr "8 px"
+
+msgid "80"
+msgstr "80"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "9 px"
+msgstr "9 px"
+
+msgid "90"
+msgstr "90"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "95%"
+msgstr "95%"
+
+msgid "< >"
+msgstr "< >"
+
+msgid ""
+"A background update check is in progress, please wait a few minutes and try "
+"again."
+msgstr ""
+"Päivitystarkastus tapahtuu taustalla. Odota muutama minuutti ja yritä "
+"uudelleen."
+
+msgid "A higher value results in a slow movement."
+msgstr "Suurempi arvo hidastaa liikettä."
+
+msgid "AUDIO"
+msgstr "ÄÄNI"
+
+msgid "AV"
+msgstr "AV"
+
+msgid "Accent colors"
+msgstr "Korostusvärit"
+
+msgid "Additional Layer"
+msgstr "Lisäkerros"
+
+msgid "Additional offset for font scaling"
+msgstr "Lisäasetukset offset fontin skaalaukseen"
+
+msgid ""
+"After enabling, 'Apply changes' and restart needs never press 'Apply "
+"changes' (and restart) when you change subordinate entrys in 'STB-Info'."
+msgstr ""
+"Aktivoinnin jälkeen, 'ota muutokset' käyttöön ja uudelleen käynnistyksen "
+"jälkeen ei enää tarvitse soveltaa muutoksia, (ja käynnistää uudelleen)jos "
+"muutat alistettuja merkintöjä 'Vastaanottimen tiedoissa'."
+
+msgid ""
+"After enabling, 'Apply changes' and restart needs never press 'Apply "
+"changes' (and restart) when you change subordinate options."
+msgstr ""
+"Kun on otettu käyttöön 'Ota muutokset' käyttöön ja käynnistä vastaanotin "
+"uudelleen. Muutoksien jälkeen ei tarvita uudelleen käynnistystä."
+
+msgid "All calculated values round down"
+msgstr "Kaikki lasketut arvot pyöristetään alaspäin"
+
+msgid ""
+"Alternative calculation, recommened for slow boxes or for a fast settings "
+"testing."
+msgstr ""
+"Vaihtoehtoinen laskenta, suositellaan hitaille vastaanottimille tai nopealle "
+"asetuksien testaukselle."
+
+msgid "Amber"
+msgstr "Kullanruskea"
+
+msgid "Analog Fonts"
+msgstr "Analogiset fontit"
+
+msgid "Animated Icons"
+msgstr "Animoidut Kuvakkeet"
+
+msgid "Apply changes"
+msgstr "Ota muutokset käyttöön"
+
+msgid "Arial"
+msgstr "Arial"
+
+msgid "BOUQUET"
+msgstr "Suosikit"
+
+msgid "Back Color"
+msgstr "Taustaväri"
+
+msgid "Back Color Transparency"
+msgstr "Taustavärin läpinäkyvyys"
+
+msgid "Background"
+msgstr "Tausta"
+
+msgid "Backup"
+msgstr "Varmuuskopioi"
+
+msgid "Backup & Restore my settings"
+msgstr "Varmuuskopioi / palauta asetukset"
+
+msgid "Backup-Set is not complete!"
+msgstr "Varmuuskopio ei ole täysin käytettävissä!"
+
+msgid "Between Clock and Weather centered"
+msgstr "Kellon/säätietojen välissä, keskitetty"
+
+msgid "Between Clock and Weather enclosed"
+msgstr "Kellon/säätietojen välissä, venytetty"
+
+msgid "Black"
+msgstr "Musta"
+
+msgid "Blocks Layer Design"
+msgstr "Estää kerroksen muotoilu"
+
+msgid "Bold and greater Fonts"
+msgstr "Paksummat ja suuremmat fontit"
+
+msgid "Border"
+msgstr "Kehys"
+
+msgid "Border color"
+msgstr "Kehyksen väri"
+
+msgid "Border lines"
+msgstr "Reunaviivat"
+
+msgid "Borderlines"
+msgstr "Reunaviivat"
+
+msgid "Bottom"
+msgstr "Ala"
+
+msgid "Bottom of the screen"
+msgstr "Ruudun alareunassa"
+
+msgid "Bright Colors"
+msgstr "Kirkkaat värit"
+
+msgid "Brightgreen"
+msgstr "Kirkkaanvihreä"
+
+msgid "Brightyellow"
+msgstr "Kirkkaankeltainen"
+
+msgid "Brown"
+msgstr "Ruskea"
+
+msgid "Burgund"
+msgstr "Viininpunainen"
+
+msgid "Button text"
+msgstr "Painikkeiden teksti"
+
+msgid "Buttons"
+msgstr "Painikkeet"
+
+#, python-format
+msgid "CPU-Load: %s"
+msgstr "Prosessorin kuorma: %s"
+
+#, python-format
+msgid "CPU-Speed: %s MHz"
+msgstr "Prosessorin nopeus: %s MHz"
+
+#, python-format
+msgid "CPU-Temp: %s"
+msgstr "Prosessorin lämpötila: %s"
+
+msgid "Cable"
+msgstr "Kaapeli"
+
+msgid "Cache data"
+msgstr "Välimuistin data"
+
+#, python-format
+msgid ""
+"Can't create Backup-File!\n"
+"( %s )"
+msgstr ""
+"Ei voida luoda varmuuskopiota!\n"
+"( %s )"
+
+msgid "Can't create symlink:"
+msgstr "Symlinkin luominen ei onnistu:"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Change Number of Rows in Movie Selection"
+msgstr "Muuta rivien määrää elokuvalistassa"
+
+msgid "Change field size 'Count/Size' in Movie Selection"
+msgstr "Muuta elokuvalistan numeron/koon leveyttä"
+
+msgid "Change field size 'Date' in Movie Selection"
+msgstr "Muuta päivämäärä kentän leveyttä elokuvaluettelossa"
+
+msgid "Change field size 'Progressbar' in Movie Selection"
+msgstr "Muuta elokuvalistan etenemispalkin leveyttä"
+
+msgid "Change field size or hide"
+msgstr "Muuta kentän kokoa tai piilota"
+
+msgid ""
+"Change the picon sharpness with the scaling.\n"
+"Info: < 1 = blurred and > 1 = sharpened\n"
+"(no restart required)"
+msgstr ""
+"Muuta piconin terävyyttä skaalauksella.\n"
+"Tiedot: <1 = sumea ja> 1 = teroitettu\n"
+"(ei vaadi uudelleenkäynnistystä)"
+
+msgid "Channel list show MiniTV*"
+msgstr "Kanavalistassa näkyy MiniTV*"
+
+msgid "Channel selection settings"
+msgstr "Kanavalistan asetukset"
+
+msgid "Channel selection style"
+msgstr "Kanavan valinnan tyyli"
+
+msgid "ChannelName/Number FontSize"
+msgstr "Kanavanimen/-numeron fonttikoko"
+
+msgid "ChannelSelection"
+msgstr "Kanavan valinta"
+
+msgid "Channelselection"
+msgstr "Kanavan valinta"
+
+msgid "Checking Feeds"
+msgstr "Tarkistetaan syötteitä"
+
+msgid "Choose Picon Type"
+msgstr "Kanavalogojen tyyppi"
+
+msgid "Choose skin resolution"
+msgstr "Teeman resoluutio"
+
+msgid "Chose Extended-Info Style"
+msgstr "Laaj. lähetyssignaalitietojen sijainti"
+
+msgid "Chose Skin Design"
+msgstr "Teeman tyyli"
+
+msgid "Circle Gradient"
+msgstr "Pyöreä kurssi\""
+
+msgid "Circle Gradient without Frame"
+msgstr "Ympyrä ilman kehystä"
+
+#, python-format
+msgid "City '%s' not found! Please try another wording."
+msgstr "Kaupunki '%s' ei löytynyt! Kokeile toista sanamuotoa."
+
+msgid "Clock in Layer A"
+msgstr "Kello tasolla A"
+
+msgid "Clock in Layer B"
+msgstr "Kello tasolla B"
+
+msgid "Clock text"
+msgstr "Kellon teksti"
+
+msgid "Clock, Weather and Buttons"
+msgstr "Kello, säätiedot ja painikkeet"
+
+msgid "Cobalt"
+msgstr "Koboltti"
+
+msgid "Color"
+msgstr "Väri"
+
+msgid "Color 1"
+msgstr "Väri 1"
+
+msgid "Color 2"
+msgstr "Väri 2"
+
+msgid "Color Examples"
+msgstr "Värimallit"
+
+msgid "Color Gradient"
+msgstr "Väriliuku"
+
+msgid "Color settings"
+msgstr "Väriasetukset"
+
+msgid "Console"
+msgstr "Konsoli"
+
+msgid "Contrast Layer Design"
+msgstr "Kontrastikerroksen muotoilu"
+
+msgid "Crimson"
+msgstr "Karmiininpunainen"
+
+msgid "Cyan"
+msgstr "Syaani"
+
+msgid "Dark Colors"
+msgstr "Tummat värit"
+
+msgid "Darkblue"
+msgstr "Tummansininen"
+
+msgid "Darkbrown"
+msgstr "Tummanruskea"
+
+msgid "Darkgrey"
+msgstr "Tummanharmaa"
+
+msgid "Default"
+msgstr "Oletus"
+
+msgid "Defaults"
+msgstr "Oletusarvot"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete current Backup-Set?"
+msgstr "Poista varmuuskopio?"
+
+msgid "Description text"
+msgstr "Kuvaus teksti"
+
+msgid "Design settings"
+msgstr "Desing asetukset"
+
+msgid "Digital Fonts"
+msgstr "Digitaaliset fontit"
+
+#, python-format
+msgid "Directory '%s' does not exist!"
+msgstr "Hakemistoa '%s' ei löydy!"
+
+msgid "Disabled"
+msgstr "Ei käytössä"
+
+msgid "Distance between Servicename and Eventname."
+msgstr "Palvelunimi ja Tapahtuman nimen välinen etäisyys."
+
+msgid ""
+"Distance between Servicenumber and Servicename or Eventname and Progressbar."
+msgstr ""
+"Palvelunumeron ja palvelunimen tai tapahtumanimen ja etenemispalkin välinen "
+"etäisyys."
+
+msgid "Distance between the STB-Infos"
+msgstr "Tyhjä tila eri laiteinfojen välillä (pikseliä)"
+
+msgid "Do you really want to reboot now?"
+msgstr "Haluatko varmasti käynnistää laitteen uudelleen?"
+
+msgid "EMC"
+msgstr "EMC"
+
+msgid "EMC Movie List"
+msgstr "EMC tallennelista"
+
+msgid "EMC/MovieList"
+msgstr "EMC/Tallennelista"
+
+msgid "EMC/MoviePlayer"
+msgstr "EMC/Tallennesoitin"
+
+msgid "END"
+msgstr "LOPPU"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "EPG, Channellist, Movielist"
+msgstr "EPG, kanavalista, tallennelista"
+
+msgid "EXIT"
+msgstr "POISTU"
+
+msgid "East"
+msgstr "Itä"
+
+msgid "Emerald"
+msgstr "Smaragdin vihreä"
+
+msgid ""
+"Enable this option to display the wind speed, direction, 'feels like' "
+"temperature and humidity."
+msgstr ""
+"Ota tämä vaihtoehto käyttöön näyttääksesi tuulen nopeuden, suunnan, \"tuntuu"
+"\" lämpötilan ja kosteuden."
+
+msgid "Enable to display the description of the menu entries."
+msgstr "Ota käyttöön näyttääksesi valikkokohtien kuvaukset."
+
+msgid "Enabled"
+msgstr "Käytössä"
+
+msgid "Enhanced HD Option"
+msgstr "Parannettu Teeman HD tarkuus"
+
+msgid "Enhanced picon scaling"
+msgstr "Parannettu kanavalogojen skaalaus"
+
+msgid ""
+"Enter a personalized API key for use with OpenWeatherMap (https://"
+"openweathermap.org/)."
+msgstr ""
+"Syötä henkilökohtainen API avain, jota käytetään OpenWeatherMapissa (https://"
+"openweathermap.org/)."
+
+msgid "Enter the location for your weather forecasts."
+msgstr "Syötä sää ennusteen sijainti."
+
+#, python-format
+msgid ""
+"Error creating %s skin. HD skin is used!\n"
+"\n"
+msgstr ""
+"Virhe %s teeman luomisessa. Teema on käytössä!\n"
+"\n"
+
+msgid "Error creating Preset! One or more Fonts are not available!"
+msgstr ""
+"Virhe esiasetuksen luomisessa!\\NYksi tai useampi fontti ei ole "
+"käytettävissä!"
+
+msgid "Error creating Skin!"
+msgstr "Virhe luotaessa teemaa!"
+
+msgid "Error getting City ID"
+msgstr "Virhe haettaessa kaupunki ID:tä"
+
+msgid "Error in Weatherinfo"
+msgstr "Virhe säätiedoissa"
+
+msgid "Error, unknown Result!"
+msgstr "Virhe, tuntematon tulos!"
+
+msgid "Event Description"
+msgstr "Ohjelmakuvaus"
+
+msgid "Event List"
+msgstr "Ohjelmatiedot"
+
+msgid "Event name text"
+msgstr "Ohjelman nimi"
+
+msgid "Extended Info colors"
+msgstr "Laajennetun ohjelmakuvauksen värit"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Field Distance"
+msgstr "Kohteen etäisyys"
+
+msgid "Finished color"
+msgstr "Nähty väri tallenukselle"
+
+msgid "Fixed"
+msgstr "Korjattu"
+
+#, python-format
+msgid "Flash Memory free: %s MByte"
+msgstr "Sisäistä muistia vapaana: %s MB"
+
+msgid "Flat Gradient"
+msgstr "Tasainen kaltevuus"
+
+msgid "Flat Gradient without Frame"
+msgstr "Tasainen kaltevuus ilman kehystä"
+
+msgid "Focus left, big picon, 1 next Events"
+msgstr "Kohdista vasemmalle, iso picon, 1 seur. tapahtuma"
+
+msgid "Focus left, description right"
+msgstr "Kohdista vasemmalle, kuvaus oikealle"
+
+msgid "Focus left, no picon, 5 next Events"
+msgstr "Kohdista vasemmalle, Ei kuvaketta, 5 seur. tapahtuma"
+
+msgid "Focus right, big picon, 1 next Events"
+msgstr "Kohdista oikealle, iso picon, 1 seur. tapahtuma"
+
+msgid "Focus right, description left"
+msgstr "Kohdista oikealle, kuvaus vasemmalle"
+
+msgid "Focus right, no picon, 5 next Events"
+msgstr "Kohdista oikealle, Ei piconia, 5 seur. tapahtuma"
+
+msgid "Font Examples"
+msgstr "Fontti mallit"
+
+msgid "Font color"
+msgstr "Tekstin väri"
+
+msgid "Font color pseudo recording"
+msgstr "Tekstin väri - näennäistallennus"
+
+msgid "Font color recording"
+msgstr "Tekstin väri - tallennus"
+
+msgid "Font color selected"
+msgstr "Tekstin väri - valittu"
+
+msgid "Font color streaming"
+msgstr "Tekstin väri - suoratoisto"
+
+msgid "Font scale [%]"
+msgstr "Skaalaus [%]"
+
+msgid "Font settings"
+msgstr "Fonttiasetukset"
+
+msgid "Font type"
+msgstr "Fontti"
+
+msgid "Foreground"
+msgstr "Etuala"
+
+msgid "Frame Color"
+msgstr "Kehyksen väri"
+
+msgid "Frame Color Transparency"
+msgstr "Kehyksen värin läpinäkyvyys"
+
+msgid "Frame Layer Design"
+msgstr "Kehyskerroksen muotoilu"
+
+msgid "Frame Size"
+msgstr "Rahmengröße"
+
+msgid "Full HD (1920x1080)"
+msgstr "Full HD (1920x1080)"
+
+#, python-format
+msgid "Full HD (1920x1080) %s"
+msgstr "Full HD (1920x1080) %s"
+
+msgid ""
+"GUI needs a restart to apply a new skin.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Järjestelmä on käynnistettävä uudelleen, jotta muutokset tulevat voimaan.\n"
+"Haluatko käynnistää käyttöliittymän uudelleen nyt?"
+
+msgid "Generally"
+msgstr "Yleisesti"
+
+msgid "Glossy Effect"
+msgstr "Kiiltävä vaikutus"
+
+msgid "Glossy Effect Color"
+msgstr "Kiiltävä tehosteen väri"
+
+msgid "Glossy Effect Intensity"
+msgstr "Kiiltävän vaikutuksen intensiteetti"
+
+msgid "Glossy Effect Over Text"
+msgstr "Kiiltävä vaikutus tekstiin"
+
+msgid "Glossy Effect Position X"
+msgstr "Kiiltävän tehosteen sijainti X"
+
+msgid "Glossy Effect Position Y"
+msgstr "Kiiltävä vaikutusasento Y\""
+
+msgid "Glossy Effect Size"
+msgstr "Kiiltävän tehosteen koko"
+
+msgid "Graphical EPG"
+msgstr "Graafinen EPG"
+
+msgid "Graphical EPG style"
+msgstr "Graafisen EPG:n tyyli"
+
+msgid "Green"
+msgstr "Vihreä"
+
+msgid "Green Colors"
+msgstr "Vihreät värit"
+
+msgid "Greyscale 1"
+msgstr "Harmaasävy 1"
+
+msgid "Greyscale 10"
+msgstr "Harmaasävy 10"
+
+msgid "Greyscale 11"
+msgstr "Harmaasävy 11"
+
+msgid "Greyscale 12"
+msgstr "Harmaasävy 12"
+
+msgid "Greyscale 13"
+msgstr "Harmaasävy 13"
+
+msgid "Greyscale 2"
+msgstr "Harmaasävy 2"
+
+msgid "Greyscale 3"
+msgstr "Harmaasävy 3"
+
+msgid "Greyscale 4"
+msgstr "Harmaasävy 4"
+
+msgid "Greyscale 5"
+msgstr "Harmaasävy 5"
+
+msgid "Greyscale 6"
+msgstr "Harmaasävy 6"
+
+msgid "Greyscale 7"
+msgstr "Harmaasävy 7"
+
+msgid "Greyscale 8"
+msgstr "Harmaasävy 8"
+
+msgid "Greyscale 9"
+msgstr "Harmaasävy 9"
+
+msgid "HELP"
+msgstr "APUA"
+
+msgid "HOME"
+msgstr "KOTI"
+
+msgid "HandelGotD Fonts"
+msgstr "HandelGotD fontit"
+
+msgid "Hide PVR State"
+msgstr "Piilota PVR tila"
+
+msgid "INFO"
+msgstr "TIEDOT"
+
+#, python-format
+msgid ""
+"If you can see this then is your receiver compatible.\n"
+"Do you want change from %s to %s - skin resolution?"
+msgstr ""
+"Jos pystyt lukemaan tämän, vastaanotin on yhteensopiva.\n"
+"Haluatko vaihtaa teeman tarkkuuden %s to %s?"
+
+msgid ""
+"Improved the picon scaling quality.\n"
+"(no restart required)"
+msgstr ""
+"Parempi kanavalogojen skaalauksen laatua.\n"
+"(Uudelleenkäynnistystä ei tarvita.)"
+
+msgid "In Moviebar"
+msgstr "Toistopalkissa"
+
+msgid "Indigo"
+msgstr "Indigo"
+
+msgid "Individual Settings (only for some individual skinned screens)"
+msgstr "Yksilölliset asetukset (vain joillekin yksittäisille teema näytöille)"
+
+msgid "Info: Setting applies not for EMC."
+msgstr "Asetus ei koske EMC:tä."
+
+msgid "InfoBar"
+msgstr "Tietopalkki"
+
+msgid "InfoBar/SecondInfobar"
+msgstr "1. Tietopalkki / 2. Tietopalkki"
+
+msgid "InfoBar/SecondInfobar/Moviebar"
+msgstr "1. Tietopalkki/2. Tietopalkki/Toistopalkki"
+
+msgid "Infobar, Moviebar"
+msgstr "Tietopalkki, toistopalkki"
+
+msgid "Information"
+msgstr "Tiedot"
+
+msgid "Install Package not found!"
+msgstr "Asennuspakettia ei löydy!"
+
+#, python-format
+msgid ""
+"Installation error!\n"
+"\n"
+"%s"
+msgstr ""
+"Asennusvirhe!\n"
+"\n"
+"%s"
+
+msgid "Installing ..."
+msgstr "Asennetaan..."
+
+msgid "Item Distance"
+msgstr "Kentän etäisyys"
+
+msgid "LCD"
+msgstr "LCD Näyttö"
+
+msgid "Label text"
+msgstr "Tunnisteiden teksti"
+
+msgid "Large"
+msgstr "Suuri"
+
+msgid "Large text"
+msgstr "Suuri teksti"
+
+msgid "Layer A (main layer)"
+msgstr "Taso A (päätaso)"
+
+msgid "Layer A and B same height, Clock in Layer A"
+msgstr "Taso A ja B yhtä korkeita, kello tasolla A"
+
+msgid "Layer A and B same height, Clock in Layer B"
+msgstr "Taso A ja B yhtä korkeita, kello tasolla B"
+
+msgid "Layer B (secondary layer)"
+msgstr "Taso B (toissijainen taso)"
+
+msgid "Left"
+msgstr "Vasen"
+
+msgid "Lime"
+msgstr "Lime"
+
+msgid "Location Selection"
+msgstr "Sijainnin valinta"
+
+msgid "MENU"
+msgstr "VALIKKO"
+
+msgid "MSN weather"
+msgstr "MSN sää"
+
+msgid "Magenta"
+msgstr "Purppuranpunainen"
+
+msgid "Magenta 1"
+msgstr "Magenta 1"
+
+msgid "Magenta 2"
+msgstr "Magenta 2"
+
+msgid "Mandarin"
+msgstr "Mandariini"
+
+msgid "Mauve"
+msgstr "Mauve"
+
+msgid "Mediumblue"
+msgstr "Keskin sininen"
+
+msgid "Menu"
+msgstr "Valikko"
+
+msgid "Menu Symbol"
+msgstr "Valikko Symboli"
+
+msgid "Menu entry text"
+msgstr "Valikon teksti"
+
+msgid "Meteo Icons"
+msgstr "Meteo kuvakkeet"
+
+msgid "MetrixWeather API key"
+msgstr "MetrixSää API avain"
+
+msgid "MetrixWeather animations speed"
+msgstr "Sää animaatio nopeus"
+
+msgid "MetrixWeather icon night switch"
+msgstr ""
+
+msgid "MetrixWeather city name"
+msgstr "MetrixSää kaupungin nimi"
+
+msgid "MetrixWeather icon path"
+msgstr "MetrixSää kuvakkeen polku"
+
+msgid "MetrixWeather icon style"
+msgstr "MetrixSää kuvakkeen tyyli"
+
+msgid "MetrixWeather service"
+msgstr "MetrixSää palvelu"
+
+msgid "Midnight"
+msgstr "Keskiyö"
+
+msgid "Movie List style"
+msgstr "Elokuvalistan tyyli"
+
+msgid "My Backup Description"
+msgstr "Varmuuskopion kuvaus"
+
+#, python-format
+msgid "My Backup No. %d"
+msgstr "Varmuuskopio nro. %d"
+
+msgid "My Backup Number"
+msgstr "Varmuuskopion numero"
+
+#, python-format
+msgid "My Backup Saved:   %s"
+msgstr "Varmuuskopio tallennettu:   %s"
+
+#, python-format
+msgid "My Last Backup Entry:   %s"
+msgstr "Uusin varmuuskopio:  %s"
+
+#, python-format
+msgid "My Last Restored Entry:   %s"
+msgstr "Viimeksi palautettu varmuuskopio:  %s"
+
+msgid "MyMetrixLite"
+msgstr "MyMetrix Teema"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Navy"
+msgstr "Laivastonsininen"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "No"
+msgstr "Ei"
+
+#, python-format
+msgid ""
+"No Backup-File found!\n"
+"( %s )"
+msgstr ""
+"Varmuuskopiota ei löydy!\n"
+"( %s )"
+
+msgid "No Backup-Set found!"
+msgstr "Varmuuskopioita ei löydy!"
+
+msgid "No Design"
+msgstr "Ei muotoilu"
+
+msgid "No description available."
+msgstr "Ei kuvausta saatavilla."
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "North"
+msgstr "Pohjoinen"
+
+msgid "Northeast"
+msgstr "Koillinen"
+
+msgid "Northwest"
+msgstr "Luode"
+
+#, python-format
+msgid ""
+"Not enough free flash memory to create the new %s skin files. ( %d kb is "
+"required )"
+msgstr ""
+"Vapaata flash-muistia ei ole riittävästi uudelle teemalle %s. ( %d kb "
+"vaaditaan )"
+
+#, python-format
+msgid ""
+"Not enough free flash memory to install the %s icons. ( %d MB is required )"
+msgstr ""
+"Vapaata flash muistia ei ole riittävästi uudelle teemalle %s. ( %d MB "
+"vaaditaan )"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OSD settings"
+msgstr "Kuvaruuduun asetukset"
+
+msgid "Off"
+msgstr "Pois"
+
+msgid "Offset picon position x"
+msgstr "Kanavalogon sijainnin hienosäätö (x)"
+
+msgid "Offset picon position y"
+msgstr "Kanavalogon sijainnin hienosäätö (y)"
+
+msgid "Offset picon size"
+msgstr "Kanavalogon koon hienosäätö"
+
+msgid "Olive"
+msgstr "Oliivi"
+
+msgid "One Layer Design"
+msgstr "Yhden kerroksen muotoilu"
+
+msgid "Open-Meteo Wetter"
+msgstr "Open-Meteo Sää"
+
+msgid "OpenWeatherMap"
+msgstr "OpenSää kartta"
+
+msgid "Orange"
+msgstr "Oranssi"
+
+msgid "Other settings"
+msgstr "Muut asetukset"
+
+msgid "Other text"
+msgstr "Muu teksti"
+
+msgid "Output text"
+msgstr "Ulostulo teksti"
+
+msgid "Overwrite current Backup-Set?"
+msgstr "Tallenna aiemman varmuuskopion päälle?"
+
+msgid "Overwrite current Settings?"
+msgstr "Korvaa nykyiset asetukset?"
+
+msgid "Pink"
+msgstr "Pinkki"
+
+msgid "Please enter new name:"
+msgstr "Syötä uusi nimi:"
+
+msgid "Please wait whilst feeds state is checked."
+msgstr "Odota, kun syötteiden tila tarkistetaan."
+
+msgid "Position"
+msgstr "Sijainti"
+
+msgid "Position PVR State"
+msgstr "Sijainti PVR tila"
+
+msgid ""
+"Powered by\n"
+"-----------------\n"
+"msn weather (https://www.msn.com)\n"
+"and\n"
+"OpenWeatherMap (https://openweathermap.org)\n"
+"and\n"
+"Open-Meteo (https://open-meteo.com/en)"
+msgstr ""
+"Palvelun tarjoaa\n"
+"-----------------\n"
+"MSN Sää (https://www.msn.com)\n"
+"ja\n"
+"OpenWeatherMap (https://openweathermap.org)\n"
+"ja\n"
+"Open-Meteo (https://open-meteo.com/en)"
+
+msgid "Primetime"
+msgstr "Paras katseluaika"
+
+msgid "Progress bar"
+msgstr "Etenemispalkki"
+
+msgid "Quick Setup"
+msgstr "Pikamääritys (muuttaa kerralla yksittäistä asetusta)"
+
+#, python-format
+msgid "RAM-Free: %s MB"
+msgstr "RAM-muistia vapaana: %s MB"
+
+msgid "Raleway Fonts"
+msgstr "Raleway fontit"
+
+#, python-format
+msgid "Ready to install %s ?"
+msgstr "Asennetaanko %s ?"
+
+#, python-format
+msgid "Ready to remove %s ?"
+msgstr "Poistetaanko %s ?"
+
+msgid "Recording color"
+msgstr "Tallennuksen väri"
+
+msgid "Red"
+msgstr "Punainen"
+
+msgid "Red Colors"
+msgstr "Punaiset värit"
+
+msgid "Refresh interval"
+msgstr "Päivitysväli"
+
+msgid "Regular"
+msgstr "Säännöllinen"
+
+msgid "RegularLight"
+msgstr "Luonnollinen valo"
+
+msgid "Removing ..."
+msgstr "Poistetaan ..."
+
+msgid "Replacement"
+msgstr "Korvaaminen"
+
+msgid "Restart GUI"
+msgstr "Käynnistä käyttöliittymä uudelleen"
+
+msgid "Restore"
+msgstr "Palauta"
+
+#, python-format
+msgid "Restoring Backup-Set %d ..."
+msgstr "Palautetaan varmuuskopiota %d ..."
+
+msgid "Right"
+msgstr "Oikea"
+
+msgid "Royal Blue"
+msgstr "Tumman sininen"
+
+msgid "Running Text Parameter"
+msgstr "Käynnissä oleva teksti Parametri"
+
+msgid "STB-Info"
+msgstr "Laiteinfo"
+
+#, python-format
+msgid "SYS-Temp: %s"
+msgstr "Järjestelmän lämpötila: %s"
+
+msgid "Satellite"
+msgstr "Satelliitti"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Screen title separating line"
+msgstr "Otsikon erotinviiva"
+
+msgid "Screen title text"
+msgstr "Näytön otsikkoteksti"
+
+msgid "Screens"
+msgstr "Näytöt"
+
+msgid "Screens, Plugins"
+msgstr "Näyttö, Lisäosat"
+
+msgid "Scrollbar Border width"
+msgstr "Vierityspalkin reunan leveys"
+
+msgid "Scrollbar Slider"
+msgstr "Vierityspalkin liukusäädin"
+
+msgid "Scrollbar Slider width"
+msgstr "Vierityspalkin liukusäätimen leveys"
+
+msgid "Search for City ID please wait..."
+msgstr "Etsi kaupunkitunnusta, odota..."
+
+msgid "Search for your City"
+msgstr "Etsi kaupunkisi"
+
+msgid ""
+"Select 'Yes' to also display MetrixWeather in the 'MoviePlayer' InfoBar "
+"screen."
+msgstr ""
+"Valitse 'Kyllä', jos haluat näyttää MetrixWeatherin myös Toisto "
+"tietopalkkinäytössä."
+
+msgid "Select 'Yes' to display your cityname in MetrixWeather"
+msgstr "Valitse 'Kyllä' näyttääksesi kaupunkisi nimen MetrixWeatherissa"
+
+msgid ""
+"Select 'Yes' to enable the addition of MetrixWeather to the InfoBar screen."
+msgstr "Valitse 'Kyllä', jos haluat lisätä MetrixWeatherin infopalkkiin."
+
+msgid "Select Your Location"
+msgstr "Valitse sijainti"
+
+msgid "Select the animations speed for the animated icons."
+msgstr "Valitse animoitujen kuvakkeiden animaationopeus."
+
+msgid ""
+"Choose whether the 'night switch' should be activated or not. Some icons are "
+"then displayed as night icons with moon."
+msgstr ""
+
+msgid "Select the number of days of weather forecast to be displayed."
+msgstr "Valitse näytettävien sääennusteiden päivien lukumäärä."
+
+msgid ""
+"Select the path to where the MetrixWeather icons can be found. This path "
+"cannot be empty!"
+msgstr ""
+"Valitse polku, johon MetrixWeather kuvakkeet löytyvät. Tämä polku ei voi "
+"olla tyhjä!"
+
+msgid "Select the preferred weather service to supply the weather information."
+msgstr "Valitse haluamasi sääpalvelu, joka toimittaa säätiedot."
+
+msgid "Select the style of MetrixWeather icons to be used."
+msgstr "Valitse käytettävien MetrixWeather kuvakkeiden tyyli."
+
+msgid "Select the temperature unit to be used for temperature displays."
+msgstr "Valitse näytettvä lämpötilan käytettävä lämpötila yksikkö."
+
+msgid ""
+"Select this option to save that last obtained weather data locally. This is "
+"used to initialize the data immediately after restart while updated data is "
+"being fetched."
+msgstr ""
+"Valitse tämä vaihtoehto, jos haluat tallentaa viimeksi saadut säätiedot "
+"paikallisesti. Tätä käytetään tietojen alustamiseen heti "
+"uudelleenkäynnistyksen jälkeen, kun päivitettyjä tietoja haetaan."
+
+msgid "Selection bar"
+msgstr "Valintapalkki"
+
+msgid "Service"
+msgstr "Kanava"
+
+msgid "Service Description"
+msgstr "Lähetyksen Kuvaus"
+
+msgid "Service List"
+msgstr "Kanavalista"
+
+msgid "Set default values"
+msgstr "Aseta oletusarvot"
+
+msgid "Set number of tuner automatically"
+msgstr "Määritä näytettävien virittimien määrä automaattisesti"
+
+msgid "Set number of tuner manually"
+msgstr "Määritä näytettävien virittimien määrä manuaalisesti"
+
+msgid "Set picon sharpness"
+msgstr "Kanvalogon terävyyden säätö"
+
+msgid "Set primetime in graphical epg settings."
+msgstr "Aseta primetime graafisissa epg asetuksissa."
+
+msgid "SetrixHD"
+msgstr "SetrixHD"
+
+msgid ""
+"Setting is the same as\n"
+"'"
+msgstr ""
+"Asetus on sama kuin\n"
+"'"
+
+msgid "Settings successfully restored."
+msgstr "Asetukset palautettu onnistuneesti."
+
+msgid "Show Background"
+msgstr "Näytä tausta"
+
+msgid "Show CAID"
+msgstr "Näytä CAID"
+
+msgid "Show CPU-Load"
+msgstr "Näytä CPU kuorma"
+
+msgid "Show CPU-Temp"
+msgstr "Näytä CPU lämpötila"
+
+msgid "Show ChannelName"
+msgstr "Näytä kanavan nimi"
+
+msgid "Show ChannelNumber"
+msgstr "Näytä kanavanumero"
+
+msgid "Show Clock"
+msgstr "Näytä kello"
+
+msgid "Show Cover in Infobar"
+msgstr "Näytä kansi tietopalkissa"
+
+msgid "Show Cover in Media Center"
+msgstr "Näytä kansikuva mediasoittimessa"
+
+msgid "Show Cover in Movie Selection"
+msgstr "Näytä kansikuva tallennelistassa"
+
+msgid "Show ECM TIME"
+msgstr "Näytä ECM AIKA"
+
+msgid "Show Extended-Info"
+msgstr "Näytä lähetyssignaalin laajennetut tiedot"
+
+msgid "Show HOPS"
+msgstr "Näytä HOPS"
+
+msgid "Show Menu Buttons"
+msgstr "Näytä Valikko Näppäimet"
+
+msgid "Show Menu Scrollinfo"
+msgstr "Näytä valikon vieritysinfo"
+
+msgid "Show Movie Description"
+msgstr "Näytä ohjelman kuvaus"
+
+msgid "Show Movie Playback Time"
+msgstr "Näytä tallenteen todellinen toistoaika"
+
+msgid "Show MovieName"
+msgstr "Näytä tallenteen nimi"
+
+msgid "Show Orbital-Position"
+msgstr "Näytä satelliittisijainti"
+
+msgid "Show PID"
+msgstr "Näytä PID"
+
+msgid "Show PROTOCOL"
+msgstr "Näytä PROTOCOL"
+
+msgid "Show PROV"
+msgstr "Näytä PROV"
+
+msgid "Show PVR status in MoviePlayer infobar"
+msgstr "Näytä PVR tila toiston tietopalkissa"
+
+msgid "Show Picon in Movie Selection?"
+msgstr "Näytä Kanavalogot elokuvalistassa?"
+
+msgid "Show Primetime Event"
+msgstr "Näytä Primetime tapahtumat"
+
+msgid "Show READER"
+msgstr "Näytä READER"
+
+msgid "Show Record-State"
+msgstr "Näytä kuvake tallennuksen aikana"
+
+msgid "Show SNR-Info"
+msgstr "Näytä Signaalin tiedot"
+
+msgid "Show SOURCE"
+msgstr "Näytä SOURCE"
+
+msgid "Show STB-Info"
+msgstr "Näytä laiteinfo"
+
+msgid "Show SYS-Temp"
+msgstr "Näytä järjestelmän lämpötila"
+
+msgid "Show Screen-Resolution"
+msgstr "Näytä lähetyksen/tallenteen resoluutio"
+
+msgid "Show Scrollbar if more than one pages are available."
+msgstr "Näytä vierityspalkki, jos käytettävissä on useampi kuin yksi sivu."
+
+msgid "Show ServiceIcons"
+msgstr "Näytä kanavalogot"
+
+msgid "Show Space between Layer A and B"
+msgstr "Tyhjä tila tason A ja B välissä"
+
+msgid "Show Tuner-Info"
+msgstr "Näytä virittimen tiedot"
+
+msgid "Show also in main layer?"
+msgstr "Näytä myös päätasolla?"
+
+msgid "Show cityname in details"
+msgstr "Näytä kaupunkinimi yksityiskohdissa"
+
+msgid "Show color buttons at top of the screen."
+msgstr "Näytä värinäppäimet ruudun yläosassa."
+
+msgid "Show detail"
+msgstr "Näytä tarkat tiedot"
+
+msgid "Show event colors if entry selected"
+msgstr "Näytä tapahtuman värit, jos merkintä on valittu"
+
+msgid "Show extended Screen-Resolution"
+msgstr "Näytä lähetyksen/tallenteen laajennettu resoluutiotieto"
+
+msgid "Show forecast"
+msgstr "Näytä ennuste"
+
+msgid "Show free RAM"
+msgstr "Näytä vapaa muisti"
+
+msgid "Show in Channel selection?"
+msgstr "Näytetäänkö kanavavalinnassa?"
+
+msgid "Show in EMC?"
+msgstr "Näytetäänkö Enhanced Movie Center?"
+
+msgid "Show in Movie Center?"
+msgstr "Näytetäänkö Toisto soittimessa?"
+
+msgid "Show in MoviePlayer"
+msgstr "Näytä sää tiedot tallennusta toistettaessa"
+
+msgid ""
+"Show info in main menu and context menu if more entries on next side.\n"
+"(no restart required)"
+msgstr ""
+"Näyttää tiedot päävalikossa ja pikavalikossa, jos seuraavalla sivulla on "
+"lisää merkintöjä.\n"
+"(Uudelleenkäynnistystä ei tarvita vaihdon jälkeen)"
+
+msgid "Show large Text on bottom of the screen"
+msgstr "Suurennettu teksti ruudun alareunassa"
+
+msgid "Show lower left Corner Layer"
+msgstr "Näytä tasot vasemmassa alakulmassa"
+
+msgid "Show lower right Corner Layer"
+msgstr "Näytä tasot oikealla alakulmassa"
+
+msgid "Show menu entry description"
+msgstr "Näytä valikkomerkinnän kuvaus"
+
+msgid ""
+"Show only if available.\n"
+"\n"
+"Positions:\n"
+msgstr ""
+"Näytä vain mikäli saatavilla.\n"
+"\n"
+"Sijainti:\n"
+
+msgid "Show optional horizontal Layer"
+msgstr "Näytä valinnainen vaakasuorassa taso"
+
+msgid "Show optional vertical Layer"
+msgstr "Näytä valinnainen pystysuora taso"
+
+msgid "Show picons zoomed ?"
+msgstr "Näytetäänkö kanavalogot zoomattu?"
+
+msgid "Show running text for description of the event."
+msgstr "Näytä juokseva teksti tapahtuman kuvaukselle."
+
+msgid ""
+"Show running text for event. If it flickers, try increasing the start delay."
+msgstr ""
+"Näytä tapahtuman juokseva teksti. Jos se välkkyy, yritä lisätä "
+"aloitusviivettä."
+
+msgid "Show running text?"
+msgstr "Näytetäänkö tapahtuman teksti?"
+
+msgid "Show scrollbar?"
+msgstr "Näytetäänkö vierityspalkki?"
+
+msgid "Show upper left Corner Layer"
+msgstr "Näytä taso vasemmassa yläkulmassa"
+
+msgid "Show upper right Corner Layer"
+msgstr "Näytä taso oikealla yläkulmassa"
+
+msgid "Side by PVR-Symbol"
+msgstr "Tilakuvakkeen vieressä"
+
+msgid "Sienna"
+msgstr "Sienna"
+
+msgid "Size"
+msgstr "Koko"
+
+msgid "Skin Design"
+msgstr "Teeman ulkoasu"
+
+msgid "Skin Design Buttons"
+msgstr "Teeman muotoilu näppäimet"
+
+msgid "Skin Design Examples"
+msgstr "Teeman muotoilu Esimerkki"
+
+msgid "Skinpart are not available - can't be activated."
+msgstr "Teema osa ei ole käytettävissä - ei voida käyttää."
+
+msgid "Skinpart settings"
+msgstr "Teeman osan asetukset"
+
+msgid "Slider"
+msgstr "Liukusäädin"
+
+msgid "Small"
+msgstr "Pieni"
+
+msgid "Small text"
+msgstr "Pieni teksti"
+
+msgid "Solid"
+msgstr "Kiinteä"
+
+msgid "Solid without Frame"
+msgstr "Kiinteä ilman kehystä"
+
+msgid "Sorry feeds are down for maintenance, please try again later."
+msgstr "Syötteet eivät ole käytössä huollon takia, yritä myöhemmin uudelleen."
+
+msgid "South"
+msgstr "Etelä"
+
+msgid "Southeast"
+msgstr "Kaakko"
+
+msgid "Southwest"
+msgstr "Lounas"
+
+msgid ""
+"Specify how often MetrixWeather retrieves its data from the server. 'Once' "
+"means the data will loaded only once after a GUI or system start."
+msgstr ""
+"Määritä, kuinka usein MetrixWeather hakee tiedot palvelimelta. Kerran "
+"tarkoittaa, että tiedot ladataan vain kerran käyttöliittymän tai "
+"järjestelmän käynnistyksen jälkeen."
+
+msgid "Speed"
+msgstr "Nopeus"
+
+msgid "Standard"
+msgstr "Vakio"
+
+msgid "Standard Colors"
+msgstr "Vakiovärit"
+
+msgid "Standard Fonts"
+msgstr "Vakiofontit"
+
+msgid "Standard Fonts greater"
+msgstr "Vakiofontit (suuremmat)"
+
+msgid "Standard HD (1280x720)"
+msgstr "Normaali-HD (1280x720)"
+
+msgid "Startdelay"
+msgstr "Käynnistä viive"
+
+msgid "Static Icons"
+msgstr "Staattiset kuvakkeet"
+
+msgid "Steel"
+msgstr "Teräs"
+
+msgid "Stripe Layer Design"
+msgstr "Raitakerroksen muotoilu"
+
+msgid "Style"
+msgstr "Tyyli"
+
+msgid "TEST"
+msgstr "TESTI"
+
+msgid "TEXT"
+msgstr "TEKSTI"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Teal"
+msgstr "Sinivihreä"
+
+msgid "Temperature unit"
+msgstr "Lämpötilan yksikkö"
+
+msgid "Terrestrial"
+msgstr "Antenni"
+
+msgid "Test Resolution"
+msgstr "Testaa Resolutiot"
+
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+msgid "Text Color Transparency"
+msgstr "Tekstin värin läpinäkyvyys"
+
+msgid "Text Font"
+msgstr "Teksti Fontti"
+
+msgid "Text Position"
+msgstr "Tekstin sijainti"
+
+msgid "Text Size"
+msgstr "Tekstin koko"
+
+msgid "Text Windowtitle"
+msgstr "Ikkunan Otsikkoteksti"
+
+msgid "Text in background"
+msgstr "Teksti taustalla"
+
+msgid ""
+"The API key for OpenWeatherMap is not defined or invalid.\n"
+"Please verify your input data.\n"
+"Otherwise your settings won't be saved."
+msgstr ""
+"OpenWeatherMapin API avainta ei ole määritelty tai se on virheellinen.\n"
+"Tarkista syöttämäsi tiedot.\n"
+"Muuten asetuksiasi ei tallenneta."
+
+msgid ""
+"The city name is too short. More than 2 characters are needed for search."
+msgstr "Kaupungin nimi on liian lyhyt. Hakuun tarvitaan yli 2 merkkiä."
+
+msgid "Time Line"
+msgstr "Aikajana"
+
+msgid "Top"
+msgstr "Ylös"
+
+msgid "Top of the screen"
+msgstr "Ruudun yläreunassa"
+
+msgid "Top of the screen with current time"
+msgstr "Ruudun yläreunassa kellonajan kanssa"
+
+msgid "Transparency"
+msgstr "Läpinäkyvyys"
+
+msgid "Transparent"
+msgstr "Läpinäkyvä"
+
+msgid "Turquoise"
+msgstr "Turkoosi"
+
+msgid "Ultra HD (3840x2160)"
+msgstr "Ultra HD (3840x2160)"
+
+#, python-format
+msgid "Ultra HD (3840x2160) %s"
+msgstr "Ultra HD (3840x2160) %s"
+
+msgid "Unknown error occurred!"
+msgstr "Tapahtui tuntematon virhe!"
+
+msgid "Use simple calculation"
+msgstr "Käytä yksinkertaista laskutoimitusta"
+
+msgid "Vertical EPG"
+msgstr "Vertikaali EPG"
+
+msgid "Violet"
+msgstr "Violetti"
+
+msgid "Watched color"
+msgstr "Väri katsottu ohjelma"
+
+msgid "Weather Settings Actions"
+msgstr "Sää Asetukset"
+
+msgid "Weather settings"
+msgstr "Sää palvelu asetukset"
+
+msgid "Weather week text"
+msgstr "Viikon sää teksti"
+
+msgid "West"
+msgstr "Länsi"
+
+msgid "Where do you want to get the MetrixWeather icons?"
+msgstr "Mistä haluat saada MetrixWeather kuvakkeet?"
+
+msgid "White"
+msgstr "Valkoinen"
+
+msgid "Width"
+msgstr "Leveys"
+
+msgid "XPicons"
+msgstr "XPiconit"
+
+msgid "Yellow"
+msgstr "Keltainen"
+
+msgid "Yellow Colors"
+msgstr "Keltaiset värit"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "Yes, show screens"
+msgstr "Kyllä, näytä ruudussa"
+
+#, python-format
+msgid ""
+"You can create up to 99 Backup-Sets.\n"
+"Stored in:\n"
+"%s"
+msgstr ""
+"Voit luoda yhteensä 99 varmuuskopiota.\n"
+"Tallennuspaikka:\n"
+"%s"
+
+msgid "You can here assign an individual name."
+msgstr "Voit määritellä haluamasi nimen varmuuskopiolle."
+
+msgid "You have the'HbbTV Plugin' installed.\n"
+msgstr "Olet asentanut HbbTV laajennuksen.\n"
+
+#, python-format
+msgid ""
+"Your %s %s is not connected to the internet, please check your network "
+"settings and try again."
+msgstr ""
+"Laitteella %s %s ei ole yhteyttä Internettiin. Tarkista verkkoasetukset ja "
+"yritä uudelleen."
+
+msgid "Your enhanced hd settings are inconsistent. Please check this."
+msgstr "Enhanced hd -asetuksesi ovat epäjohdonmukaiset. Tarkista tämä."
+
+msgid "ZZZPicons"
+msgstr "ZZZPiconit"
+
+msgid "Zoom"
+msgstr "Suurenna"
+
+msgid "and"
+msgstr "ja"
+
+msgid "disabled"
+msgstr "ei käytössä"
+
+msgid "graphical EPG"
+msgstr "graafinen EPG"
+
+msgid "height"
+msgstr "korkeus"
+
+msgid "helptext"
+msgstr "apuateksti"
+
+msgid "in Image included Fonts"
+msgstr "imagen mukana tulevat Fontit"
+
+msgid "in Menus"
+msgstr "valikoissa"
+
+msgid "in Menus and Screens"
+msgstr "valikoissa ja ruudussa"
+
+msgid "in Screens"
+msgstr "ruudussa"
+
+msgid "in Skin included Fonts"
+msgstr "teeman mukana tulevat fontit"
+
+msgid "left"
+msgstr "vasen"
+
+msgid "mini TV"
+msgstr "Mini TV"
+
+msgid "more Events or 'mini TV' greater"
+msgstr "lisää ohjelmia tai MiniTV isompi"
+
+msgid "now"
+msgstr "nyt"
+
+msgid "off"
+msgstr "pois"
+
+msgid "openATV configuration tool for MetrixHD"
+msgstr "openATV määritystyökalu Metrix teemalle"
+
+msgid "please wait..."
+msgstr "odota..."
+
+msgid "pos x"
+msgstr "sijainti x"
+
+msgid "pos y"
+msgstr "sijainti y"
+
+msgid "pos z"
+msgstr "sijainti z"
+
+msgid "right"
+msgstr "oikea"
+
+msgid "selected"
+msgstr "valittu"
+
+msgid "width"
+msgstr "leveys"
+
+#~ msgid ""
+#~ "Powered by\n"
+#~ "-----------------\n"
+#~ "msn weather\n"
+#~ "(https://www.msn.com)\n"
+#~ "and\n"
+#~ "OpenWeatherMap\n"
+#~ "(https://openweathermap.org)"
+#~ msgstr ""
+#~ "Palvelun tarjoaa\n"
+#~ "-----------------\n"
+#~ "Msn sää\n"
+#~ "(https://www.msn.com)\n"
+#~ "ja\n"
+#~ "OpenWeatherMap\n"
+#~ "(https://openweathermap.org)"
+
+#~ msgid "--- additional files start ---\n"
+#~ msgstr "--- lisätiedostot alkavat ---\n"
+
+#~ msgid "Backup "
+#~ msgstr "Varmuuskopio "
+
+#~ msgid ""
+#~ "\n"
+#~ "New calculated file is "
+#~ msgstr ""
+#~ "\n"
+#~ "Uusi laskettu tiedosto on "
+
+#~ msgid "No files found or files already exist."
+#~ msgstr "Keine Dateien gefunden oder Dateien sind bereits vorhanden."
+
+#~ msgid ""
+#~ "\n"
+#~ "--- additional files end ---\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "--- lisätiedostot päättyvät ---\n"
+#~ "\n"
+
+#, python-format
+#~ msgid ""
+#~ "One or more %s icons are missing. Using HD icons for this.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Yksi tai useampi %s kuvake puuttuu. Käytetään HD-kuvakkeita niiden "
+#~ "sijaan.\n"
+#~ "\n"
+
+#~ msgid "Meteo"
+#~ msgstr "Sää"
+
+#~ msgid "Next:"
+#~ msgstr "Seuraava:"
+
+#~ msgid "Experimental picon scaling"
+#~ msgstr "Kokeellinen picon skaalaus"
+
+#~ msgid ""
+#~ "Set to 'Yes' if you have poor scaling quality - experimental.\n"
+#~ "(no restart required)"
+#~ msgstr ""
+#~ "Aseta \"Kyllä\", jos sinulla on huono skaalauslaatu - kokeellinen.\n"
+#~ "(uudelleenkäynnistystä ei tarvita)"
+
+#~ msgid "Experimental picon sharpness"
+#~ msgstr "Kokeellinen piconin terävyys"
+
+#~ msgid ""
+#~ "Improved the scaling quality - experimental.\n"
+#~ "Info: < 1 = blurred and > 1 = sharpened image\n"
+#~ "(no restart required)"
+#~ msgstr ""
+#~ "Parannettu skaalauksen laatua - kokeellinen.\n"
+#~ "Tietoja: < 1 = epätarkka ja > 1 = terävöitynyt kuva.\n"
+#~ "(uudelleenkäynnistystä ei tarvita)"
+
+#~ msgid ""
+#~ "'\n"
+#~ "in\n"
+#~ "'"
+#~ msgstr ""
+#~ "''\n"
+#~ "sisään\n"
+#~ "''"
+
+#~ msgid "Check ID"
+#~ msgstr "Tarkista ID"
+
+#~ msgid ""
+#~ "Cycle/failure indicator colors on widget:\n"
+#~ "green - 6 times try to fetch weather data\n"
+#~ "yellow - fetch weather data paused 5 mins\n"
+#~ "red - fetch weather data aborted after 6 times green and yellow\n"
+#~ "(if red -> press 'save' for refresh)"
+#~ msgstr ""
+#~ "Päivitä / virhe näyttö widgetissä: \n"
+#~ "Vihreä - säätietojen haku \n"
+#~ "Keltainen - tauko epäonnistuneen haun jälkeen \n"
+#~ "Punainen - säätietojen haku peruttu \n"
+#~ "(Info: Jos tila on punainen, Paina \"tallenna\"päivitystä varten)"
+
+#~ msgid " (no restart required)"
+#~ msgstr " (Uudelleenkäynnistystä ei tarvita.)"
+
+#~ msgid "MetrixWeather Service"
+#~ msgstr "Valitse Sääpalvelu"
+
+#~ msgid "Choose your preferred weather service"
+#~ msgstr "Valitse sääpalvelun toimittaja"
+
+#~ msgid "MetrixWeather City Name"
+#~ msgstr "Valitse kaupunki"
+
+#~ msgid ""
+#~ "Your place for weather determination. Press TEXT or OK to enter the city "
+#~ "name"
+#~ msgstr "Valitse kaupunki. Paina TEXT tai OK kirjoitaaksesi kaupungin nimi"
+
+#~ msgid "MetrixWeather ID"
+#~ msgstr "MetrixSää ID"
+
+#~ msgid "Get your local MetrixWeather ID from https://openweathermap.org/"
+#~ msgstr ""
+#~ "Löydät sijaintisi säätunnuksen täältä: : https://openweathermap.org/"
+
+#~ msgid "MetrixWeather APIKEY"
+#~ msgstr "Metrix sää APIKEY"
+
+#~ msgid "Get your local MetrixWeather APIKEY from https://openweathermap.org/"
+#~ msgstr "Hanki paikallinen APIKEY osoiteesta https://openweathermap.org/"
+
+#~ msgid ""
+#~ "If the file 'ID_APIKEY.apidata' exists in the '/tmp/' folder,\n"
+#~ "imported these data automatically on '"
+#~ msgstr ""
+#~ "Jos tiedosto 'ID_APIKEY.apidata' on olemassa kansiossa '/tmp/',\n"
+#~ "tuo nämä tiedot automaattisesti '"
+
+#~ msgid ""
+#~ "' function.\n"
+#~ "\n"
+#~ "(e.g. '2911298_a4bd84726035d0ce2c6185740617d8c5.apidata')"
+#~ msgstr ""
+#~ "' -toiminto.\n"
+#~ "\n"
+#~ "(e.g. '2911298_a4bd84726035d0ce2c6185740617d8c5.apidata')"
+
+#~ msgid "Unit"
+#~ msgstr "Lämpötilan yksikkö"
+
+#~ msgid "Set your preferred temperature unit."
+#~ msgstr "Aseta lämpötilan yksikkö (uudelleen käynnistystä ei tarvita)."
+
+#~ msgid "MetrixWeather animatedWeather type"
+#~ msgstr "Näytä animoidut säätiedot"
+
+#~ msgid "Get your MetrixWeather AnimatedWeather."
+#~ msgstr "Näytä animoidut säätiedot."
+
+#~ msgid "Set your animations speed."
+#~ msgstr "Aseta animaation nopeus."
+
+#~ msgid "Refresh Interval (min)"
+#~ msgstr "Päivitysväli (min)"
+
+#~ msgid "If set to '0', fetch weather data only at system(gui) start."
+#~ msgstr ""
+#~ "Arvolla '0' säätiedot tarkistetaan vain käyttöliittymän käynnistyksen "
+#~ "yhteydessä. Muutoin määritetyn arvon mukaisesti."
+
+#, python-format
+#~ msgid ""
+#~ "Get weather data failure:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Säätietojen haku epäonnistus\n"
+#~ "%s"
+
+#, python-format
+#~ msgid "Current weather id:   %s\n"
+#~ msgstr "Nykyinen sää ID:   %s\n"
+
+#, python-format
+#~ msgid "City:   %s,   "
+#~ msgstr "Paikkakunta:   %s,   "
+
+#, python-format
+#~ msgid "Temp:   %s,   "
+#~ msgstr "Lämpötila:   %s,   "
+
+#, python-format
+#~ msgid "max:   %s,   "
+#~ msgstr "max:   %s,   "
+
+#, python-format
+#~ msgid "min:   %s"
+#~ msgstr "min: %s"
+
+#, python-format
+#~ msgid ""
+#~ "Cant get weather id:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Ei voi saada sää id\n"
+#~ "%s"
+
+#~ msgid "Please wait, get weather data ..."
+#~ msgstr "Odota hetki, säätietoja haetaan ..."
+
+#~ msgid "Wrong import file ..."
+#~ msgstr "Väärä tuontitiedosto ..."
+
+#~ msgid "Enter text to search city"
+#~ msgstr "Kirjoita sijainti, jonka haluat löytää"
+
+#~ msgid "MSN"
+#~ msgstr "MSN"
+
+#~ msgid "openweather"
+#~ msgstr "openweather"
+
+#~ msgid "scale"
+#~ msgstr "skaala"
+
+#~ msgid "size"
+#~ msgstr "koko"
+
+#~ msgid "50/50"
+#~ msgstr "50/50"
+
+#~ msgid "Forecast"
+#~ msgstr "Ennuste"
+
+#~ msgid "Set the number of days for the weather forecast."
+#~ msgstr "Aseta sää ennusteen päivien määrä."
+
+#~ msgid "Detail"
+#~ msgstr "Yksityiskohtaiset tiedot"
+
+#~ msgid "Show wind speed and direction, feels like temperature and humidity."
+#~ msgstr "Näytä tuulen nopeus ja suunta, havaittu lämpötila ja kosteus."
+
+#~ msgid "Weekday"
+#~ msgstr "Näytä viikonpäivät"
+
+#~ msgid "Show week days."
+#~ msgstr "Näytä viikonpäivät ennusteessa."
+
+#~ msgid " = mini TV on)"
+#~ msgstr " = miniTV on)"
+
+#~ msgid "%s darker than background"
+#~ msgstr "%s tummempi kuin tausta"
+
+#~ msgid ""
+#~ "'\n"
+#~ "("
+#~ msgstr ""
+#~ "'\n"
+#~ "("
+
+#~ msgid "Calculating additional files"
+#~ msgstr "Lasketaan muita tiedostoja"
+
+#~ msgid "Channel list service mode*"
+#~ msgstr "Kanavalista Huoltotila*"
+
+#~ msgid "Check is Weather date local date"
+#~ msgstr "Tarkista sää tietojen päivämäärä vastaanottimesta"
+
+#~ msgid "Enable Color Gradient"
+#~ msgstr "Ota käyttöön värigradientti"
+
+#~ msgid ""
+#~ "File list:\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Tiedostolista:\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "GraphicalEPG settings"
+#~ msgstr "GraafinenEPG asetukset"
+
+#~ msgid "If actively output '+' before temperature."
+#~ msgstr "Jos aktiivinen lähtö '+' ennen lämpötilaa."
+
+#~ msgid "Movie List Setup"
+#~ msgstr "Tallenneluettelon asetukset"
+
+#~ msgid "Picture in graphics"
+#~ msgstr "TV kuva grafiikan seassa"
+
+#~ msgid "Show '+' before temperature"
+#~ msgstr "Näytä \"+\" ennen lämpötilaa"
+
+#~ msgid "Show in graphical EPG?"
+#~ msgstr "Näytä graafisessa EPG:ssä?"
+
+#~ msgid "Simple"
+#~ msgstr "Suppea"
+
+#~ msgid "Use slim screen"
+#~ msgstr "Pieni tallennevalikko"
+
+#~ msgid "same as background"
+#~ msgstr "sama kuin tausta"
+
+#~ msgid "- Example Skinpart -"
+#~ msgstr "Esimerkki teemaosa"
+
+#~ msgid "CLOCKWIDGET"
+#~ msgstr "Kelloaika ruudussa"
+
+#~ msgid "Ei Design"
+#~ msgstr "Ei Ulkoasu"
+
+#~ msgid "Graafinen EPG and Vertical EPG"
+#~ msgstr "Graafinen EPG ja Pystysuora EPG"
+
+#~ msgid "Please look in the example.xml file for function."
+#~ msgstr "Katso example.xml tiedostoa tätä toimintoa varten."
+
+#~ msgid "OSD Settings"
+#~ msgstr "Kuvaruudun asetukset"
+
+#~ msgid "Royal blue"
+#~ msgstr "Kuninkaallisen Sininen"
+
+#~ msgid "Setting is the same as\n"
+#~ msgstr "Asetus on sama kuin \n"
+
+#~ msgid "ServiceInfoForInfobar"
+#~ msgstr "Kanavan tiedot tietopalkissa"
+
+#~ msgid "Skin Desing Examples"
+#~ msgstr "Teeman ulkoasu esimerkki"
+
+#~ msgid "Text in Background"
+#~ msgstr "Teksti taustalla"
+
+#~ msgid "Volume"
+#~ msgstr "Äänenvoimakkuus"
+
+#~ msgid "Yes, show screen"
+#~ msgstr "Kyllä, näytä ruudussa"
+
+#~ msgid "example"
+#~ msgstr "esimerkki"

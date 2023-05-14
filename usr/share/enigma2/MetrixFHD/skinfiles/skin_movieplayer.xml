@@ -1,0 +1,267 @@
+<skin>
+<!-- cf#_#start -->
+	<!-- Templates -->
+	<!-- MoviePlayer_1 - large style (old standard version) -->
+	<screen name="MoviePlayer_1">
+		<eLabel name="GRADIENT_BACKGROUND" position="0,855" zPosition="-2" size="1922,225" backgroundColor="infobarbackground" />
+		<panel name="RT_MoviePlayer_1"/>
+		<ePixmap pixmap="icons/ico_dolby_off.png" position="1590,924" size="51,35" zPosition="1" alphatest="blend" />
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_dolby_on.png" position="1590,924" size="51,35" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsMultichannel</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+			<ePixmap pixmap="icons/ico_format_off.png" position="1763,924" size="65,39" zPosition="1" alphatest="blend" />
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_format_on.png" position="1763,924" size="65,39" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsWidescreen</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_hd_off.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsSD</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_hd_on.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsHD</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_uhd_on.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">Is4K</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_hd_hdr_on.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsHDHDR</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_hdr_on.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsHDR</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_hdr10_on.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsHDR10</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="icons/ico_hlg_on.png" position="1664,924" size="74,36" zPosition="2" alphatest="blend">
+			<convert type="ServiceInfo">IsHLG</convert>
+			<convert type="ConditionalShowHide"/>
+		</widget>
+		<widget source="session.CurrentService" render="Label" font="infobar_text;27" position="1605,870" size="83,38" halign="right" foregroundColor="infobaraccent1" backgroundColor="infobarbackground" transparent="1">
+			<convert type="ServiceInfo">VideoWidth</convert>
+		</widget>
+		<eLabel text="x" font="infobar_text;27" position="1694,870" size="23,38" halign="center" foregroundColor="infobaraccent1" backgroundColor="infobarbackground" transparent="1" />
+		<widget source="session.CurrentService" render="Label" font="infobar_text;27" position="1719,870" size="83,38" halign="left" foregroundColor="infobaraccent1" backgroundColor="infobarbackground" transparent="1">
+			<convert type="ServiceInfo">VideoHeight</convert>
+		</widget>
+		<widget source="session.RecordState" render="Pixmap" pixmap="icons/ico_rec_on.png" position="1499,924" size="111,35" zPosition="2" alphatest="blend">
+			<convert type="ConditionalShowHide">Blink</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="60,987" size="150,42" font="infobar_event;36" halign="right" valign="bottom" backgroundColor="infobarbackground" foregroundColor="infobarfont1" transparent="1">
+			<convert type="ServicePosition">Position</convert>
+		</widget>
+		<widget source="session.CurrentService" render="PositionGauge" position="227,999" size="1470,14" transparent="1" zPosition="6">
+			<convert type="ServicePosition">Gauge</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Progress" position="227,1002" size="1470,8" foregroundColor="infobarprogress" transparent="1" zPosition="5">
+			<convert type="ServicePosition">Position</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="1707,987" size="150,42" font="infobar_event;36" halign="left" valign="bottom" backgroundColor="infobarbackground" foregroundColor="infobarfont1" transparent="1">
+			<convert type="ServicePosition">Remaining</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="5,882" size="206,84" font="infobar_event;60" halign="right" valign="center" backgroundColor="infobarbackground" transparent="1" foregroundColor="infobaraccent2">
+			<convert type="ServicePosition">Length</convert>
+		</widget>
+		<eLabel name="new eLabel" position="227,1005" size="1470,2" backgroundColor="infobaraccent1" zPosition="3" />
+	</screen>
+	<!-- MoviePlayer_2 - standard version (old infobar style) -->
+	<screen name="MoviePlayer_2">
+		<eLabel name="GRADIENT_BACKGROUND" position="0,855" zPosition="-2" size="1922,225" backgroundColor="infobarbackground" />
+		<ePixmap position="65,893" zPosition="1" size="150,150" alphatest="blend" pixmap="icons/movie_small.png"/>
+		<eLabel backgroundColor="infobaraccent1" position="282,938" size="1575,2" zPosition="3"/>
+		<widget source="session.CurrentService" render="PositionGauge" position="282,932" size="1575,14" zPosition="6" transparent="1">
+			<convert type="ServicePosition">Gauge</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Progress" position="282,935" size="1575,8" foregroundColor="infobarprogress" transparent="1" zPosition="5">
+			<convert type="ServicePosition">Position</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="1562,852" size="300,84" font="infobar_event;60" halign="right" valign="center" backgroundColor="infobarbackground" transparent="1" foregroundColor="infobaraccent2">
+			<convert type="ServicePosition">Length</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="281,945" size="150,42" font="infobar_text;30" halign="left" valign="center" backgroundColor="infobarbackground" foregroundColor="infobarfont1" transparent="1">
+			<convert type="ServicePosition">Position</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="1709,945" size="150,42" font="infobar_text;30" halign="right" valign="center" backgroundColor="infobarbackground" foregroundColor="infobarfont1" transparent="1">
+			<convert type="ServicePosition">Remaining,Negate</convert>
+		</widget>
+		<panel name="RT_MoviePlayer_2"/>
+		<panel name="SERVICEICONSMOVIEPLAYER" />
+		<panel name="RESOLUTIONMOVIEPLAYER" />
+	</screen>
+	<!-- MoviePlayer_3 - small style -->
+	<screen name="MoviePlayer_3">
+		<eLabel name="GRADIENT_BACKGROUND" position="0,960" zPosition="-2" size="1922,120" backgroundColor="infobarbackground" />
+		<eLabel backgroundColor="infobaraccent1" position="165,1025" size="1194,2" zPosition="3"/>
+		<widget source="session.CurrentService" render="PositionGauge" position="165,1019" size="1194,14" zPosition="6" transparent="1">
+			<convert type="ServicePosition">Gauge</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Progress" position="165,1022" size="1194,8" foregroundColor="infobarprogress" transparent="1" zPosition="5">
+			<convert type="ServicePosition">Position</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="1239,966" size="120,45" font="infobar_event;36" halign="right" valign="center" backgroundColor="infobarbackground" transparent="1" foregroundColor="infobaraccent2">
+			<convert type="ServicePosition">Length</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="23,1004" size="113,42" font="infobar_text;30" halign="right" valign="bottom" backgroundColor="infobarbackground" foregroundColor="infobarfont1" transparent="1">
+			<convert type="ServicePosition">Position</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="1389,1004" size="113,42" font="infobar_text;30" halign="left" valign="bottom" backgroundColor="infobarbackground" foregroundColor="infobarfont1" transparent="1">
+			<convert type="ServicePosition">Remaining,Negate</convert>
+		</widget>
+		<widget source="session.CurrentService" render="Label" position="1617,966" size="90,39" font="infobar_text;24" halign="right" valign="top" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" transparent="1">
+			<convert type="ServiceInfo">VideoWidth</convert>
+		</widget>
+		<eLabel text="x" position="1713,966" size="24,39" font="infobar_text;24" halign="center" valign="top" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" transparent="1" />
+		<widget source="session.CurrentService" render="Label" position="1740,966" size="90,39" font="infobar_text;24" halign="left" valign="top" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" transparent="1">
+			<convert type="ServiceInfo">VideoHeight</convert>
+		</widget>
+		<panel name="RT_MoviePlayer_3"/>
+		<panel name="SERVICEICONSMOVIEPLAYER" />
+	</screen>
+	<!-- MoviePlayer_1-3 - start - endtime -->
+	<screen name="MoviePlayer_1_time">
+		<widget source="session.CurrentService" render="Label" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;33" halign="right" position="849,1011" size="90,45" transparent="1">
+			<convert type="MetrixHDServiceTime">StartTime</convert>
+		</widget>
+		<eLabel backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;33" halign="center" position="942,1011" size="30,45" text="-" transparent="1"/>
+		<widget source="session.CurrentService" render="Label" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;33" halign="left" position="972,1011" size="90,45" transparent="1">
+			<convert type="MetrixHDServiceTime">EndTime</convert>
+		</widget>
+	</screen>
+	<screen name="MoviePlayer_2_time">
+		<widget source="session.CurrentService" render="Label" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;30" halign="right" position="966,945" size="90,45" transparent="1">
+			<convert type="MetrixHDServiceTime">StartTime</convert>
+		</widget>
+		<eLabel backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;30" halign="center" position="1059,945" size="30,45" text="-" transparent="1"/>
+		<widget source="session.CurrentService" render="Label" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;30" halign="left" position="1089,945" size="90,45" transparent="1">
+			<convert type="MetrixHDServiceTime">EndTime</convert>
+		</widget>
+	</screen>
+	<screen name="MoviePlayer_3_time">
+		<widget source="session.CurrentService" render="Label" backgroundColor="infobarbackground" foregroundColor="infobaraccent2" font="infobar_text;30" halign="right" position="660,1029" size="90,45" transparent="1">
+			<convert type="MetrixHDServiceTime">StartTime</convert>
+		</widget>
+		<eLabel backgroundColor="infobarbackground" foregroundColor="infobaraccent2" font="infobar_text;30" halign="center" position="753,1029" size="30,45" text="-" transparent="1"/>
+		<widget source="session.CurrentService" render="Label" backgroundColor="infobarbackground" foregroundColor="infobaraccent1" font="infobar_text;30" halign="left" position="783,1029" size="90,45" transparent="1">
+			<convert type="MetrixHDServiceTime">EndTime</convert>
+		</widget>
+	</screen>
+	<!-- Templates -->
+	<!-- Default Movie Center -->
+	<screen name="MovieSelection_left">
+		<eLabel text="Movie Center" position="87,54" size="788,75" noWrap="1" valign="bottom" font="global_title;51" foregroundColor="layer-a-title-foreground" backgroundColor="layer-a-background" transparent="1" />
+		<widget name="list" position="105,195" size="1050,750" scrollbarMode="showNever" font="epg_text;30" itemHeight="45" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" backgroundColorSelected="layer-a-selection-background" foregroundColorSelected="layer-a-selection-foreground" transparent="1" />
+		<widget name="chosenletter" position="105,195" size="1050,750" font="epg_text;150" foregroundColor="layer-b-accent1" halign="center" transparent="1" valign="center" zPosition="+1" />
+		<widget name="waitingtext" position="150,450" size="960,150" zPosition="1" font="epg_text;36" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" halign="center" valign="center" transparent="0"/>
+		<widget name="freeDiskSpace" position="105,143" size="1050,45" font="epg_text;33" valign="center" halign="left" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" transparent="1" />
+		<widget source="Service" render="Label" position="1238,135" noWrap="1" size="578,45" font="epg_text;33" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" transparent="1">
+			<convert type="MovieInfo">ShortDescription</convert>
+		</widget>
+		<widget source="Service" render="Label" position="1238,192" size="578,36" font="epg_text;29" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="MovieInfo">RecordServiceName</convert>
+		</widget>
+		<widget source="Service" render="MetrixHDRunningText" options="movetype=none,startdelay=600,steptime=60,direction=top,startpoint=0,wrap=1,always=0,repeat=2,oneshot=1" position="1238,248" size="578,563" font="epg_info;29" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" transparent="1" valign="top">
+			<convert type="EventName">ExtendedDescription</convert>
+		</widget>
+		<widget source="Service" render="Label" position="1238,836" size="120,36" font="epg_text;29" halign="left" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="ServiceTime">Duration</convert>
+			<convert type="ClockToText">InMinutes</convert>
+		</widget>
+		<widget source="Service" render="Label" position="1515,836" size="300,36" font="epg_text;29" halign="right" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="MovieInfo">FileSize</convert>
+		</widget>
+		<panel name="template1_2layer" />
+		<panel name="rgyb-buttons_template1" />
+		<panel name="rgyb-keys_template1-source" />
+		<panel name="ime-buttons_template1" />
+	</screen>
+	<screen name="MovieSelection_right">
+		<panel name="SkinDesign-s" />
+		<eLabel text="Movie Center" position="636,75" size="1185,75" noWrap="1" valign="bottom" font="global_title;51" foregroundColor="layer-a-title-foreground" backgroundColor="layer-a-background" transparent="1" />
+		<eLabel text="Movie Center" position="8,803" size="1920,300" font="global_large_screen;150" noWrap="0" backgroundColor="text-background" transparent="1" foregroundColor="background-text" valign="bottom" zPosition="-50" />
+		<widget name="list" position="636,158" size="1188,765" scrollbarMode="showNever" font="epg_text;30" itemHeight="45" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" backgroundColorSelected="layer-a-selection-background" foregroundColorSelected="layer-a-selection-foreground" transparent="1" />
+		<widget name="waitingtext" position="636,525" size="1188,45" zPosition="1" font="epg_text;36" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" halign="center" valign="center" transparent="0"/>
+		<widget name="freeDiskSpace" position="636,75" size="1188,75" font="epg_text;33" valign="bottom" halign="right" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" transparent="1" />
+		<widget source="Service" render="Label" position="90,90" noWrap="0" valign="center" halign="center" size="483,90" font="epg_event;36" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" transparent="1">
+			<convert type="MovieInfo">ShortDescription</convert>
+		</widget>
+		<widget source="Service" render="Label" position="90,180" size="483,36" font="epg_text;29" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="MovieInfo">RecordServiceName</convert>
+		</widget>
+		<widget source="Service" render="MetrixHDRunningText" options="movetype=none,startdelay=600,steptime=60,direction=top,startpoint=0,wrap=1,always=0,repeat=2,oneshot=1" position="90,233" size="483,563" font="epg_info;29" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" transparent="1" valign="top">
+			<convert type="EventName">ExtendedDescription</convert>
+		</widget>
+		<widget source="Service" render="Label" position="90,818" size="150,36" font="epg_text;29" halign="left" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="ServiceTime">Duration</convert>
+			<convert type="ClockToText">InMinutes</convert>
+		</widget>
+		<widget source="Service" render="Label" position="423,818" size="150,36" font="epg_text;29" halign="right" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="MovieInfo">FileSize</convert>
+		</widget>
+		<panel name="SCREEN_BACKGROUND_2COLUMN_FOCUSRIGHT_screen_pos0_0_size_1280_720" />
+		<panel name="rgyb-buttons_screen_pos416_51_size_810_619" />
+		<widget source="key_red" render="Label" position="680,950" size="210,45" zPosition="1" valign="center" font="global_button;30" halign="left" backgroundColor="layer-a-background" foregroundColor="layer-a-button-foreground" transparent="1" />
+		<widget source="key_green" render="Label" position="956,950" size="195,45" zPosition="1" valign="center" font="global_button;30" halign="left" backgroundColor="layer-a-background" foregroundColor="layer-a-button-foreground" transparent="1" />
+		<widget source="key_yellow" render="Label" position="1215,950" size="195,45" zPosition="1" valign="center" font="global_button;30" halign="left" backgroundColor="layer-a-background" foregroundColor="layer-a-button-foreground" transparent="1" />
+		<widget source="key_blue" render="Label" position="1472,950" size="195,45" zPosition="1" valign="center" font="global_button;30" halign="left" backgroundColor="layer-a-background" foregroundColor="layer-a-button-foreground" transparent="1" />
+		<ePixmap name="menu_button" position="1688,945" size="122,60" pixmap="buttons/menu.png" />
+	</screen>
+	<screen name="MovieSelectionSlim" position="0,0" size="1920,1080" title="Select a movie" flags="wfNoBorder" backgroundColor="transparent">
+		<panel name="MovieSelection_left"/>
+	</screen>
+	<screen name="MovieSelection_PIG" position="0,0" size="1920,1080" title="Select a movie" flags="wfNoBorder" backgroundColor="transparent">
+		<eLabel text="Movie Center" position="87,54" size="788,75" noWrap="1" valign="bottom" font="global_title;51" foregroundColor="layer-a-title-foreground" backgroundColor="layer-a-background" transparent="1" />
+		<eLabel text="Movie Center" position="8,803" size="1920,300" font="global_large_screen;150" noWrap="0" backgroundColor="text-background" transparent="1" foregroundColor="background-text" valign="bottom" zPosition="-50" />
+		<widget name="list" position="105,195" size="900,750" scrollbarMode="showNever" font="epg_text;30" itemHeight="45" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" backgroundColorSelected="layer-a-selection-background" foregroundColorSelected="layer-a-selection-foreground" transparent="1" />
+		<widget name="chosenletter" position="105,195" size="900,750" font="epg_text;150" foregroundColor="layer-b-accent1" halign="center" transparent="1" valign="center" zPosition="+1" />
+		<widget name="waitingtext" position="150,450" size="810,150" zPosition="1" font="epg_text;36" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" halign="center" valign="center" transparent="0"/>
+		<widget name="freeDiskSpace" position="105,143" size="1020,45" font="epg_text;33" valign="center" halign="left" backgroundColor="layer-a-background" foregroundColor="layer-a-foreground" transparent="1" />
+		<widget source="session.VideoPicture" render="Pig" position="1020,143" size="795,449" zPosition="3" backgroundColor="unff000000" />
+		<widget source="session.CurrentService" render="Label" position="1020,138" size="795,45" zPosition="4" font="epg_text;27"  halign="center" valign="top" noWrap="1" backgroundColor="transparent" foregroundColor="epg-event-foreground" borderColor="black" borderWidth="2" transparent="1">
+			<convert type="ServiceName">Name</convert>
+		</widget>
+		<eLabel position="1020,600" size="795,342" zPosition="1" backgroundColor="layer-b-background" />
+		<widget source="Service" render="Label" position="1028,600" noWrap="1" size="780,45" font="epg_text;33" zPosition="2" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" transparent="1">
+			<convert type="MovieInfo">ShortDescription</convert>
+		</widget>
+		<widget source="Service" render="Label" position="1028,639" size="780,36" font="epg_text;29" zPosition="2" backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="1">
+			<convert type="MovieInfo">RecordServiceName</convert>
+		</widget>
+		<widget source="Service" render="Label" position="1688,639" size="120,36" font="epg_text;29" halign="right" zPosition="2"  backgroundColor="layer-b-background" foregroundColor="layer-b-accent1" transparent="0">
+			<convert type="ServiceTime">Duration</convert>
+			<convert type="ClockToText">InMinutes</convert>
+		</widget>
+		<widget source="Service" render="MetrixHDRunningText" options="movetype=none,startdelay=600,steptime=60,direction=top,startpoint=0,wrap=1,always=0,repeat=2,oneshot=1" position="1028,678" size="780,260" font="epg_info;29" zPosition="2" backgroundColor="layer-b-background" foregroundColor="layer-b-foreground" transparent="1" valign="top">
+			<convert type="EventName">ExtendedDescription</convert>
+		</widget>
+		<panel name="template1_1layer" />
+		<panel name="rgyb-buttons_template1" />
+		<panel name="rgyb-keys_template1-source" />
+		<ePixmap position="1425,953" size="122,60" zPosition="10" pixmap="buttons/info.png" transparent="1" alphatest="blend" />
+		<ePixmap position="1568,953" size="122,60" zPosition="10" pixmap="buttons/menu.png" transparent="1" alphatest="blend" />
+		<ePixmap position="1710,953" size="122,60" zPosition="10" pixmap="buttons/key_exit.png" transparent="1" alphatest="blend" />
+	</screen>
+	<screen name="MovieListTags" position="0,0" size="1920,1080" title="Please select tag to filter..." flags="wfNoBorder" backgroundColor="transparent">
+		<panel name="ChoiceBox"/>
+	</screen>
+	<!-- MovieSelection -->
+	<screen name="MovieSelection" position="0,0" size="1920,1080" title="Select a movie" flags="wfNoBorder" backgroundColor="transparent">
+		<panel name="MovieSelection_left"/>
+	</screen>
+	<!-- MoviePlayer -->
+	<screen name="MoviePlayer" position="0,0" size="1920,1080" title="InfoBar" flags="wfNoBorder" backgroundColor="transparent">
+		<panel name="MoviePlayer_2" />
+		<panel name="MoviePlayer_2_time" />
+		<panel name="CLOCKWIDGET" />
+		<panel name="MOVIENAME" />
+		<panel name="COLORGRADIENT_bottom_MB" />
+		<!--panel name="STBINFOMOVIEPLAYER" /-->
+		<!--panel name="STBINFO" /-->
+		<panel name="SKINPART_movieplayer"/>
+	</screen>
+</skin>

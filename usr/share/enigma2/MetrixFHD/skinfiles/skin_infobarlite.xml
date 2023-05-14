@@ -1,0 +1,11 @@
+<skin>
+<!-- cf#_#start -->
+	<screen name="InfoBarLite" backgroundColor="transparent" flags="wfNoBorder" position="0,15" size="1920,1080" title="InfoBar">
+		<panel name="INFOBARKEYSNONVISIBLE" />
+		<panel name="INFOBARSTYLEMODERN" />
+		<!--panel name="INFOBARCHANNELNAME" />
+		<panel name="INFOBARSERVICEINFO" />
+		<panel name="INFOBARRECORDSTATE" />
+		<panel name="INFOBARTUNERINFO" /-->
+	</screen>
+</skin>

@@ -1,0 +1,7 @@
+<skin>
+<!-- cf#_#start -->
+	<screen name="ChannelSelection" position="0,0" size="1920,1080" title="Channel Selection" flags="wfNoBorder" backgroundColor="transparent">
+		<panel name="CHANNELSELECTION-1" />
+		<panel name="SKINPART_channelselection" />
+	</screen>
+</skin>
